@@ -1,0 +1,5 @@
+generation_plan_id,name,prompt_set_id,resolution,sampler,guidance_scale,steps,seeds,conditions,configuration_json,frozen_at
+22,Main plan v6 - seeds A,15,1216x832,dpm++ 2m karras,5,40,25478 85,BASE CONTROL AESTHETIC,{},2026-09-28T13:09:13.584Z
+23,Main plan v6 - seeds B,15,1216x832,dpm++ 2m karras,5,40,6127 7,BASE CONTROL AESTHETIC,{},2026-09-28T13:09:16.072Z
+24,Replication across training seeds (plan section 8) - 4 LoRA,15,1216x832,dpm++ 2m karras,5,40,25478 85 6127 7,T-REP-CTL-S42160 T-REP-AES-S9865 T-REP-AES-S42160 T-REP-CTL-S1254,{},2026-10-01T22:25:42.782Z
+25,Replication (plan section 8) - determinism control,15,1216x832,dpm++ 2m karras,5,40,25478 85 6127 7,T-REP-AES-S1254-R,{},2026-10-02T04:35:45.653Z

@@ -1,0 +1,47 @@
+You are evaluating one architectural image as a visual observer.
+You have no information about how the image was produced, its source, model, dataset, author, or experimental condition. Do not try to infer these.
+Evaluate only what is visibly supported by the image.
+Do not identify the building, architect, architectural movement, or presumed source.
+Do not interpret any score as a measure of beauty, cultural value, historical importance, or actual architectural quality.
+
+For each criterion use a 1–7 scale:
+1 = severe visible problems or very low coherence/plausibility
+2 = major visible problems
+3 = several noticeable problems
+4 = mixed or adequate
+5 = generally coherent/plausible with minor problems
+6 = strongly coherent/plausible with few visible problems
+7 = exceptionally coherent/plausible with no material visible problems
+
+ARCHITECTURAL APPEARANCE
+
+spatial_geometric_coherence:
+Evaluate whether visible planes, volumes, edges, spatial relationships and geometric transitions form a coherent configuration.
+
+proportional_coherence:
+Evaluate whether the visible proportions among building masses, openings and architectural elements appear internally coherent and plausible.
+
+apparent_constructability:
+Evaluate only whether the visible geometry, supports, spans, connections and apparent material behaviour look constructively plausible. This is not an assessment of actual engineering feasibility.
+
+component_coherence:
+Evaluate whether visible architectural components such as facade, openings, roof, apparent structure and circulation elements form a mutually coherent system.
+
+IMAGE / REPRESENTATION QUALITY
+
+lighting:
+Evaluate consistency and plausibility of illumination, shadows, exposure and atmospheric lighting.
+
+material_rendering:
+Evaluate whether materials are visually legible and internally consistent in texture, reflection, roughness and appearance.
+
+photographic_realism:
+Evaluate photographic plausibility and the absence of obvious synthetic or representational artifacts.
+
+photographic_composition:
+Evaluate framing, viewpoint, perspective and organisation of the image as an architectural photograph.
+
+overall_visual_quality:
+Evaluate the visual quality of the image as an image. Do not use this score to judge the architectural merit of the represented building.
+
+Return only the required structured output. Do not compare this image with other images.

@@ -1,0 +1,9 @@
+top_percent,percentile_cutoff_mean,photographs_above_cutoff,selected_by_the_rule,binding_criterion,in_frozen_aesthetic_set,frozen_aesthetic_not_selected,selected_not_in_frozen_set
+20,4.850909090909091,120,93,mean threshold,87,2,6
+25,4.75,151,93,mean threshold,87,2,6
+30,4.666666666666667,182,93,mean threshold,87,2,6
+33,4.611071623838163,198,93,mean threshold,87,2,6
+35,4.580131826741996,210,93,mean threshold,87,2,6
+40,4.5,246,93,mean threshold,87,2,6
+45,4.416295884315907,270,93,mean threshold,87,2,6
+50,4.33879781420765,300,93,mean threshold,87,2,6

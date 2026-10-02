@@ -1,0 +1,16 @@
+{
+ "id": 2,
+ "code": "ARCH300",
+ "name": "Investigating Aesthetic Transfer in Generative Models for Architectural Design (pilot)",
+ "description": "A Pilot Study on Consensus-Based Fine-Tuning and Human Evaluation. Consensus-based aesthetic evaluation of a corpus of 300 architectural works (Wikimedia Commons), fine-tuning of a generative image model on the photographs selected by the consensus, and blind human evaluation of the generated images.",
+ "researchQuestion": "Is there a shared aesthetic judgement of architecture, and how much of it can a generative image model absorb and transfer into the architectural designs it generates when fine-tuned on photographs selected by consensus? The pilot study measures: (1) the consensus among raters; (2) the aesthetic transfer, comparing images from the model fine-tuned on the preferred photographs (AESTHETIC) with those from the model fine-tuned on randomly chosen photographs (CONTROL) and from the starting model (BASE), through blind ratings and pairwise choices; (3) whether the raters who built the consensus recognise it in the generated images; (4) the reliability of human evaluation; (5) the sample size needed for a full study.",
+ "hypothesis": "Exploratory pilot study: it does not test a single hypothesis but estimates effects with their uncertainty. Starting expectation: if fine-tuning transfers the aesthetic judgement of the consensus, AESTHETIC images should be rated higher than CONTROL images and preferred in pairwise choices, with a stronger effect among phase-1 participants. A difference below 0.3 points on the 1–7 scale is considered negligible. The results serve to estimate the effect size and to design a full study.",
+ "protocolVersion": 4,
+ "protocolFrozenAt": "2026-09-25T14:20:57.9436513",
+ "status": "Analysis",
+ "createdAt": "2026-09-25T13:30:05.4175204",
+ "startedAt": "2026-09-25T14:20:57.9436513",
+ "closedAt": null,
+ "isPublic": true,
+ "exportedAt": "2026-10-02T05:36:52.1852957Z"
+}

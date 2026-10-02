@@ -1,0 +1,96 @@
+part,analysis,embedding,estimate,ci_low,ci_high,p,n
+primary,"D: AESTHETIC − CONTROL along the frozen direction, training seed A = 1254",cls,0.04350469479490654,0.027195857157655188,0.06116203603859063,,192.0
+primary,"D, cells shown to the participants only, training seed A = 1254",cls,0.04562173702574729,0.02716009637347121,0.06494498849290856,,159.0
+primary,"embedding transfer ratio D / gap, training seed A = 1254",cls,0.1849462991084253,0.11561449071419722,0.2600108393956099,,192.0
+primary,"D: AESTHETIC − CONTROL along the frozen direction, training seed B = 9865",cls,0.04124967010370402,0.02545169139105991,0.05784384954609357,,192.0
+primary,"D, cells shown to the participants only, training seed B = 9865",cls,0.043100578544803765,0.026285344941199183,0.060540665220194016,,159.0
+primary,"embedding transfer ratio D / gap, training seed B = 9865",cls,0.17535978268756183,0.10819972766197662,0.2459046305270731,,192.0
+primary,"D: AESTHETIC − CONTROL along the frozen direction, training seed C = 42160",cls,0.05044890041669466,0.03544638145046609,0.06738358982824194,,192.0
+primary,"D, cells shown to the participants only, training seed C = 42160",cls,0.049424578108542595,0.033960329168896235,0.0670584776401251,,159.0
+primary,"embedding transfer ratio D / gap, training seed C = 42160",cls,0.2144673688700272,0.15068895660467357,0.28645978596389443,,192.0
+primary,criterion met (1 = the three contrasts are positive and each interval excludes zero),cls,1.0,,,,3.0
+primary,mean of the paired contrasts,cls,0.04506775510510174,0.04124967010370402,0.05044890041669466,,3.0
+primary,standard deviation of the paired contrasts across training seeds,cls,0.004794666592980384,,,,3.0
+primary,original unpaired contrast (AESTHETIC seed A − CONTROL seed B),cls,0.04151986776935836,0.027800535335246075,0.05701617720726796,,192.0
+seed effect,AESTHETIC: training seed A − B along the frozen direction,cls,0.0002701976656543402,-0.010011913233872825,0.010954283442639216,,192.0
+seed effect,AESTHETIC: training seed A − C along the frozen direction,cls,0.009602169965178386,-0.0006820003411884345,0.021323179687438083,,192.0
+seed effect,AESTHETIC: training seed B − C along the frozen direction,cls,0.009331972299524047,-0.0027679830267585753,0.022568719274718606,,192.0
+seed effect,CONTROL: training seed A − B along the frozen direction,cls,-0.001984827025548176,-0.013578781090735478,0.009345474411882588,,192.0
+seed effect,CONTROL: training seed A − C along the frozen direction,cls,0.01654637558696651,0.0052787760950032,0.027939897243666113,,192.0
+seed effect,CONTROL: training seed B − C along the frozen direction,cls,0.018531202612514678,0.006237381302662937,0.03200710699652723,,192.0
+seed effect,R = mean |corpus contrast| / mean |between-seed difference|,cls,4.805796565695355,,,,
+seed effect,per cell: mean |projection difference| when only the corpus changes,cls,0.06787556620595803,0.05554981893410961,0.08145432253685658,,192.0
+seed effect,per cell: mean |projection difference| when only the training seed changes,cls,0.052338682331818744,0.045120546622761194,0.059486914985094466,,192.0
+seed effect,per cell: embedding distance between images when only the corpus changes,cls,0.6804402284645826,0.6518920966673042,0.7100737209475446,,192.0
+seed effect,per cell: embedding distance between images when only the training seed changes,cls,0.6288807601564829,0.6032405628258746,0.6543279260483578,,192.0
+variance,standard deviation of the means: corpus,cls,0.03186771524767208,,,,
+variance,standard deviation of the means: training_seed,cls,0.007807696268515206,,,,
+variance,standard deviation of the means: corpus_x_seed,cls,0.0021442400862702895,,,,
+variance,standard deviation of the means: prompt,cls,0.20641921517545134,,,,
+variance,standard deviation of the means: generation_seed_within_prompt,cls,0.0498222591629123,,,,
+variance,standard deviation of the means: residual,cls,0.053886536295660675,,,,
+sensitivity,"amount of shift ‖Δ‖, AESTHETIC − CONTROL, training seed A",cls,-0.007677451974376981,-0.03468818504505462,0.019383104396987642,,192.0
+sensitivity,"direction of shift (cosine), AESTHETIC − CONTROL, training seed A",cls,0.0576465318268315,0.037297883257035536,0.0794051120164567,,192.0
+sensitivity,"share of the contrast due to direction, training seed A",cls,0.9683810102637892,,,,192.0
+sensitivity,"specificity, training seed A",cls,0.056815400041898535,0.03498761808765918,0.0807372986413717,,192.0
+sensitivity,"amount of shift ‖Δ‖, AESTHETIC − CONTROL, training seed B",cls,-0.019314890642652793,-0.04605067851811635,0.006421851481879578,,192.0
+sensitivity,"direction of shift (cosine), AESTHETIC − CONTROL, training seed B",cls,0.056315640924042266,0.0362066018892602,0.07725313151848745,,192.0
+sensitivity,"share of the contrast due to direction, training seed B",cls,0.9603075587531149,,,,192.0
+sensitivity,"specificity, training seed B",cls,0.0544658857490176,0.033048962872052765,0.0770822147717747,,192.0
+sensitivity,"amount of shift ‖Δ‖, AESTHETIC − CONTROL, training seed C",cls,0.028354535126479535,0.008914185474800983,0.04722352826048212,,192.0
+sensitivity,"direction of shift (cosine), AESTHETIC − CONTROL, training seed C",cls,0.06769609713701401,0.048411464668605964,0.08930561963395031,,192.0
+sensitivity,"share of the contrast due to direction, training seed C",cls,0.9423914051729657,,,,192.0
+sensitivity,"specificity, training seed C",cls,0.07244243817613744,0.05197762041390273,0.09545707104773682,,192.0
+determinism,"same corpus, same training seed, trained twice: embedding distance between the two images of a cell",cls,0.32087386025742237,0.2966260860922791,0.34573952332629126,,192.0
+determinism,"same corpus, same training seed, trained twice: |projection difference| per cell",cls,0.021915284996509615,0.017689865461506932,0.02660040656286628,,192.0
+determinism,"same corpus, same training seed, trained twice: signed projection difference (repeat − original)",cls,-0.0020969737284664363,-0.007367850518496948,0.003087520157998917,,192.0
+determinism,share of cells with identical embedding,cls,0.0,,,,192.0
+proxy,"predicted rating AESTHETIC − CONTROL (photo-trained predictor), training seed A",cls,0.11678236840005347,0.07615396909650314,0.1565066119086136,,192.0
+proxy,"predicted rating AESTHETIC − CONTROL (photo-trained predictor), training seed B",cls,0.11318742861081954,0.06965373312139828,0.16124675285579854,,192.0
+proxy,"predicted rating AESTHETIC − CONTROL (photo-trained predictor), training seed C",cls,0.10143725369400798,0.061584318577693524,0.14485967378881634,,192.0
+primary,"D: AESTHETIC − CONTROL along the frozen direction, training seed A = 1254",patch_mean,0.034714458937869924,0.022229499216733936,0.048002187773224604,,192.0
+primary,"D, cells shown to the participants only, training seed A = 1254",patch_mean,0.03873048139389765,0.025193861378185706,0.052687283218417674,,159.0
+primary,"embedding transfer ratio D / gap, training seed A = 1254",patch_mean,0.19984267822691995,0.1279698084036425,0.2763368941604865,,192.0
+primary,"D: AESTHETIC − CONTROL along the frozen direction, training seed B = 9865",patch_mean,0.04066679168993919,0.02639218495638172,0.056560816230295546,,192.0
+primary,"D, cells shown to the participants only, training seed B = 9865",patch_mean,0.04048134941471623,0.024342051695210837,0.05809643687982384,,159.0
+primary,"embedding transfer ratio D / gap, training seed B = 9865",patch_mean,0.23410880696020347,0.15193337552468214,0.32560683196569135,,192.0
+primary,"D: AESTHETIC − CONTROL along the frozen direction, training seed C = 42160",patch_mean,0.05052569278520003,0.03590230847488484,0.06565585215473556,,192.0
+primary,"D, cells shown to the participants only, training seed C = 42160",patch_mean,0.04943821330540752,0.03513597050335565,0.06557666844465329,,159.0
+primary,"embedding transfer ratio D / gap, training seed C = 42160",patch_mean,0.29086409739343333,0.20668083846535326,0.3779647368076808,,192.0
+primary,criterion met (1 = the three contrasts are positive and each interval excludes zero),patch_mean,1.0,,,,3.0
+primary,mean of the paired contrasts,patch_mean,0.04196898113766972,0.034714458937869924,0.05052569278520003,,3.0
+primary,standard deviation of the paired contrasts across training seeds,patch_mean,0.00798564662141237,,,,3.0
+primary,original unpaired contrast (AESTHETIC seed A − CONTROL seed B),patch_mean,0.04993123913945263,0.03670984552580044,0.063880389695541,,192.0
+seed effect,AESTHETIC: training seed A − B along the frozen direction,patch_mean,0.009264447449513446,-0.000496135385507819,0.019151980581073234,,192.0
+seed effect,AESTHETIC: training seed A − C along the frozen direction,patch_mean,0.0060167332476033395,-0.003289936445787572,0.015507127742790708,,192.0
+seed effect,AESTHETIC: training seed B − C along the frozen direction,patch_mean,-0.0032477142019101085,-0.014355040357255607,0.007740085347541756,,192.0
+seed effect,CONTROL: training seed A − B along the frozen direction,patch_mean,0.01521678020158271,0.005027807460647232,0.02547533900111337,,192.0
+seed effect,CONTROL: training seed A − C along the frozen direction,patch_mean,0.021827967094933436,0.01303418696185646,0.030625299747309504,,192.0
+seed effect,CONTROL: training seed B − C along the frozen direction,patch_mean,0.006611186893350726,-0.0041785336163647395,0.01640239620154984,,192.0
+seed effect,R = mean |corpus contrast| / mean |between-seed difference|,patch_mean,4.049442452692893,,,,
+seed effect,per cell: mean |projection difference| when only the corpus changes,patch_mean,0.06405242167897648,0.054104498298041995,0.07432465245012458,,192.0
+seed effect,per cell: mean |projection difference| when only the training seed changes,patch_mean,0.048818725235940864,0.04351840744284453,0.05442487642283912,,192.0
+seed effect,per cell: embedding distance between images when only the corpus changes,patch_mean,0.5326595978279619,0.5103302919511657,0.5545660196566355,,192.0
+seed effect,per cell: embedding distance between images when only the training seed changes,patch_mean,0.48438995884220953,0.46409125502228255,0.5036577064683865,,192.0
+variance,standard deviation of the means: corpus,patch_mean,0.029676551161936585,,,,
+variance,standard deviation of the means: training_seed,patch_mean,0.007599262006429017,,,,
+variance,standard deviation of the means: corpus_x_seed,patch_mean,0.0035712897379539164,,,,
+variance,standard deviation of the means: prompt,patch_mean,0.1800490662809029,,,,
+variance,standard deviation of the means: generation_seed_within_prompt,patch_mean,0.046703449805926535,,,,
+variance,standard deviation of the means: residual,patch_mean,0.04749370731371207,,,,
+sensitivity,"amount of shift ‖Δ‖, AESTHETIC − CONTROL, training seed A",patch_mean,0.009391895920998207,-0.012157382792487187,0.03202647223903325,,192.0
+sensitivity,"direction of shift (cosine), AESTHETIC − CONTROL, training seed A",patch_mean,0.06005605632921605,0.04119371456180198,0.08000604986463374,,192.0
+sensitivity,"share of the contrast due to direction, training seed A",patch_mean,0.9895944370613303,,,,192.0
+sensitivity,"specificity, training seed A",patch_mean,0.04124514471845845,0.025835412463629335,0.05731670703343139,,192.0
+sensitivity,"amount of shift ‖Δ‖, AESTHETIC − CONTROL, training seed B",patch_mean,-0.0101176877575345,-0.030022841487810856,0.008459395725396918,,192.0
+sensitivity,"direction of shift (cosine), AESTHETIC − CONTROL, training seed B",patch_mean,0.06661837404499933,0.044152518897912774,0.09196174157036298,,192.0
+sensitivity,"share of the contrast due to direction, training seed B",patch_mean,0.9607108514822327,,,,192.0
+sensitivity,"specificity, training seed B",patch_mean,0.050994113275154435,0.03309561934317045,0.06992422957218745,,192.0
+sensitivity,"amount of shift ‖Δ‖, AESTHETIC − CONTROL, training seed C",patch_mean,0.03809933635159853,0.021028514703950157,0.05487271330056286,,192.0
+sensitivity,"direction of shift (cosine), AESTHETIC − CONTROL, training seed C",patch_mean,0.08654087862413384,0.06365285552645018,0.11114310907580578,,192.0
+sensitivity,"share of the contrast due to direction, training seed C",patch_mean,0.9832222303016263,,,,192.0
+sensitivity,"specificity, training seed C",patch_mean,0.061318113271365327,0.04445762990363007,0.07908355786029957,,192.0
+determinism,"same corpus, same training seed, trained twice: embedding distance between the two images of a cell",patch_mean,0.2378903747560656,0.2191278684903661,0.25666598388792106,,192.0
+determinism,"same corpus, same training seed, trained twice: |projection difference| per cell",patch_mean,0.022318672709171993,0.018122956951903132,0.02715447322407381,,192.0
+determinism,"same corpus, same training seed, trained twice: signed projection difference (repeat − original)",patch_mean,-0.006115024888238144,-0.011624829860255027,-0.0013896041032787517,,192.0
+determinism,share of cells with identical embedding,patch_mean,0.0,,,,192.0

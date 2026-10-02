@@ -1,0 +1,156 @@
+{
+ "url": "https://api.anthropic.com/v1/messages",
+ "body": {
+  "model": "claude-opus-5-5",
+  "max_tokens": 4096,
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "image",
+      "source": {
+       "type": "base64",
+       "media_type": "image/jpeg",
+       "data": ""
+      }
+     },
+     {
+      "type": "text",
+      "text": "You are evaluating one architectural image as a visual observer.\nYou have no information about how the image was produced, its source, model, dataset, author, or experimental condition. Do not try to infer these.\nEvaluate only what is visibly supported by the image.\nDo not identify the building, architect, architectural movement, or presumed source.\nDo not interpret any score as a measure of beauty, cultural value, historical importance, or actual architectural quality.\n\nFor each criterion use a 1–7 scale:\n1 = severe visible problems or very low coherence/plausibility\n2 = major visible problems\n3 = several noticeable problems\n4 = mixed or adequate\n5 = generally coherent/plausible with minor problems\n6 = strongly coherent/plausible with few visible problems\n7 = exceptionally coherent/plausible with no material visible problems\n\nARCHITECTURAL APPEARANCE\n\nspatial_geometric_coherence:\nEvaluate whether visible planes, volumes, edges, spatial relationships and geometric transitions form a coherent configuration.\n\nproportional_coherence:\nEvaluate whether the visible proportions among building masses, openings and architectural elements appear internally coherent and plausible.\n\napparent_constructability:\nEvaluate only whether the visible geometry, supports, spans, connections and apparent material behaviour look constructively plausible. This is not an assessment of actual engineering feasibility.\n\ncomponent_coherence:\nEvaluate whether visible architectural components such as facade, openings, roof, apparent structure and circulation elements form a mutually coherent system.\n\nIMAGE / REPRESENTATION QUALITY\n\nlighting:\nEvaluate consistency and plausibility of illumination, shadows, exposure and atmospheric lighting.\n\nmaterial_rendering:\nEvaluate whether materials are visually legible and internally consistent in texture, reflection, roughness and appearance.\n\nphotographic_realism:\nEvaluate photographic plausibility and the absence of obvious synthetic or representational artifacts.\n\nphotographic_composition:\nEvaluate framing, viewpoint, perspective and organisation of the image as an architectural photograph.\n\noverall_visual_quality:\nEvaluate the visual quality of the image as an image. Do not use this score to judge the architectural merit of the represented building.\n\nReturn only the required structured output. Do not compare this image with other images."
+     }
+    ]
+   }
+  ],
+  "output_config": {
+   "format": {
+    "type": "json_schema",
+    "schema": {
+     "type": "object",
+     "properties": {
+      "spatial_geometric_coherence": {
+       "type": "integer",
+       "enum": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+       ]
+      },
+      "proportional_coherence": {
+       "type": "integer",
+       "enum": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+       ]
+      },
+      "apparent_constructability": {
+       "type": "integer",
+       "enum": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+       ]
+      },
+      "component_coherence": {
+       "type": "integer",
+       "enum": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+       ]
+      },
+      "lighting": {
+       "type": "integer",
+       "enum": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+       ]
+      },
+      "material_rendering": {
+       "type": "integer",
+       "enum": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+       ]
+      },
+      "photographic_realism": {
+       "type": "integer",
+       "enum": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+       ]
+      },
+      "photographic_composition": {
+       "type": "integer",
+       "enum": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+       ]
+      },
+      "overall_visual_quality": {
+       "type": "integer",
+       "enum": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+       ]
+      }
+     },
+     "required": [
+      "spatial_geometric_coherence",
+      "proportional_coherence",
+      "apparent_constructability",
+      "component_coherence",
+      "lighting",
+      "material_rendering",
+      "photographic_realism",
+      "photographic_composition",
+      "overall_visual_quality"
+     ],
+     "additionalProperties": false
+    }
+   }
+  }
+ }
+}

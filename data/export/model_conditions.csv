@@ -1,0 +1,9 @@
+model_condition_id,code,name,type,base_model,base_model_revision,training_run,training_dataset
+9,AESTHETIC,AESTHETIC,Aesthetic,stabilityai/stable-diffusion-xl-base-1.0,462165984030d82259a11f4367a4eed129e94a7b,RUN-AESTHETIC-4,AESTHETIC-v2
+7,BASE,BASE,Base,stabilityai/stable-diffusion-xl-base-1.0,462165984030d82259a11f4367a4eed129e94a7b,,
+8,CONTROL,CONTROL,Control,stabilityai/stable-diffusion-xl-base-1.0,462165984030d82259a11f4367a4eed129e94a7b,RUN-CONTROL-4,CONTROL-v2
+24,T-REP-AES-S1254-R,"test: REP-AES-S1254-R (AESTHETIC-v2, 1500 steps, lr 0.0001)",Other,stabilityai/stable-diffusion-xl-base-1.0,462165984030d82259a11f4367a4eed129e94a7b,REP-AES-S1254-R,AESTHETIC-v2
+22,T-REP-AES-S42160,"test: REP-AES-S42160 (AESTHETIC-v2, 1500 steps, lr 0.0001)",Other,stabilityai/stable-diffusion-xl-base-1.0,462165984030d82259a11f4367a4eed129e94a7b,REP-AES-S42160,AESTHETIC-v2
+21,T-REP-AES-S9865,"test: REP-AES-S9865 (AESTHETIC-v2, 1500 steps, lr 0.0001)",Other,stabilityai/stable-diffusion-xl-base-1.0,462165984030d82259a11f4367a4eed129e94a7b,REP-AES-S9865,AESTHETIC-v2
+23,T-REP-CTL-S1254,"test: REP-CTL-S1254 (CONTROL-v2, 1500 steps, lr 0.0001)",Other,stabilityai/stable-diffusion-xl-base-1.0,462165984030d82259a11f4367a4eed129e94a7b,REP-CTL-S1254,CONTROL-v2
+20,T-REP-CTL-S42160,"test: REP-CTL-S42160 (CONTROL-v2, 1500 steps, lr 0.0001)",Other,stabilityai/stable-diffusion-xl-base-1.0,462165984030d82259a11f4367a4eed129e94a7b,REP-CTL-S42160,CONTROL-v2

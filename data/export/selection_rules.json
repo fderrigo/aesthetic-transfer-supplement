@@ -1,0 +1,18 @@
+[
+  {
+    "id": 4,
+    "name": "Aesthetic",
+    "version": 1,
+    "description": "",
+    "createdAt": "2026-09-27T13:35:17.4850824",
+    "frozenAt": "2026-09-27T13:36:59.4022261",
+    "rule": {
+      "minimumRatings": 10,
+      "topPercentile": 35,
+      "meanThreshold": 5,
+      "maxStandardDeviation": null,
+      "maxImages": null,
+      "applyQualityExclusions": true
+    }
+  }
+]

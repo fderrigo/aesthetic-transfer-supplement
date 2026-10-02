@@ -1,0 +1,9 @@
+analysis,quantity,estimate,ci_low,ci_high,p,n
+b. set predicted from the caption alone,cross-validated AUC (0.5 = chance),0.8477464966544628,0.7876949904882689,0.9013337405820396,0.000999000999000999,178.0
+b. set predicted from the caption alone,AUC with the labels exchanged: mean,0.49066973866936,0.3714966544628204,0.6039830829440728,,1000.0
+a. words,"caption length, AESTHETIC − CONTROL (words)",0.24719101123595522,,,0.8862618528508297,178.0
+a. words,words present in at least 5 captions,176.0,,,,
+a. words,words with different frequency in the two sets (Benjamini–Hochberg q < .05),4.0,,,,176.0
+a. words,words expected to reach p < .05 by chance,8.8,,,,176.0
+a. words,words with uncorrected p < .05,10.0,,,,176.0
+c. prompts,words with uncorrected p < .05 that also occur in the generation prompts,10.0,,,,10.0

@@ -1,0 +1,2139 @@
+section,group,condition,metric,value
+pretraining,images_rated,,count,600
+pretraining,ratings,,count,22712
+posttraining_rating_by_overall,all,AESTHETIC,n,3126
+posttraining_rating_by_overall,all,AESTHETIC,mean,3.929623
+posttraining_rating_by_overall,all,AESTHETIC,median,4
+posttraining_rating_by_overall,all,AESTHETIC,sd,1.737356
+posttraining_rating_by_overall,all,AESTHETIC,ci95_low,3.868695
+posttraining_rating_by_overall,all,AESTHETIC,ci95_high,3.99055
+posttraining_rating_by_overall,all,BASE,n,3134
+posttraining_rating_by_overall,all,BASE,mean,4.006382
+posttraining_rating_by_overall,all,BASE,median,4
+posttraining_rating_by_overall,all,BASE,sd,1.773648
+posttraining_rating_by_overall,all,BASE,ci95_low,3.944261
+posttraining_rating_by_overall,all,BASE,ci95_high,4.068502
+posttraining_rating_by_overall,all,CONTROL,n,3153
+posttraining_rating_by_overall,all,CONTROL,mean,3.863622
+posttraining_rating_by_overall,all,CONTROL,median,4
+posttraining_rating_by_overall,all,CONTROL,sd,1.756005
+posttraining_rating_by_overall,all,CONTROL,ci95_low,3.802305
+posttraining_rating_by_overall,all,CONTROL,ci95_high,3.924939
+posttraining_rating_by_prompt,A01,AESTHETIC,n,37
+posttraining_rating_by_prompt,A01,AESTHETIC,mean,4.648649
+posttraining_rating_by_prompt,A01,AESTHETIC,median,5
+posttraining_rating_by_prompt,A01,AESTHETIC,sd,1.531452
+posttraining_rating_by_prompt,A01,AESTHETIC,ci95_low,4.138037
+posttraining_rating_by_prompt,A01,AESTHETIC,ci95_high,5.15926
+posttraining_rating_by_prompt,A01,BASE,n,39
+posttraining_rating_by_prompt,A01,BASE,mean,4.230769
+posttraining_rating_by_prompt,A01,BASE,median,4
+posttraining_rating_by_prompt,A01,BASE,sd,1.693044
+posttraining_rating_by_prompt,A01,BASE,ci95_low,3.681948
+posttraining_rating_by_prompt,A01,BASE,ci95_high,4.77959
+posttraining_rating_by_prompt,A01,CONTROL,n,42
+posttraining_rating_by_prompt,A01,CONTROL,mean,4.02381
+posttraining_rating_by_prompt,A01,CONTROL,median,4
+posttraining_rating_by_prompt,A01,CONTROL,sd,1.334132
+posttraining_rating_by_prompt,A01,CONTROL,ci95_low,3.608065
+posttraining_rating_by_prompt,A01,CONTROL,ci95_high,4.439554
+posttraining_rating_by_prompt,A02,AESTHETIC,n,55
+posttraining_rating_by_prompt,A02,AESTHETIC,mean,3.927273
+posttraining_rating_by_prompt,A02,AESTHETIC,median,4
+posttraining_rating_by_prompt,A02,AESTHETIC,sd,1.451111
+posttraining_rating_by_prompt,A02,AESTHETIC,ci95_low,3.534982
+posttraining_rating_by_prompt,A02,AESTHETIC,ci95_high,4.319563
+posttraining_rating_by_prompt,A02,BASE,n,60
+posttraining_rating_by_prompt,A02,BASE,mean,3.533333
+posttraining_rating_by_prompt,A02,BASE,median,4
+posttraining_rating_by_prompt,A02,BASE,sd,1.770442
+posttraining_rating_by_prompt,A02,BASE,ci95_low,3.07598
+posttraining_rating_by_prompt,A02,BASE,ci95_high,3.990687
+posttraining_rating_by_prompt,A02,CONTROL,n,57
+posttraining_rating_by_prompt,A02,CONTROL,mean,4.350877
+posttraining_rating_by_prompt,A02,CONTROL,median,5
+posttraining_rating_by_prompt,A02,CONTROL,sd,1.663594
+posttraining_rating_by_prompt,A02,CONTROL,ci95_low,3.909466
+posttraining_rating_by_prompt,A02,CONTROL,ci95_high,4.792288
+posttraining_rating_by_prompt,A04,AESTHETIC,n,74
+posttraining_rating_by_prompt,A04,AESTHETIC,mean,3.959459
+posttraining_rating_by_prompt,A04,AESTHETIC,median,4
+posttraining_rating_by_prompt,A04,AESTHETIC,sd,2.016638
+posttraining_rating_by_prompt,A04,AESTHETIC,ci95_low,3.492242
+posttraining_rating_by_prompt,A04,AESTHETIC,ci95_high,4.426676
+posttraining_rating_by_prompt,A04,BASE,n,81
+posttraining_rating_by_prompt,A04,BASE,mean,3.938272
+posttraining_rating_by_prompt,A04,BASE,median,4
+posttraining_rating_by_prompt,A04,BASE,sd,2.169941
+posttraining_rating_by_prompt,A04,BASE,ci95_low,3.458458
+posttraining_rating_by_prompt,A04,BASE,ci95_high,4.418085
+posttraining_rating_by_prompt,A04,CONTROL,n,79
+posttraining_rating_by_prompt,A04,CONTROL,mean,3.949367
+posttraining_rating_by_prompt,A04,CONTROL,median,4
+posttraining_rating_by_prompt,A04,CONTROL,sd,1.934165
+posttraining_rating_by_prompt,A04,CONTROL,ci95_low,3.516138
+posttraining_rating_by_prompt,A04,CONTROL,ci95_high,4.382596
+posttraining_rating_by_prompt,A07,AESTHETIC,n,57
+posttraining_rating_by_prompt,A07,AESTHETIC,mean,4.438596
+posttraining_rating_by_prompt,A07,AESTHETIC,median,4
+posttraining_rating_by_prompt,A07,AESTHETIC,sd,1.625879
+posttraining_rating_by_prompt,A07,AESTHETIC,ci95_low,4.007193
+posttraining_rating_by_prompt,A07,AESTHETIC,ci95_high,4.87
+posttraining_rating_by_prompt,A07,BASE,n,59
+posttraining_rating_by_prompt,A07,BASE,mean,4.254237
+posttraining_rating_by_prompt,A07,BASE,median,4
+posttraining_rating_by_prompt,A07,BASE,sd,1.656682
+posttraining_rating_by_prompt,A07,BASE,ci95_low,3.822504
+posttraining_rating_by_prompt,A07,BASE,ci95_high,4.685971
+posttraining_rating_by_prompt,A07,CONTROL,n,58
+posttraining_rating_by_prompt,A07,CONTROL,mean,4.017241
+posttraining_rating_by_prompt,A07,CONTROL,median,4
+posttraining_rating_by_prompt,A07,CONTROL,sd,1.605816
+posttraining_rating_by_prompt,A07,CONTROL,ci95_low,3.595014
+posttraining_rating_by_prompt,A07,CONTROL,ci95_high,4.439469
+posttraining_rating_by_prompt,A08,AESTHETIC,n,86
+posttraining_rating_by_prompt,A08,AESTHETIC,mean,4.104651
+posttraining_rating_by_prompt,A08,AESTHETIC,median,4
+posttraining_rating_by_prompt,A08,AESTHETIC,sd,1.601683
+posttraining_rating_by_prompt,A08,AESTHETIC,ci95_low,3.76125
+posttraining_rating_by_prompt,A08,AESTHETIC,ci95_high,4.448053
+posttraining_rating_by_prompt,A08,BASE,n,80
+posttraining_rating_by_prompt,A08,BASE,mean,4.7375
+posttraining_rating_by_prompt,A08,BASE,median,5
+posttraining_rating_by_prompt,A08,BASE,sd,1.498892
+posttraining_rating_by_prompt,A08,BASE,ci95_low,4.403938
+posttraining_rating_by_prompt,A08,BASE,ci95_high,5.071062
+posttraining_rating_by_prompt,A08,CONTROL,n,77
+posttraining_rating_by_prompt,A08,CONTROL,mean,4.25974
+posttraining_rating_by_prompt,A08,CONTROL,median,4
+posttraining_rating_by_prompt,A08,CONTROL,sd,1.445525
+posttraining_rating_by_prompt,A08,CONTROL,ci95_low,3.931646
+posttraining_rating_by_prompt,A08,CONTROL,ci95_high,4.587834
+posttraining_rating_by_prompt,A09,AESTHETIC,n,62
+posttraining_rating_by_prompt,A09,AESTHETIC,mean,3.467742
+posttraining_rating_by_prompt,A09,AESTHETIC,median,3
+posttraining_rating_by_prompt,A09,AESTHETIC,sd,1.596284
+posttraining_rating_by_prompt,A09,AESTHETIC,ci95_low,3.062362
+posttraining_rating_by_prompt,A09,AESTHETIC,ci95_high,3.873122
+posttraining_rating_by_prompt,A09,BASE,n,60
+posttraining_rating_by_prompt,A09,BASE,mean,3.383333
+posttraining_rating_by_prompt,A09,BASE,median,3
+posttraining_rating_by_prompt,A09,BASE,sd,1.668163
+posttraining_rating_by_prompt,A09,BASE,ci95_low,2.952401
+posttraining_rating_by_prompt,A09,BASE,ci95_high,3.814266
+posttraining_rating_by_prompt,A09,CONTROL,n,61
+posttraining_rating_by_prompt,A09,CONTROL,mean,3.47541
+posttraining_rating_by_prompt,A09,CONTROL,median,3
+posttraining_rating_by_prompt,A09,CONTROL,sd,1.478812
+posttraining_rating_by_prompt,A09,CONTROL,ci95_low,3.096668
+posttraining_rating_by_prompt,A09,CONTROL,ci95_high,3.854151
+posttraining_rating_by_prompt,A11,AESTHETIC,n,78
+posttraining_rating_by_prompt,A11,AESTHETIC,mean,4.423077
+posttraining_rating_by_prompt,A11,AESTHETIC,median,5
+posttraining_rating_by_prompt,A11,AESTHETIC,sd,1.607767
+posttraining_rating_by_prompt,A11,AESTHETIC,ci95_low,4.060581
+posttraining_rating_by_prompt,A11,AESTHETIC,ci95_high,4.785572
+posttraining_rating_by_prompt,A11,BASE,n,78
+posttraining_rating_by_prompt,A11,BASE,mean,4.974359
+posttraining_rating_by_prompt,A11,BASE,median,5
+posttraining_rating_by_prompt,A11,BASE,sd,1.64336
+posttraining_rating_by_prompt,A11,BASE,ci95_low,4.603839
+posttraining_rating_by_prompt,A11,BASE,ci95_high,5.344879
+posttraining_rating_by_prompt,A11,CONTROL,n,75
+posttraining_rating_by_prompt,A11,CONTROL,mean,4.88
+posttraining_rating_by_prompt,A11,CONTROL,median,5
+posttraining_rating_by_prompt,A11,CONTROL,sd,1.559279
+posttraining_rating_by_prompt,A11,CONTROL,ci95_low,4.521242
+posttraining_rating_by_prompt,A11,CONTROL,ci95_high,5.238758
+posttraining_rating_by_prompt,A13,AESTHETIC,n,63
+posttraining_rating_by_prompt,A13,AESTHETIC,mean,3.984127
+posttraining_rating_by_prompt,A13,AESTHETIC,median,4
+posttraining_rating_by_prompt,A13,AESTHETIC,sd,1.896449
+posttraining_rating_by_prompt,A13,AESTHETIC,ci95_low,3.506513
+posttraining_rating_by_prompt,A13,AESTHETIC,ci95_high,4.461741
+posttraining_rating_by_prompt,A13,BASE,n,57
+posttraining_rating_by_prompt,A13,BASE,mean,3.842105
+posttraining_rating_by_prompt,A13,BASE,median,4
+posttraining_rating_by_prompt,A13,BASE,sd,1.612335
+posttraining_rating_by_prompt,A13,BASE,ci95_low,3.414295
+posttraining_rating_by_prompt,A13,BASE,ci95_high,4.269915
+posttraining_rating_by_prompt,A13,CONTROL,n,61
+posttraining_rating_by_prompt,A13,CONTROL,mean,3.934426
+posttraining_rating_by_prompt,A13,CONTROL,median,4
+posttraining_rating_by_prompt,A13,CONTROL,sd,1.860724
+posttraining_rating_by_prompt,A13,CONTROL,ci95_low,3.457873
+posttraining_rating_by_prompt,A13,CONTROL,ci95_high,4.41098
+posttraining_rating_by_prompt,A15,AESTHETIC,n,21
+posttraining_rating_by_prompt,A15,AESTHETIC,mean,3.380952
+posttraining_rating_by_prompt,A15,AESTHETIC,median,3
+posttraining_rating_by_prompt,A15,AESTHETIC,sd,1.596126
+posttraining_rating_by_prompt,A15,AESTHETIC,ci95_low,2.654404
+posttraining_rating_by_prompt,A15,AESTHETIC,ci95_high,4.1075
+posttraining_rating_by_prompt,A15,BASE,n,22
+posttraining_rating_by_prompt,A15,BASE,mean,3.818182
+posttraining_rating_by_prompt,A15,BASE,median,4
+posttraining_rating_by_prompt,A15,BASE,sd,1.53177
+posttraining_rating_by_prompt,A15,BASE,ci95_low,3.139033
+posttraining_rating_by_prompt,A15,BASE,ci95_high,4.497331
+posttraining_rating_by_prompt,A15,CONTROL,n,20
+posttraining_rating_by_prompt,A15,CONTROL,mean,3.4
+posttraining_rating_by_prompt,A15,CONTROL,median,3
+posttraining_rating_by_prompt,A15,CONTROL,sd,1.667018
+posttraining_rating_by_prompt,A15,CONTROL,ci95_low,2.619812
+posttraining_rating_by_prompt,A15,CONTROL,ci95_high,4.180188
+posttraining_rating_by_prompt,A22,AESTHETIC,n,74
+posttraining_rating_by_prompt,A22,AESTHETIC,mean,3.162162
+posttraining_rating_by_prompt,A22,AESTHETIC,median,3
+posttraining_rating_by_prompt,A22,AESTHETIC,sd,1.471436
+posttraining_rating_by_prompt,A22,AESTHETIC,ci95_low,2.821258
+posttraining_rating_by_prompt,A22,AESTHETIC,ci95_high,3.503066
+posttraining_rating_by_prompt,A22,BASE,n,79
+posttraining_rating_by_prompt,A22,BASE,mean,3.417722
+posttraining_rating_by_prompt,A22,BASE,median,3
+posttraining_rating_by_prompt,A22,BASE,sd,1.653338
+posttraining_rating_by_prompt,A22,BASE,ci95_low,3.047394
+posttraining_rating_by_prompt,A22,BASE,ci95_high,3.788049
+posttraining_rating_by_prompt,A22,CONTROL,n,80
+posttraining_rating_by_prompt,A22,CONTROL,mean,2.9625
+posttraining_rating_by_prompt,A22,CONTROL,median,3
+posttraining_rating_by_prompt,A22,CONTROL,sd,1.487873
+posttraining_rating_by_prompt,A22,CONTROL,ci95_low,2.63139
+posttraining_rating_by_prompt,A22,CONTROL,ci95_high,3.29361
+posttraining_rating_by_prompt,A25,AESTHETIC,n,75
+posttraining_rating_by_prompt,A25,AESTHETIC,mean,5.653333
+posttraining_rating_by_prompt,A25,AESTHETIC,median,6
+posttraining_rating_by_prompt,A25,AESTHETIC,sd,1.428412
+posttraining_rating_by_prompt,A25,AESTHETIC,ci95_low,5.324686
+posttraining_rating_by_prompt,A25,AESTHETIC,ci95_high,5.981981
+posttraining_rating_by_prompt,A25,BASE,n,82
+posttraining_rating_by_prompt,A25,BASE,mean,5.573171
+posttraining_rating_by_prompt,A25,BASE,median,6
+posttraining_rating_by_prompt,A25,BASE,sd,1.457467
+posttraining_rating_by_prompt,A25,BASE,ci95_low,5.25293
+posttraining_rating_by_prompt,A25,BASE,ci95_high,5.893411
+posttraining_rating_by_prompt,A25,CONTROL,n,79
+posttraining_rating_by_prompt,A25,CONTROL,mean,5.164557
+posttraining_rating_by_prompt,A25,CONTROL,median,5
+posttraining_rating_by_prompt,A25,CONTROL,sd,1.596714
+posttraining_rating_by_prompt,A25,CONTROL,ci95_low,4.806912
+posttraining_rating_by_prompt,A25,CONTROL,ci95_high,5.522202
+posttraining_rating_by_prompt,A26,AESTHETIC,n,58
+posttraining_rating_by_prompt,A26,AESTHETIC,mean,3.982759
+posttraining_rating_by_prompt,A26,AESTHETIC,median,4
+posttraining_rating_by_prompt,A26,AESTHETIC,sd,1.594853
+posttraining_rating_by_prompt,A26,AESTHETIC,ci95_low,3.563413
+posttraining_rating_by_prompt,A26,AESTHETIC,ci95_high,4.402104
+posttraining_rating_by_prompt,A26,BASE,n,59
+posttraining_rating_by_prompt,A26,BASE,mean,4.254237
+posttraining_rating_by_prompt,A26,BASE,median,5
+posttraining_rating_by_prompt,A26,BASE,sd,1.707925
+posttraining_rating_by_prompt,A26,BASE,ci95_low,3.80915
+posttraining_rating_by_prompt,A26,BASE,ci95_high,4.699325
+posttraining_rating_by_prompt,A26,CONTROL,n,59
+posttraining_rating_by_prompt,A26,CONTROL,mean,3.457627
+posttraining_rating_by_prompt,A26,CONTROL,median,4
+posttraining_rating_by_prompt,A26,CONTROL,sd,1.850648
+posttraining_rating_by_prompt,A26,CONTROL,ci95_low,2.975346
+posttraining_rating_by_prompt,A26,CONTROL,ci95_high,3.939909
+posttraining_rating_by_prompt,A27,AESTHETIC,n,84
+posttraining_rating_by_prompt,A27,AESTHETIC,mean,4.011905
+posttraining_rating_by_prompt,A27,AESTHETIC,median,4
+posttraining_rating_by_prompt,A27,AESTHETIC,sd,1.624319
+posttraining_rating_by_prompt,A27,AESTHETIC,ci95_low,3.659406
+posttraining_rating_by_prompt,A27,AESTHETIC,ci95_high,4.364403
+posttraining_rating_by_prompt,A27,BASE,n,76
+posttraining_rating_by_prompt,A27,BASE,mean,4.236842
+posttraining_rating_by_prompt,A27,BASE,median,5
+posttraining_rating_by_prompt,A27,BASE,sd,1.795316
+posttraining_rating_by_prompt,A27,BASE,ci95_low,3.826595
+posttraining_rating_by_prompt,A27,BASE,ci95_high,4.647089
+posttraining_rating_by_prompt,A27,CONTROL,n,83
+posttraining_rating_by_prompt,A27,CONTROL,mean,4.096386
+posttraining_rating_by_prompt,A27,CONTROL,median,4
+posttraining_rating_by_prompt,A27,CONTROL,sd,1.729334
+posttraining_rating_by_prompt,A27,CONTROL,ci95_low,3.718775
+posttraining_rating_by_prompt,A27,CONTROL,ci95_high,4.473996
+posttraining_rating_by_prompt,B01,AESTHETIC,n,78
+posttraining_rating_by_prompt,B01,AESTHETIC,mean,3.705128
+posttraining_rating_by_prompt,B01,AESTHETIC,median,3.5
+posttraining_rating_by_prompt,B01,AESTHETIC,sd,1.675716
+posttraining_rating_by_prompt,B01,AESTHETIC,ci95_low,3.327313
+posttraining_rating_by_prompt,B01,AESTHETIC,ci95_high,4.082944
+posttraining_rating_by_prompt,B01,BASE,n,78
+posttraining_rating_by_prompt,B01,BASE,mean,4.346154
+posttraining_rating_by_prompt,B01,BASE,median,4.5
+posttraining_rating_by_prompt,B01,BASE,sd,1.58587
+posttraining_rating_by_prompt,B01,BASE,ci95_low,3.988595
+posttraining_rating_by_prompt,B01,BASE,ci95_high,4.703712
+posttraining_rating_by_prompt,B01,CONTROL,n,78
+posttraining_rating_by_prompt,B01,CONTROL,mean,3.551282
+posttraining_rating_by_prompt,B01,CONTROL,median,3.5
+posttraining_rating_by_prompt,B01,CONTROL,sd,1.534431
+posttraining_rating_by_prompt,B01,CONTROL,ci95_low,3.205321
+posttraining_rating_by_prompt,B01,CONTROL,ci95_high,3.897243
+posttraining_rating_by_prompt,B02,AESTHETIC,n,58
+posttraining_rating_by_prompt,B02,AESTHETIC,mean,3.896552
+posttraining_rating_by_prompt,B02,AESTHETIC,median,4
+posttraining_rating_by_prompt,B02,AESTHETIC,sd,1.822757
+posttraining_rating_by_prompt,B02,AESTHETIC,ci95_low,3.417282
+posttraining_rating_by_prompt,B02,AESTHETIC,ci95_high,4.375821
+posttraining_rating_by_prompt,B02,BASE,n,59
+posttraining_rating_by_prompt,B02,BASE,mean,3.610169
+posttraining_rating_by_prompt,B02,BASE,median,3
+posttraining_rating_by_prompt,B02,BASE,sd,1.771586
+posttraining_rating_by_prompt,B02,BASE,ci95_low,3.148492
+posttraining_rating_by_prompt,B02,BASE,ci95_high,4.071847
+posttraining_rating_by_prompt,B02,CONTROL,n,55
+posttraining_rating_by_prompt,B02,CONTROL,mean,3.763636
+posttraining_rating_by_prompt,B02,CONTROL,median,4
+posttraining_rating_by_prompt,B02,CONTROL,sd,1.643885
+posttraining_rating_by_prompt,B02,CONTROL,ci95_low,3.319232
+posttraining_rating_by_prompt,B02,CONTROL,ci95_high,4.208041
+posttraining_rating_by_prompt,B04,AESTHETIC,n,54
+posttraining_rating_by_prompt,B04,AESTHETIC,mean,3.648148
+posttraining_rating_by_prompt,B04,AESTHETIC,median,4
+posttraining_rating_by_prompt,B04,AESTHETIC,sd,1.290859
+posttraining_rating_by_prompt,B04,AESTHETIC,ci95_low,3.295811
+posttraining_rating_by_prompt,B04,AESTHETIC,ci95_high,4.000485
+posttraining_rating_by_prompt,B04,BASE,n,60
+posttraining_rating_by_prompt,B04,BASE,mean,3.366667
+posttraining_rating_by_prompt,B04,BASE,median,3
+posttraining_rating_by_prompt,B04,BASE,sd,1.437591
+posttraining_rating_by_prompt,B04,BASE,ci95_low,2.995298
+posttraining_rating_by_prompt,B04,BASE,ci95_high,3.738036
+posttraining_rating_by_prompt,B04,CONTROL,n,62
+posttraining_rating_by_prompt,B04,CONTROL,mean,3.451613
+posttraining_rating_by_prompt,B04,CONTROL,median,3
+posttraining_rating_by_prompt,B04,CONTROL,sd,1.636444
+posttraining_rating_by_prompt,B04,CONTROL,ci95_low,3.036034
+posttraining_rating_by_prompt,B04,CONTROL,ci95_high,3.867192
+posttraining_rating_by_prompt,B06,AESTHETIC,n,61
+posttraining_rating_by_prompt,B06,AESTHETIC,mean,3.245902
+posttraining_rating_by_prompt,B06,AESTHETIC,median,3
+posttraining_rating_by_prompt,B06,AESTHETIC,sd,1.588036
+posttraining_rating_by_prompt,B06,AESTHETIC,ci95_low,2.839187
+posttraining_rating_by_prompt,B06,AESTHETIC,ci95_high,3.652617
+posttraining_rating_by_prompt,B06,BASE,n,58
+posttraining_rating_by_prompt,B06,BASE,mean,3.482759
+posttraining_rating_by_prompt,B06,BASE,median,3
+posttraining_rating_by_prompt,B06,BASE,sd,1.327726
+posttraining_rating_by_prompt,B06,BASE,ci95_low,3.133651
+posttraining_rating_by_prompt,B06,BASE,ci95_high,3.831866
+posttraining_rating_by_prompt,B06,CONTROL,n,55
+posttraining_rating_by_prompt,B06,CONTROL,mean,3
+posttraining_rating_by_prompt,B06,CONTROL,median,3
+posttraining_rating_by_prompt,B06,CONTROL,sd,1.360828
+posttraining_rating_by_prompt,B06,CONTROL,ci95_low,2.632117
+posttraining_rating_by_prompt,B06,CONTROL,ci95_high,3.367883
+posttraining_rating_by_prompt,B08,AESTHETIC,n,21
+posttraining_rating_by_prompt,B08,AESTHETIC,mean,3.047619
+posttraining_rating_by_prompt,B08,AESTHETIC,median,3
+posttraining_rating_by_prompt,B08,AESTHETIC,sd,1.532194
+posttraining_rating_by_prompt,B08,AESTHETIC,ci95_low,2.350173
+posttraining_rating_by_prompt,B08,AESTHETIC,ci95_high,3.745065
+posttraining_rating_by_prompt,B08,BASE,n,20
+posttraining_rating_by_prompt,B08,BASE,mean,4.2
+posttraining_rating_by_prompt,B08,BASE,median,4
+posttraining_rating_by_prompt,B08,BASE,sd,2.19089
+posttraining_rating_by_prompt,B08,BASE,ci95_low,3.174632
+posttraining_rating_by_prompt,B08,BASE,ci95_high,5.225368
+posttraining_rating_by_prompt,B08,CONTROL,n,21
+posttraining_rating_by_prompt,B08,CONTROL,mean,3.190476
+posttraining_rating_by_prompt,B08,CONTROL,median,3
+posttraining_rating_by_prompt,B08,CONTROL,sd,1.691717
+posttraining_rating_by_prompt,B08,CONTROL,ci95_low,2.420416
+posttraining_rating_by_prompt,B08,CONTROL,ci95_high,3.960536
+posttraining_rating_by_prompt,B09,AESTHETIC,n,39
+posttraining_rating_by_prompt,B09,AESTHETIC,mean,3.794872
+posttraining_rating_by_prompt,B09,AESTHETIC,median,4
+posttraining_rating_by_prompt,B09,AESTHETIC,sd,1.489957
+posttraining_rating_by_prompt,B09,AESTHETIC,ci95_low,3.311883
+posttraining_rating_by_prompt,B09,AESTHETIC,ci95_high,4.27786
+posttraining_rating_by_prompt,B09,BASE,n,40
+posttraining_rating_by_prompt,B09,BASE,mean,3.725
+posttraining_rating_by_prompt,B09,BASE,median,4
+posttraining_rating_by_prompt,B09,BASE,sd,1.584986
+posttraining_rating_by_prompt,B09,BASE,ci95_low,3.218097
+posttraining_rating_by_prompt,B09,BASE,ci95_high,4.231903
+posttraining_rating_by_prompt,B09,CONTROL,n,40
+posttraining_rating_by_prompt,B09,CONTROL,mean,4.2
+posttraining_rating_by_prompt,B09,CONTROL,median,4
+posttraining_rating_by_prompt,B09,CONTROL,sd,1.620383
+posttraining_rating_by_prompt,B09,CONTROL,ci95_low,3.681776
+posttraining_rating_by_prompt,B09,CONTROL,ci95_high,4.718224
+posttraining_rating_by_prompt,B12,AESTHETIC,n,60
+posttraining_rating_by_prompt,B12,AESTHETIC,mean,3.366667
+posttraining_rating_by_prompt,B12,AESTHETIC,median,3
+posttraining_rating_by_prompt,B12,AESTHETIC,sd,1.352545
+posttraining_rating_by_prompt,B12,AESTHETIC,ci95_low,3.017267
+posttraining_rating_by_prompt,B12,AESTHETIC,ci95_high,3.716066
+posttraining_rating_by_prompt,B12,BASE,n,57
+posttraining_rating_by_prompt,B12,BASE,mean,3.666667
+posttraining_rating_by_prompt,B12,BASE,median,4
+posttraining_rating_by_prompt,B12,BASE,sd,1.539171
+posttraining_rating_by_prompt,B12,BASE,ci95_low,3.25827
+posttraining_rating_by_prompt,B12,BASE,ci95_high,4.075064
+posttraining_rating_by_prompt,B12,CONTROL,n,60
+posttraining_rating_by_prompt,B12,CONTROL,mean,3.1
+posttraining_rating_by_prompt,B12,CONTROL,median,3
+posttraining_rating_by_prompt,B12,CONTROL,sd,1.772674
+posttraining_rating_by_prompt,B12,CONTROL,ci95_low,2.64207
+posttraining_rating_by_prompt,B12,CONTROL,ci95_high,3.55793
+posttraining_rating_by_prompt,B14,AESTHETIC,n,79
+posttraining_rating_by_prompt,B14,AESTHETIC,mean,2.582278
+posttraining_rating_by_prompt,B14,AESTHETIC,median,2
+posttraining_rating_by_prompt,B14,AESTHETIC,sd,1.267013
+posttraining_rating_by_prompt,B14,AESTHETIC,ci95_low,2.298483
+posttraining_rating_by_prompt,B14,AESTHETIC,ci95_high,2.866074
+posttraining_rating_by_prompt,B14,BASE,n,74
+posttraining_rating_by_prompt,B14,BASE,mean,2.594595
+posttraining_rating_by_prompt,B14,BASE,median,2
+posttraining_rating_by_prompt,B14,BASE,sd,1.423087
+posttraining_rating_by_prompt,B14,BASE,ci95_low,2.264892
+posttraining_rating_by_prompt,B14,BASE,ci95_high,2.924297
+posttraining_rating_by_prompt,B14,CONTROL,n,76
+posttraining_rating_by_prompt,B14,CONTROL,mean,2.631579
+posttraining_rating_by_prompt,B14,CONTROL,median,2
+posttraining_rating_by_prompt,B14,CONTROL,sd,1.468261
+posttraining_rating_by_prompt,B14,CONTROL,ci95_low,2.296067
+posttraining_rating_by_prompt,B14,CONTROL,ci95_high,2.967091
+posttraining_rating_by_prompt,B15,AESTHETIC,n,75
+posttraining_rating_by_prompt,B15,AESTHETIC,mean,3.6
+posttraining_rating_by_prompt,B15,AESTHETIC,median,4
+posttraining_rating_by_prompt,B15,AESTHETIC,sd,1.700556
+posttraining_rating_by_prompt,B15,AESTHETIC,ci95_low,3.208738
+posttraining_rating_by_prompt,B15,AESTHETIC,ci95_high,3.991262
+posttraining_rating_by_prompt,B15,BASE,n,76
+posttraining_rating_by_prompt,B15,BASE,mean,3.710526
+posttraining_rating_by_prompt,B15,BASE,median,4
+posttraining_rating_by_prompt,B15,BASE,sd,1.787481
+posttraining_rating_by_prompt,B15,BASE,ci95_low,3.302069
+posttraining_rating_by_prompt,B15,BASE,ci95_high,4.118983
+posttraining_rating_by_prompt,B15,CONTROL,n,79
+posttraining_rating_by_prompt,B15,CONTROL,mean,3.873418
+posttraining_rating_by_prompt,B15,CONTROL,median,4
+posttraining_rating_by_prompt,B15,CONTROL,sd,1.488133
+posttraining_rating_by_prompt,B15,CONTROL,ci95_low,3.540094
+posttraining_rating_by_prompt,B15,CONTROL,ci95_high,4.206741
+posttraining_rating_by_prompt,B19,AESTHETIC,n,84
+posttraining_rating_by_prompt,B19,AESTHETIC,mean,4.619048
+posttraining_rating_by_prompt,B19,AESTHETIC,median,5
+posttraining_rating_by_prompt,B19,AESTHETIC,sd,1.802975
+posttraining_rating_by_prompt,B19,AESTHETIC,ci95_low,4.227778
+posttraining_rating_by_prompt,B19,AESTHETIC,ci95_high,5.010317
+posttraining_rating_by_prompt,B19,BASE,n,82
+posttraining_rating_by_prompt,B19,BASE,mean,4.536585
+posttraining_rating_by_prompt,B19,BASE,median,5
+posttraining_rating_by_prompt,B19,BASE,sd,1.758192
+posttraining_rating_by_prompt,B19,BASE,ci95_low,4.150268
+posttraining_rating_by_prompt,B19,BASE,ci95_high,4.922902
+posttraining_rating_by_prompt,B19,CONTROL,n,81
+posttraining_rating_by_prompt,B19,CONTROL,mean,4.555556
+posttraining_rating_by_prompt,B19,CONTROL,median,5
+posttraining_rating_by_prompt,B19,CONTROL,sd,1.870829
+posttraining_rating_by_prompt,B19,CONTROL,ci95_low,4.141881
+posttraining_rating_by_prompt,B19,CONTROL,ci95_high,4.96923
+posttraining_rating_by_prompt,B20,AESTHETIC,n,77
+posttraining_rating_by_prompt,B20,AESTHETIC,mean,3.558442
+posttraining_rating_by_prompt,B20,AESTHETIC,median,4
+posttraining_rating_by_prompt,B20,AESTHETIC,sd,1.658261
+posttraining_rating_by_prompt,B20,AESTHETIC,ci95_low,3.182063
+posttraining_rating_by_prompt,B20,AESTHETIC,ci95_high,3.934821
+posttraining_rating_by_prompt,B20,BASE,n,75
+posttraining_rating_by_prompt,B20,BASE,mean,3.546667
+posttraining_rating_by_prompt,B20,BASE,median,3
+posttraining_rating_by_prompt,B20,BASE,sd,1.50039
+posttraining_rating_by_prompt,B20,BASE,ci95_low,3.201458
+posttraining_rating_by_prompt,B20,BASE,ci95_high,3.891875
+posttraining_rating_by_prompt,B20,CONTROL,n,78
+posttraining_rating_by_prompt,B20,CONTROL,mean,3.884615
+posttraining_rating_by_prompt,B20,CONTROL,median,4
+posttraining_rating_by_prompt,B20,CONTROL,sd,1.801736
+posttraining_rating_by_prompt,B20,CONTROL,ci95_low,3.478387
+posttraining_rating_by_prompt,B20,CONTROL,ci95_high,4.290844
+posttraining_rating_by_prompt,B23,AESTHETIC,n,82
+posttraining_rating_by_prompt,B23,AESTHETIC,mean,4.109756
+posttraining_rating_by_prompt,B23,AESTHETIC,median,4
+posttraining_rating_by_prompt,B23,AESTHETIC,sd,1.812209
+posttraining_rating_by_prompt,B23,AESTHETIC,ci95_low,3.71157
+posttraining_rating_by_prompt,B23,AESTHETIC,ci95_high,4.507942
+posttraining_rating_by_prompt,B23,BASE,n,82
+posttraining_rating_by_prompt,B23,BASE,mean,4.02439
+posttraining_rating_by_prompt,B23,BASE,median,4
+posttraining_rating_by_prompt,B23,BASE,sd,1.706745
+posttraining_rating_by_prompt,B23,BASE,ci95_low,3.649377
+posttraining_rating_by_prompt,B23,BASE,ci95_high,4.399403
+posttraining_rating_by_prompt,B23,CONTROL,n,78
+posttraining_rating_by_prompt,B23,CONTROL,mean,3.730769
+posttraining_rating_by_prompt,B23,CONTROL,median,4
+posttraining_rating_by_prompt,B23,CONTROL,sd,1.785025
+posttraining_rating_by_prompt,B23,CONTROL,ci95_low,3.328308
+posttraining_rating_by_prompt,B23,CONTROL,ci95_high,4.13323
+posttraining_rating_by_prompt,B25,AESTHETIC,n,41
+posttraining_rating_by_prompt,B25,AESTHETIC,mean,4.146341
+posttraining_rating_by_prompt,B25,AESTHETIC,median,4
+posttraining_rating_by_prompt,B25,AESTHETIC,sd,1.725702
+posttraining_rating_by_prompt,B25,AESTHETIC,ci95_low,3.601643
+posttraining_rating_by_prompt,B25,AESTHETIC,ci95_high,4.69104
+posttraining_rating_by_prompt,B25,BASE,n,38
+posttraining_rating_by_prompt,B25,BASE,mean,3.210526
+posttraining_rating_by_prompt,B25,BASE,median,3
+posttraining_rating_by_prompt,B25,BASE,sd,1.596582
+posttraining_rating_by_prompt,B25,BASE,ci95_low,2.685743
+posttraining_rating_by_prompt,B25,BASE,ci95_high,3.73531
+posttraining_rating_by_prompt,B25,CONTROL,n,38
+posttraining_rating_by_prompt,B25,CONTROL,mean,3.921053
+posttraining_rating_by_prompt,B25,CONTROL,median,4
+posttraining_rating_by_prompt,B25,CONTROL,sd,1.761166
+posttraining_rating_by_prompt,B25,CONTROL,ci95_low,3.342172
+posttraining_rating_by_prompt,B25,CONTROL,ci95_high,4.499934
+posttraining_rating_by_prompt,B26,AESTHETIC,n,76
+posttraining_rating_by_prompt,B26,AESTHETIC,mean,2.671053
+posttraining_rating_by_prompt,B26,AESTHETIC,median,2.5
+posttraining_rating_by_prompt,B26,AESTHETIC,sd,1.62799
+posttraining_rating_by_prompt,B26,AESTHETIC,ci95_low,2.299041
+posttraining_rating_by_prompt,B26,AESTHETIC,ci95_high,3.043064
+posttraining_rating_by_prompt,B26,BASE,n,80
+posttraining_rating_by_prompt,B26,BASE,mean,2.9875
+posttraining_rating_by_prompt,B26,BASE,median,3
+posttraining_rating_by_prompt,B26,BASE,sd,1.47119
+posttraining_rating_by_prompt,B26,BASE,ci95_low,2.660103
+posttraining_rating_by_prompt,B26,BASE,ci95_high,3.314897
+posttraining_rating_by_prompt,B26,CONTROL,n,80
+posttraining_rating_by_prompt,B26,CONTROL,mean,2.95
+posttraining_rating_by_prompt,B26,CONTROL,median,3
+posttraining_rating_by_prompt,B26,CONTROL,sd,1.53359
+posttraining_rating_by_prompt,B26,CONTROL,ci95_low,2.608716
+posttraining_rating_by_prompt,B26,CONTROL,ci95_high,3.291284
+posttraining_rating_by_prompt,B27,AESTHETIC,n,80
+posttraining_rating_by_prompt,B27,AESTHETIC,mean,5.0875
+posttraining_rating_by_prompt,B27,AESTHETIC,median,6
+posttraining_rating_by_prompt,B27,AESTHETIC,sd,1.758838
+posttraining_rating_by_prompt,B27,AESTHETIC,ci95_low,4.69609
+posttraining_rating_by_prompt,B27,AESTHETIC,ci95_high,5.47891
+posttraining_rating_by_prompt,B27,BASE,n,79
+posttraining_rating_by_prompt,B27,BASE,mean,4.886076
+posttraining_rating_by_prompt,B27,BASE,median,5
+posttraining_rating_by_prompt,B27,BASE,sd,1.625023
+posttraining_rating_by_prompt,B27,BASE,ci95_low,4.522091
+posttraining_rating_by_prompt,B27,BASE,ci95_high,5.250061
+posttraining_rating_by_prompt,B27,CONTROL,n,79
+posttraining_rating_by_prompt,B27,CONTROL,mean,4.987342
+posttraining_rating_by_prompt,B27,CONTROL,median,5
+posttraining_rating_by_prompt,B27,CONTROL,sd,1.720865
+posttraining_rating_by_prompt,B27,CONTROL,ci95_low,4.601889
+posttraining_rating_by_prompt,B27,CONTROL,ci95_high,5.372795
+posttraining_rating_by_prompt,B29,AESTHETIC,n,35
+posttraining_rating_by_prompt,B29,AESTHETIC,mean,3.371429
+posttraining_rating_by_prompt,B29,AESTHETIC,median,3
+posttraining_rating_by_prompt,B29,AESTHETIC,sd,1.285341
+posttraining_rating_by_prompt,B29,AESTHETIC,ci95_low,2.929899
+posttraining_rating_by_prompt,B29,AESTHETIC,ci95_high,3.812959
+posttraining_rating_by_prompt,B29,BASE,n,35
+posttraining_rating_by_prompt,B29,BASE,mean,3.314286
+posttraining_rating_by_prompt,B29,BASE,median,3
+posttraining_rating_by_prompt,B29,BASE,sd,1.761874
+posttraining_rating_by_prompt,B29,BASE,ci95_low,2.709061
+posttraining_rating_by_prompt,B29,BASE,ci95_high,3.919511
+posttraining_rating_by_prompt,B29,CONTROL,n,38
+posttraining_rating_by_prompt,B29,CONTROL,mean,3.394737
+posttraining_rating_by_prompt,B29,CONTROL,median,3
+posttraining_rating_by_prompt,B29,CONTROL,sd,1.793976
+posttraining_rating_by_prompt,B29,CONTROL,ci95_low,2.805072
+posttraining_rating_by_prompt,B29,CONTROL,ci95_high,3.984402
+posttraining_rating_by_prompt,C01,AESTHETIC,n,59
+posttraining_rating_by_prompt,C01,AESTHETIC,mean,4.067797
+posttraining_rating_by_prompt,C01,AESTHETIC,median,4
+posttraining_rating_by_prompt,C01,AESTHETIC,sd,1.740634
+posttraining_rating_by_prompt,C01,AESTHETIC,ci95_low,3.614185
+posttraining_rating_by_prompt,C01,AESTHETIC,ci95_high,4.521408
+posttraining_rating_by_prompt,C01,BASE,n,60
+posttraining_rating_by_prompt,C01,BASE,mean,3.633333
+posttraining_rating_by_prompt,C01,BASE,median,4
+posttraining_rating_by_prompt,C01,BASE,sd,1.746344
+posttraining_rating_by_prompt,C01,BASE,ci95_low,3.182205
+posttraining_rating_by_prompt,C01,BASE,ci95_high,4.084462
+posttraining_rating_by_prompt,C01,CONTROL,n,56
+posttraining_rating_by_prompt,C01,CONTROL,mean,3.803571
+posttraining_rating_by_prompt,C01,CONTROL,median,4
+posttraining_rating_by_prompt,C01,CONTROL,sd,1.720673
+posttraining_rating_by_prompt,C01,CONTROL,ci95_low,3.342772
+posttraining_rating_by_prompt,C01,CONTROL,ci95_high,4.264371
+posttraining_rating_by_prompt,C02,AESTHETIC,n,62
+posttraining_rating_by_prompt,C02,AESTHETIC,mean,3.983871
+posttraining_rating_by_prompt,C02,AESTHETIC,median,4
+posttraining_rating_by_prompt,C02,AESTHETIC,sd,1.604215
+posttraining_rating_by_prompt,C02,AESTHETIC,ci95_low,3.576477
+posttraining_rating_by_prompt,C02,AESTHETIC,ci95_high,4.391265
+posttraining_rating_by_prompt,C02,BASE,n,58
+posttraining_rating_by_prompt,C02,BASE,mean,3.775862
+posttraining_rating_by_prompt,C02,BASE,median,4
+posttraining_rating_by_prompt,C02,BASE,sd,1.747611
+posttraining_rating_by_prompt,C02,BASE,ci95_low,3.316351
+posttraining_rating_by_prompt,C02,BASE,ci95_high,4.235373
+posttraining_rating_by_prompt,C02,CONTROL,n,59
+posttraining_rating_by_prompt,C02,CONTROL,mean,3.220339
+posttraining_rating_by_prompt,C02,CONTROL,median,3
+posttraining_rating_by_prompt,C02,CONTROL,sd,1.702613
+posttraining_rating_by_prompt,C02,CONTROL,ci95_low,2.776636
+posttraining_rating_by_prompt,C02,CONTROL,ci95_high,3.664042
+posttraining_rating_by_prompt,C04,AESTHETIC,n,81
+posttraining_rating_by_prompt,C04,AESTHETIC,mean,4.419753
+posttraining_rating_by_prompt,C04,AESTHETIC,median,4
+posttraining_rating_by_prompt,C04,AESTHETIC,sd,1.490505
+posttraining_rating_by_prompt,C04,AESTHETIC,ci95_low,4.090175
+posttraining_rating_by_prompt,C04,AESTHETIC,ci95_high,4.749331
+posttraining_rating_by_prompt,C04,BASE,n,79
+posttraining_rating_by_prompt,C04,BASE,mean,5
+posttraining_rating_by_prompt,C04,BASE,median,5
+posttraining_rating_by_prompt,C04,BASE,sd,1.519109
+posttraining_rating_by_prompt,C04,BASE,ci95_low,4.659738
+posttraining_rating_by_prompt,C04,BASE,ci95_high,5.340262
+posttraining_rating_by_prompt,C04,CONTROL,n,82
+posttraining_rating_by_prompt,C04,CONTROL,mean,4.439024
+posttraining_rating_by_prompt,C04,CONTROL,median,5
+posttraining_rating_by_prompt,C04,CONTROL,sd,1.540383
+posttraining_rating_by_prompt,C04,CONTROL,ci95_low,4.100565
+posttraining_rating_by_prompt,C04,CONTROL,ci95_high,4.777484
+posttraining_rating_by_prompt,C05,AESTHETIC,n,80
+posttraining_rating_by_prompt,C05,AESTHETIC,mean,4.3125
+posttraining_rating_by_prompt,C05,AESTHETIC,median,4
+posttraining_rating_by_prompt,C05,AESTHETIC,sd,1.818288
+posttraining_rating_by_prompt,C05,AESTHETIC,ci95_low,3.90786
+posttraining_rating_by_prompt,C05,AESTHETIC,ci95_high,4.71714
+posttraining_rating_by_prompt,C05,BASE,n,81
+posttraining_rating_by_prompt,C05,BASE,mean,4.62963
+posttraining_rating_by_prompt,C05,BASE,median,5
+posttraining_rating_by_prompt,C05,BASE,sd,1.623611
+posttraining_rating_by_prompt,C05,BASE,ci95_low,4.27062
+posttraining_rating_by_prompt,C05,BASE,ci95_high,4.988639
+posttraining_rating_by_prompt,C05,CONTROL,n,80
+posttraining_rating_by_prompt,C05,CONTROL,mean,4.3875
+posttraining_rating_by_prompt,C05,CONTROL,median,5
+posttraining_rating_by_prompt,C05,CONTROL,sd,1.78243
+posttraining_rating_by_prompt,C05,CONTROL,ci95_low,3.99084
+posttraining_rating_by_prompt,C05,CONTROL,ci95_high,4.78416
+posttraining_rating_by_prompt,C06,AESTHETIC,n,40
+posttraining_rating_by_prompt,C06,AESTHETIC,mean,2.65
+posttraining_rating_by_prompt,C06,AESTHETIC,median,2
+posttraining_rating_by_prompt,C06,AESTHETIC,sd,1.477177
+posttraining_rating_by_prompt,C06,AESTHETIC,ci95_low,2.177576
+posttraining_rating_by_prompt,C06,AESTHETIC,ci95_high,3.122424
+posttraining_rating_by_prompt,C06,BASE,n,40
+posttraining_rating_by_prompt,C06,BASE,mean,2.375
+posttraining_rating_by_prompt,C06,BASE,median,2
+posttraining_rating_by_prompt,C06,BASE,sd,1.390213
+posttraining_rating_by_prompt,C06,BASE,ci95_low,1.930388
+posttraining_rating_by_prompt,C06,BASE,ci95_high,2.819612
+posttraining_rating_by_prompt,C06,CONTROL,n,38
+posttraining_rating_by_prompt,C06,CONTROL,mean,2.868421
+posttraining_rating_by_prompt,C06,CONTROL,median,3
+posttraining_rating_by_prompt,C06,CONTROL,sd,1.596805
+posttraining_rating_by_prompt,C06,CONTROL,ci95_low,2.343564
+posttraining_rating_by_prompt,C06,CONTROL,ci95_high,3.393278
+posttraining_rating_by_prompt,C07,AESTHETIC,n,57
+posttraining_rating_by_prompt,C07,AESTHETIC,mean,3.157895
+posttraining_rating_by_prompt,C07,AESTHETIC,median,3
+posttraining_rating_by_prompt,C07,AESTHETIC,sd,1.645225
+posttraining_rating_by_prompt,C07,AESTHETIC,ci95_low,2.721358
+posttraining_rating_by_prompt,C07,AESTHETIC,ci95_high,3.594432
+posttraining_rating_by_prompt,C07,BASE,n,60
+posttraining_rating_by_prompt,C07,BASE,mean,3.316667
+posttraining_rating_by_prompt,C07,BASE,median,3
+posttraining_rating_by_prompt,C07,BASE,sd,1.651827
+posttraining_rating_by_prompt,C07,BASE,ci95_low,2.889955
+posttraining_rating_by_prompt,C07,BASE,ci95_high,3.743379
+posttraining_rating_by_prompt,C07,CONTROL,n,62
+posttraining_rating_by_prompt,C07,CONTROL,mean,2.806452
+posttraining_rating_by_prompt,C07,CONTROL,median,2
+posttraining_rating_by_prompt,C07,CONTROL,sd,1.809254
+posttraining_rating_by_prompt,C07,CONTROL,ci95_low,2.346987
+posttraining_rating_by_prompt,C07,CONTROL,ci95_high,3.265916
+posttraining_rating_by_prompt,C08,AESTHETIC,n,79
+posttraining_rating_by_prompt,C08,AESTHETIC,mean,3.443038
+posttraining_rating_by_prompt,C08,AESTHETIC,median,3
+posttraining_rating_by_prompt,C08,AESTHETIC,sd,1.677505
+posttraining_rating_by_prompt,C08,AESTHETIC,ci95_low,3.067297
+posttraining_rating_by_prompt,C08,AESTHETIC,ci95_high,3.818779
+posttraining_rating_by_prompt,C08,BASE,n,80
+posttraining_rating_by_prompt,C08,BASE,mean,3.1625
+posttraining_rating_by_prompt,C08,BASE,median,3
+posttraining_rating_by_prompt,C08,BASE,sd,1.760637
+posttraining_rating_by_prompt,C08,BASE,ci95_low,2.770689
+posttraining_rating_by_prompt,C08,BASE,ci95_high,3.554311
+posttraining_rating_by_prompt,C08,CONTROL,n,84
+posttraining_rating_by_prompt,C08,CONTROL,mean,3.666667
+posttraining_rating_by_prompt,C08,CONTROL,median,3
+posttraining_rating_by_prompt,C08,CONTROL,sd,1.819131
+posttraining_rating_by_prompt,C08,CONTROL,ci95_low,3.271891
+posttraining_rating_by_prompt,C08,CONTROL,ci95_high,4.061442
+posttraining_rating_by_prompt,C09,AESTHETIC,n,59
+posttraining_rating_by_prompt,C09,AESTHETIC,mean,3.627119
+posttraining_rating_by_prompt,C09,AESTHETIC,median,4
+posttraining_rating_by_prompt,C09,AESTHETIC,sd,1.388354
+posttraining_rating_by_prompt,C09,AESTHETIC,ci95_low,3.265312
+posttraining_rating_by_prompt,C09,AESTHETIC,ci95_high,3.988926
+posttraining_rating_by_prompt,C09,BASE,n,59
+posttraining_rating_by_prompt,C09,BASE,mean,3.898305
+posttraining_rating_by_prompt,C09,BASE,median,4
+posttraining_rating_by_prompt,C09,BASE,sd,1.668108
+posttraining_rating_by_prompt,C09,BASE,ci95_low,3.463594
+posttraining_rating_by_prompt,C09,BASE,ci95_high,4.333016
+posttraining_rating_by_prompt,C09,CONTROL,n,60
+posttraining_rating_by_prompt,C09,CONTROL,mean,3.316667
+posttraining_rating_by_prompt,C09,CONTROL,median,3.5
+posttraining_rating_by_prompt,C09,CONTROL,sd,1.478566
+posttraining_rating_by_prompt,C09,CONTROL,ci95_low,2.934712
+posttraining_rating_by_prompt,C09,CONTROL,ci95_high,3.698621
+posttraining_rating_by_prompt,C10,AESTHETIC,n,42
+posttraining_rating_by_prompt,C10,AESTHETIC,mean,4.071429
+posttraining_rating_by_prompt,C10,AESTHETIC,median,4
+posttraining_rating_by_prompt,C10,AESTHETIC,sd,1.488048
+posttraining_rating_by_prompt,C10,AESTHETIC,ci95_low,3.60772
+posttraining_rating_by_prompt,C10,AESTHETIC,ci95_high,4.535137
+posttraining_rating_by_prompt,C10,BASE,n,40
+posttraining_rating_by_prompt,C10,BASE,mean,3.975
+posttraining_rating_by_prompt,C10,BASE,median,4
+posttraining_rating_by_prompt,C10,BASE,sd,1.349026
+posttraining_rating_by_prompt,C10,BASE,ci95_low,3.54356
+posttraining_rating_by_prompt,C10,BASE,ci95_high,4.40644
+posttraining_rating_by_prompt,C10,CONTROL,n,40
+posttraining_rating_by_prompt,C10,CONTROL,mean,3.925
+posttraining_rating_by_prompt,C10,CONTROL,median,3
+posttraining_rating_by_prompt,C10,CONTROL,sd,1.70049
+posttraining_rating_by_prompt,C10,CONTROL,ci95_low,3.381157
+posttraining_rating_by_prompt,C10,CONTROL,ci95_high,4.468843
+posttraining_rating_by_prompt,C11,AESTHETIC,n,78
+posttraining_rating_by_prompt,C11,AESTHETIC,mean,3.192308
+posttraining_rating_by_prompt,C11,AESTHETIC,median,3
+posttraining_rating_by_prompt,C11,AESTHETIC,sd,1.595918
+posttraining_rating_by_prompt,C11,AESTHETIC,ci95_low,2.832484
+posttraining_rating_by_prompt,C11,AESTHETIC,ci95_high,3.552132
+posttraining_rating_by_prompt,C11,BASE,n,77
+posttraining_rating_by_prompt,C11,BASE,mean,3.415584
+posttraining_rating_by_prompt,C11,BASE,median,3
+posttraining_rating_by_prompt,C11,BASE,sd,1.608781
+posttraining_rating_by_prompt,C11,BASE,ci95_low,3.050436
+posttraining_rating_by_prompt,C11,BASE,ci95_high,3.780733
+posttraining_rating_by_prompt,C11,CONTROL,n,78
+posttraining_rating_by_prompt,C11,CONTROL,mean,3.448718
+posttraining_rating_by_prompt,C11,CONTROL,median,3
+posttraining_rating_by_prompt,C11,CONTROL,sd,1.517409
+posttraining_rating_by_prompt,C11,CONTROL,ci95_low,3.106595
+posttraining_rating_by_prompt,C11,CONTROL,ci95_high,3.790841
+posttraining_rating_by_prompt,C12,AESTHETIC,n,80
+posttraining_rating_by_prompt,C12,AESTHETIC,mean,3.5875
+posttraining_rating_by_prompt,C12,AESTHETIC,median,3
+posttraining_rating_by_prompt,C12,AESTHETIC,sd,1.506893
+posttraining_rating_by_prompt,C12,AESTHETIC,ci95_low,3.252157
+posttraining_rating_by_prompt,C12,AESTHETIC,ci95_high,3.922843
+posttraining_rating_by_prompt,C12,BASE,n,76
+posttraining_rating_by_prompt,C12,BASE,mean,3.789474
+posttraining_rating_by_prompt,C12,BASE,median,4
+posttraining_rating_by_prompt,C12,BASE,sd,1.445137
+posttraining_rating_by_prompt,C12,BASE,ci95_low,3.459246
+posttraining_rating_by_prompt,C12,BASE,ci95_high,4.119702
+posttraining_rating_by_prompt,C12,CONTROL,n,83
+posttraining_rating_by_prompt,C12,CONTROL,mean,3.180723
+posttraining_rating_by_prompt,C12,CONTROL,median,3
+posttraining_rating_by_prompt,C12,CONTROL,sd,1.531336
+posttraining_rating_by_prompt,C12,CONTROL,ci95_low,2.846346
+posttraining_rating_by_prompt,C12,CONTROL,ci95_high,3.515099
+posttraining_rating_by_prompt,C13,AESTHETIC,n,38
+posttraining_rating_by_prompt,C13,AESTHETIC,mean,4.894737
+posttraining_rating_by_prompt,C13,AESTHETIC,median,5
+posttraining_rating_by_prompt,C13,AESTHETIC,sd,1.502961
+posttraining_rating_by_prompt,C13,AESTHETIC,ci95_low,4.400726
+posttraining_rating_by_prompt,C13,AESTHETIC,ci95_high,5.388748
+posttraining_rating_by_prompt,C13,BASE,n,40
+posttraining_rating_by_prompt,C13,BASE,mean,4.6
+posttraining_rating_by_prompt,C13,BASE,median,5
+posttraining_rating_by_prompt,C13,BASE,sd,1.945409
+posttraining_rating_by_prompt,C13,BASE,ci95_low,3.977828
+posttraining_rating_by_prompt,C13,BASE,ci95_high,5.222172
+posttraining_rating_by_prompt,C13,CONTROL,n,40
+posttraining_rating_by_prompt,C13,CONTROL,mean,5.075
+posttraining_rating_by_prompt,C13,CONTROL,median,5
+posttraining_rating_by_prompt,C13,CONTROL,sd,1.591443
+posttraining_rating_by_prompt,C13,CONTROL,ci95_low,4.566032
+posttraining_rating_by_prompt,C13,CONTROL,ci95_high,5.583968
+posttraining_rating_by_prompt,C14,AESTHETIC,n,78
+posttraining_rating_by_prompt,C14,AESTHETIC,mean,3.294872
+posttraining_rating_by_prompt,C14,AESTHETIC,median,3
+posttraining_rating_by_prompt,C14,AESTHETIC,sd,1.721589
+posttraining_rating_by_prompt,C14,AESTHETIC,ci95_low,2.906713
+posttraining_rating_by_prompt,C14,AESTHETIC,ci95_high,3.68303
+posttraining_rating_by_prompt,C14,BASE,n,79
+posttraining_rating_by_prompt,C14,BASE,mean,3.050633
+posttraining_rating_by_prompt,C14,BASE,median,3
+posttraining_rating_by_prompt,C14,BASE,sd,1.616412
+posttraining_rating_by_prompt,C14,BASE,ci95_low,2.688576
+posttraining_rating_by_prompt,C14,BASE,ci95_high,3.412689
+posttraining_rating_by_prompt,C14,CONTROL,n,78
+posttraining_rating_by_prompt,C14,CONTROL,mean,3.179487
+posttraining_rating_by_prompt,C14,CONTROL,median,3
+posttraining_rating_by_prompt,C14,CONTROL,sd,1.59336
+posttraining_rating_by_prompt,C14,CONTROL,ci95_low,2.82024
+posttraining_rating_by_prompt,C14,CONTROL,ci95_high,3.538734
+posttraining_rating_by_prompt,C15,AESTHETIC,n,79
+posttraining_rating_by_prompt,C15,AESTHETIC,mean,4.202532
+posttraining_rating_by_prompt,C15,AESTHETIC,median,4
+posttraining_rating_by_prompt,C15,AESTHETIC,sd,1.628116
+posttraining_rating_by_prompt,C15,AESTHETIC,ci95_low,3.837853
+posttraining_rating_by_prompt,C15,AESTHETIC,ci95_high,4.56721
+posttraining_rating_by_prompt,C15,BASE,n,75
+posttraining_rating_by_prompt,C15,BASE,mean,4.853333
+posttraining_rating_by_prompt,C15,BASE,median,5
+posttraining_rating_by_prompt,C15,BASE,sd,1.591305
+posttraining_rating_by_prompt,C15,BASE,ci95_low,4.487207
+posttraining_rating_by_prompt,C15,BASE,ci95_high,5.219459
+posttraining_rating_by_prompt,C15,CONTROL,n,84
+posttraining_rating_by_prompt,C15,CONTROL,mean,4.059524
+posttraining_rating_by_prompt,C15,CONTROL,median,4
+posttraining_rating_by_prompt,C15,CONTROL,sd,1.645375
+posttraining_rating_by_prompt,C15,CONTROL,ci95_low,3.702456
+posttraining_rating_by_prompt,C15,CONTROL,ci95_high,4.416592
+posttraining_rating_by_prompt,C16,AESTHETIC,n,75
+posttraining_rating_by_prompt,C16,AESTHETIC,mean,4.6
+posttraining_rating_by_prompt,C16,AESTHETIC,median,5
+posttraining_rating_by_prompt,C16,AESTHETIC,sd,1.479591
+posttraining_rating_by_prompt,C16,AESTHETIC,ci95_low,4.259577
+posttraining_rating_by_prompt,C16,AESTHETIC,ci95_high,4.940423
+posttraining_rating_by_prompt,C16,BASE,n,83
+posttraining_rating_by_prompt,C16,BASE,mean,4.060241
+posttraining_rating_by_prompt,C16,BASE,median,4
+posttraining_rating_by_prompt,C16,BASE,sd,1.662714
+posttraining_rating_by_prompt,C16,BASE,ci95_low,3.697177
+posttraining_rating_by_prompt,C16,BASE,ci95_high,4.423305
+posttraining_rating_by_prompt,C16,CONTROL,n,80
+posttraining_rating_by_prompt,C16,CONTROL,mean,4.0625
+posttraining_rating_by_prompt,C16,CONTROL,median,4
+posttraining_rating_by_prompt,C16,CONTROL,sd,1.50395
+posttraining_rating_by_prompt,C16,CONTROL,ci95_low,3.727812
+posttraining_rating_by_prompt,C16,CONTROL,ci95_high,4.397188
+posttraining_rating_by_prompt,C17,AESTHETIC,n,79
+posttraining_rating_by_prompt,C17,AESTHETIC,mean,4.481013
+posttraining_rating_by_prompt,C17,AESTHETIC,median,5
+posttraining_rating_by_prompt,C17,AESTHETIC,sd,1.774902
+posttraining_rating_by_prompt,C17,AESTHETIC,ci95_low,4.083456
+posttraining_rating_by_prompt,C17,AESTHETIC,ci95_high,4.878569
+posttraining_rating_by_prompt,C17,BASE,n,81
+posttraining_rating_by_prompt,C17,BASE,mean,4.62963
+posttraining_rating_by_prompt,C17,BASE,median,5
+posttraining_rating_by_prompt,C17,BASE,sd,1.600347
+posttraining_rating_by_prompt,C17,BASE,ci95_low,4.275764
+posttraining_rating_by_prompt,C17,BASE,ci95_high,4.983495
+posttraining_rating_by_prompt,C17,CONTROL,n,80
+posttraining_rating_by_prompt,C17,CONTROL,mean,4.775
+posttraining_rating_by_prompt,C17,CONTROL,median,5
+posttraining_rating_by_prompt,C17,CONTROL,sd,1.550623
+posttraining_rating_by_prompt,C17,CONTROL,ci95_low,4.429926
+posttraining_rating_by_prompt,C17,CONTROL,ci95_high,5.120074
+posttraining_rating_by_prompt,C18,AESTHETIC,n,76
+posttraining_rating_by_prompt,C18,AESTHETIC,mean,4.276316
+posttraining_rating_by_prompt,C18,AESTHETIC,median,4
+posttraining_rating_by_prompt,C18,AESTHETIC,sd,1.654075
+posttraining_rating_by_prompt,C18,AESTHETIC,ci95_low,3.898343
+posttraining_rating_by_prompt,C18,AESTHETIC,ci95_high,4.654288
+posttraining_rating_by_prompt,C18,BASE,n,82
+posttraining_rating_by_prompt,C18,BASE,mean,4.841463
+posttraining_rating_by_prompt,C18,BASE,median,5
+posttraining_rating_by_prompt,C18,BASE,sd,1.519174
+posttraining_rating_by_prompt,C18,BASE,ci95_low,4.507664
+posttraining_rating_by_prompt,C18,BASE,ci95_high,5.175263
+posttraining_rating_by_prompt,C18,CONTROL,n,79
+posttraining_rating_by_prompt,C18,CONTROL,mean,4.772152
+posttraining_rating_by_prompt,C18,CONTROL,median,5
+posttraining_rating_by_prompt,C18,CONTROL,sd,1.648226
+posttraining_rating_by_prompt,C18,CONTROL,ci95_low,4.402969
+posttraining_rating_by_prompt,C18,CONTROL,ci95_high,5.141335
+posttraining_rating_by_prompt,C19,AESTHETIC,n,84
+posttraining_rating_by_prompt,C19,AESTHETIC,mean,5.25
+posttraining_rating_by_prompt,C19,AESTHETIC,median,5
+posttraining_rating_by_prompt,C19,AESTHETIC,sd,1.495979
+posttraining_rating_by_prompt,C19,AESTHETIC,ci95_low,4.925353
+posttraining_rating_by_prompt,C19,AESTHETIC,ci95_high,5.574647
+posttraining_rating_by_prompt,C19,BASE,n,80
+posttraining_rating_by_prompt,C19,BASE,mean,5.3625
+posttraining_rating_by_prompt,C19,BASE,median,6
+posttraining_rating_by_prompt,C19,BASE,sd,1.477629
+posttraining_rating_by_prompt,C19,BASE,ci95_low,5.03367
+posttraining_rating_by_prompt,C19,BASE,ci95_high,5.69133
+posttraining_rating_by_prompt,C19,CONTROL,n,81
+posttraining_rating_by_prompt,C19,CONTROL,mean,5.111111
+posttraining_rating_by_prompt,C19,CONTROL,median,5
+posttraining_rating_by_prompt,C19,CONTROL,sd,1.457738
+posttraining_rating_by_prompt,C19,CONTROL,ci95_low,4.788779
+posttraining_rating_by_prompt,C19,CONTROL,ci95_high,5.433443
+posttraining_rating_by_prompt,C20,AESTHETIC,n,76
+posttraining_rating_by_prompt,C20,AESTHETIC,mean,3.75
+posttraining_rating_by_prompt,C20,AESTHETIC,median,4
+posttraining_rating_by_prompt,C20,AESTHETIC,sd,1.642153
+posttraining_rating_by_prompt,C20,AESTHETIC,ci95_low,3.374752
+posttraining_rating_by_prompt,C20,AESTHETIC,ci95_high,4.125248
+posttraining_rating_by_prompt,C20,BASE,n,79
+posttraining_rating_by_prompt,C20,BASE,mean,3.949367
+posttraining_rating_by_prompt,C20,BASE,median,4
+posttraining_rating_by_prompt,C20,BASE,sd,1.760672
+posttraining_rating_by_prompt,C20,BASE,ci95_low,3.554998
+posttraining_rating_by_prompt,C20,BASE,ci95_high,4.343736
+posttraining_rating_by_prompt,C20,CONTROL,n,80
+posttraining_rating_by_prompt,C20,CONTROL,mean,3.35
+posttraining_rating_by_prompt,C20,CONTROL,median,3
+posttraining_rating_by_prompt,C20,CONTROL,sd,1.501898
+posttraining_rating_by_prompt,C20,CONTROL,ci95_low,3.015769
+posttraining_rating_by_prompt,C20,CONTROL,ci95_high,3.684231
+posttraining_rating_by_seed,25478,AESTHETIC,n,831
+posttraining_rating_by_seed,25478,AESTHETIC,mean,3.833935
+posttraining_rating_by_seed,25478,AESTHETIC,median,4
+posttraining_rating_by_seed,25478,AESTHETIC,sd,1.735207
+posttraining_rating_by_seed,25478,AESTHETIC,ci95_low,3.715785
+posttraining_rating_by_seed,25478,AESTHETIC,ci95_high,3.952085
+posttraining_rating_by_seed,25478,BASE,n,820
+posttraining_rating_by_seed,25478,BASE,mean,3.946341
+posttraining_rating_by_seed,25478,BASE,median,4
+posttraining_rating_by_seed,25478,BASE,sd,1.800705
+posttraining_rating_by_seed,25478,BASE,ci95_low,3.82291
+posttraining_rating_by_seed,25478,BASE,ci95_high,4.069773
+posttraining_rating_by_seed,25478,CONTROL,n,824
+posttraining_rating_by_seed,25478,CONTROL,mean,3.841019
+posttraining_rating_by_seed,25478,CONTROL,median,4
+posttraining_rating_by_seed,25478,CONTROL,sd,1.720498
+posttraining_rating_by_seed,25478,CONTROL,ci95_low,3.723373
+posttraining_rating_by_seed,25478,CONTROL,ci95_high,3.958666
+posttraining_rating_by_seed,6127,AESTHETIC,n,834
+posttraining_rating_by_seed,6127,AESTHETIC,mean,4.027578
+posttraining_rating_by_seed,6127,AESTHETIC,median,4
+posttraining_rating_by_seed,6127,AESTHETIC,sd,1.713013
+posttraining_rating_by_seed,6127,AESTHETIC,ci95_low,3.91115
+posttraining_rating_by_seed,6127,AESTHETIC,ci95_high,4.144006
+posttraining_rating_by_seed,6127,BASE,n,845
+posttraining_rating_by_seed,6127,BASE,mean,3.938462
+posttraining_rating_by_seed,6127,BASE,median,4
+posttraining_rating_by_seed,6127,BASE,sd,1.745271
+posttraining_rating_by_seed,6127,BASE,ci95_low,3.820618
+posttraining_rating_by_seed,6127,BASE,ci95_high,4.056305
+posttraining_rating_by_seed,6127,CONTROL,n,865
+posttraining_rating_by_seed,6127,CONTROL,mean,3.913295
+posttraining_rating_by_seed,6127,CONTROL,median,4
+posttraining_rating_by_seed,6127,CONTROL,sd,1.723509
+posttraining_rating_by_seed,6127,CONTROL,ci95_low,3.798278
+posttraining_rating_by_seed,6127,CONTROL,ci95_high,4.028312
+posttraining_rating_by_seed,7,AESTHETIC,n,785
+posttraining_rating_by_seed,7,AESTHETIC,mean,3.987261
+posttraining_rating_by_seed,7,AESTHETIC,median,4
+posttraining_rating_by_seed,7,AESTHETIC,sd,1.749589
+posttraining_rating_by_seed,7,AESTHETIC,ci95_low,3.864681
+posttraining_rating_by_seed,7,AESTHETIC,ci95_high,4.109841
+posttraining_rating_by_seed,7,BASE,n,789
+posttraining_rating_by_seed,7,BASE,mean,4.067174
+posttraining_rating_by_seed,7,BASE,median,4
+posttraining_rating_by_seed,7,BASE,sd,1.770973
+posttraining_rating_by_seed,7,BASE,ci95_low,3.943411
+posttraining_rating_by_seed,7,BASE,ci95_high,4.190936
+posttraining_rating_by_seed,7,CONTROL,n,796
+posttraining_rating_by_seed,7,CONTROL,mean,3.900754
+posttraining_rating_by_seed,7,CONTROL,median,4
+posttraining_rating_by_seed,7,CONTROL,sd,1.773728
+posttraining_rating_by_seed,7,CONTROL,ci95_low,3.777347
+posttraining_rating_by_seed,7,CONTROL,ci95_high,4.024161
+posttraining_rating_by_seed,85,AESTHETIC,n,676
+posttraining_rating_by_seed,85,AESTHETIC,mean,3.859467
+posttraining_rating_by_seed,85,AESTHETIC,median,4
+posttraining_rating_by_seed,85,AESTHETIC,sd,1.750196
+posttraining_rating_by_seed,85,AESTHETIC,ci95_low,3.727295
+posttraining_rating_by_seed,85,AESTHETIC,ci95_high,3.99164
+posttraining_rating_by_seed,85,BASE,n,680
+posttraining_rating_by_seed,85,BASE,mean,4.092647
+posttraining_rating_by_seed,85,BASE,median,4
+posttraining_rating_by_seed,85,BASE,sd,1.776613
+posttraining_rating_by_seed,85,BASE,ci95_low,3.958876
+posttraining_rating_by_seed,85,BASE,ci95_high,4.226418
+posttraining_rating_by_seed,85,CONTROL,n,668
+posttraining_rating_by_seed,85,CONTROL,mean,3.782934
+posttraining_rating_by_seed,85,CONTROL,median,4
+posttraining_rating_by_seed,85,CONTROL,sd,1.81924
+posttraining_rating_by_seed,85,CONTROL,ci95_low,3.644724
+posttraining_rating_by_seed,85,CONTROL,ci95_high,3.921144
+posttraining_rating_by_expertise,1,AESTHETIC,n,842
+posttraining_rating_by_expertise,1,AESTHETIC,mean,3.827791
+posttraining_rating_by_expertise,1,AESTHETIC,median,4
+posttraining_rating_by_expertise,1,AESTHETIC,sd,1.805669
+posttraining_rating_by_expertise,1,AESTHETIC,ci95_low,3.705652
+posttraining_rating_by_expertise,1,AESTHETIC,ci95_high,3.94993
+posttraining_rating_by_expertise,1,BASE,n,833
+posttraining_rating_by_expertise,1,BASE,mean,3.729892
+posttraining_rating_by_expertise,1,BASE,median,4
+posttraining_rating_by_expertise,1,BASE,sd,1.86124
+posttraining_rating_by_expertise,1,BASE,ci95_low,3.603313
+posttraining_rating_by_expertise,1,BASE,ci95_high,3.856471
+posttraining_rating_by_expertise,1,CONTROL,n,843
+posttraining_rating_by_expertise,1,CONTROL,mean,3.785291
+posttraining_rating_by_expertise,1,CONTROL,median,4
+posttraining_rating_by_expertise,1,CONTROL,sd,1.838535
+posttraining_rating_by_expertise,1,CONTROL,ci95_low,3.661002
+posttraining_rating_by_expertise,1,CONTROL,ci95_high,3.909579
+posttraining_rating_by_expertise,2,AESTHETIC,n,700
+posttraining_rating_by_expertise,2,AESTHETIC,mean,4.051429
+posttraining_rating_by_expertise,2,AESTHETIC,median,4
+posttraining_rating_by_expertise,2,AESTHETIC,sd,1.724248
+posttraining_rating_by_expertise,2,AESTHETIC,ci95_low,3.923475
+posttraining_rating_by_expertise,2,AESTHETIC,ci95_high,4.179382
+posttraining_rating_by_expertise,2,BASE,n,718
+posttraining_rating_by_expertise,2,BASE,mean,4.171309
+posttraining_rating_by_expertise,2,BASE,median,4
+posttraining_rating_by_expertise,2,BASE,sd,1.694988
+posttraining_rating_by_expertise,2,BASE,ci95_low,4.047119
+posttraining_rating_by_expertise,2,BASE,ci95_high,4.295499
+posttraining_rating_by_expertise,2,CONTROL,n,719
+posttraining_rating_by_expertise,2,CONTROL,mean,3.934631
+posttraining_rating_by_expertise,2,CONTROL,median,4
+posttraining_rating_by_expertise,2,CONTROL,sd,1.722345
+posttraining_rating_by_expertise,2,CONTROL,ci95_low,3.808525
+posttraining_rating_by_expertise,2,CONTROL,ci95_high,4.060738
+posttraining_rating_by_expertise,3,AESTHETIC,n,523
+posttraining_rating_by_expertise,3,AESTHETIC,mean,3.93499
+posttraining_rating_by_expertise,3,AESTHETIC,median,4
+posttraining_rating_by_expertise,3,AESTHETIC,sd,1.61873
+posttraining_rating_by_expertise,3,AESTHETIC,ci95_low,3.795938
+posttraining_rating_by_expertise,3,AESTHETIC,ci95_high,4.074043
+posttraining_rating_by_expertise,3,BASE,n,489
+posttraining_rating_by_expertise,3,BASE,mean,3.981595
+posttraining_rating_by_expertise,3,BASE,median,4
+posttraining_rating_by_expertise,3,BASE,sd,1.660063
+posttraining_rating_by_expertise,3,BASE,ci95_low,3.834094
+posttraining_rating_by_expertise,3,BASE,ci95_high,4.129097
+posttraining_rating_by_expertise,3,CONTROL,n,530
+posttraining_rating_by_expertise,3,CONTROL,mean,3.835849
+posttraining_rating_by_expertise,3,CONTROL,median,4
+posttraining_rating_by_expertise,3,CONTROL,sd,1.674178
+posttraining_rating_by_expertise,3,CONTROL,ci95_low,3.69299
+posttraining_rating_by_expertise,3,CONTROL,ci95_high,3.978708
+posttraining_rating_by_expertise,4,AESTHETIC,n,490
+posttraining_rating_by_expertise,4,AESTHETIC,mean,3.987755
+posttraining_rating_by_expertise,4,AESTHETIC,median,4
+posttraining_rating_by_expertise,4,AESTHETIC,sd,1.742015
+posttraining_rating_by_expertise,4,AESTHETIC,ci95_low,3.833131
+posttraining_rating_by_expertise,4,AESTHETIC,ci95_high,4.14238
+posttraining_rating_by_expertise,4,BASE,n,539
+posttraining_rating_by_expertise,4,BASE,mean,4.187384
+posttraining_rating_by_expertise,4,BASE,median,4
+posttraining_rating_by_expertise,4,BASE,sd,1.690821
+posttraining_rating_by_expertise,4,BASE,ci95_low,4.04432
+posttraining_rating_by_expertise,4,BASE,ci95_high,4.330448
+posttraining_rating_by_expertise,4,CONTROL,n,516
+posttraining_rating_by_expertise,4,CONTROL,mean,3.968992
+posttraining_rating_by_expertise,4,CONTROL,median,4
+posttraining_rating_by_expertise,4,CONTROL,sd,1.714305
+posttraining_rating_by_expertise,4,CONTROL,ci95_low,3.820729
+posttraining_rating_by_expertise,4,CONTROL,ci95_high,4.117255
+posttraining_rating_by_expertise,5,AESTHETIC,n,571
+posttraining_rating_by_expertise,5,AESTHETIC,mean,3.875657
+posttraining_rating_by_expertise,5,AESTHETIC,median,4
+posttraining_rating_by_expertise,5,AESTHETIC,sd,1.74626
+posttraining_rating_by_expertise,5,AESTHETIC,ci95_low,3.73212
+posttraining_rating_by_expertise,5,AESTHETIC,ci95_high,4.019193
+posttraining_rating_by_expertise,5,BASE,n,555
+posttraining_rating_by_expertise,5,BASE,mean,4.054054
+posttraining_rating_by_expertise,5,BASE,median,4
+posttraining_rating_by_expertise,5,BASE,sd,1.865698
+posttraining_rating_by_expertise,5,BASE,ci95_low,3.898496
+posttraining_rating_by_expertise,5,BASE,ci95_high,4.209612
+posttraining_rating_by_expertise,5,CONTROL,n,545
+posttraining_rating_by_expertise,5,CONTROL,mean,3.818349
+posttraining_rating_by_expertise,5,CONTROL,median,4
+posttraining_rating_by_expertise,5,CONTROL,sd,1.783821
+posttraining_rating_by_expertise,5,CONTROL,ci95_low,3.668253
+posttraining_rating_by_expertise,5,CONTROL,ci95_high,3.968444
+posttraining_rating_by_role,Architect,AESTHETIC,n,1068
+posttraining_rating_by_role,Architect,AESTHETIC,mean,3.867978
+posttraining_rating_by_role,Architect,AESTHETIC,median,4
+posttraining_rating_by_role,Architect,AESTHETIC,sd,1.702412
+posttraining_rating_by_role,Architect,AESTHETIC,ci95_low,3.765761
+posttraining_rating_by_role,Architect,AESTHETIC,ci95_high,3.970194
+posttraining_rating_by_role,Architect,BASE,n,1066
+posttraining_rating_by_role,Architect,BASE,mean,4.065666
+posttraining_rating_by_role,Architect,BASE,median,4
+posttraining_rating_by_role,Architect,BASE,sd,1.765449
+posttraining_rating_by_role,Architect,BASE,ci95_low,3.959565
+posttraining_rating_by_role,Architect,BASE,ci95_high,4.171767
+posttraining_rating_by_role,Architect,CONTROL,n,1070
+posttraining_rating_by_role,Architect,CONTROL,mean,3.819626
+posttraining_rating_by_role,Architect,CONTROL,median,4
+posttraining_rating_by_role,Architect,CONTROL,sd,1.751703
+posttraining_rating_by_role,Architect,CONTROL,ci95_low,3.714549
+posttraining_rating_by_role,Architect,CONTROL,ci95_high,3.924703
+posttraining_rating_by_role,ArchitectureStudent,AESTHETIC,n,296
+posttraining_rating_by_role,ArchitectureStudent,AESTHETIC,mean,4.385135
+posttraining_rating_by_role,ArchitectureStudent,AESTHETIC,median,4
+posttraining_rating_by_role,ArchitectureStudent,AESTHETIC,sd,1.533905
+posttraining_rating_by_role,ArchitectureStudent,AESTHETIC,ci95_low,4.209672
+posttraining_rating_by_role,ArchitectureStudent,AESTHETIC,ci95_high,4.560598
+posttraining_rating_by_role,ArchitectureStudent,BASE,n,295
+posttraining_rating_by_role,ArchitectureStudent,BASE,mean,4.420339
+posttraining_rating_by_role,ArchitectureStudent,BASE,median,4
+posttraining_rating_by_role,ArchitectureStudent,BASE,sd,1.58852
+posttraining_rating_by_role,ArchitectureStudent,BASE,ci95_low,4.238318
+posttraining_rating_by_role,ArchitectureStudent,BASE,ci95_high,4.60236
+posttraining_rating_by_role,ArchitectureStudent,CONTROL,n,294
+posttraining_rating_by_role,ArchitectureStudent,CONTROL,mean,4.20068
+posttraining_rating_by_role,ArchitectureStudent,CONTROL,median,4
+posttraining_rating_by_role,ArchitectureStudent,CONTROL,sd,1.490768
+posttraining_rating_by_role,ArchitectureStudent,CONTROL,ci95_low,4.029568
+posttraining_rating_by_role,ArchitectureStudent,CONTROL,ci95_high,4.371793
+posttraining_rating_by_role,ConstructionProfessional,AESTHETIC,n,69
+posttraining_rating_by_role,ConstructionProfessional,AESTHETIC,mean,3.130435
+posttraining_rating_by_role,ConstructionProfessional,AESTHETIC,median,3
+posttraining_rating_by_role,ConstructionProfessional,AESTHETIC,sd,1.433969
+posttraining_rating_by_role,ConstructionProfessional,AESTHETIC,ci95_low,2.785958
+posttraining_rating_by_role,ConstructionProfessional,AESTHETIC,ci95_high,3.474912
+posttraining_rating_by_role,ConstructionProfessional,BASE,n,47
+posttraining_rating_by_role,ConstructionProfessional,BASE,mean,2.978723
+posttraining_rating_by_role,ConstructionProfessional,BASE,median,3
+posttraining_rating_by_role,ConstructionProfessional,BASE,sd,1.406342
+posttraining_rating_by_role,ConstructionProfessional,BASE,ci95_low,2.565806
+posttraining_rating_by_role,ConstructionProfessional,BASE,ci95_high,3.391641
+posttraining_rating_by_role,ConstructionProfessional,CONTROL,n,63
+posttraining_rating_by_role,ConstructionProfessional,CONTROL,mean,2.777778
+posttraining_rating_by_role,ConstructionProfessional,CONTROL,median,2
+posttraining_rating_by_role,ConstructionProfessional,CONTROL,sd,1.325244
+posttraining_rating_by_role,ConstructionProfessional,CONTROL,ci95_low,2.444019
+posttraining_rating_by_role,ConstructionProfessional,CONTROL,ci95_high,3.111536
+posttraining_rating_by_role,CreativeProfessional,AESTHETIC,n,139
+posttraining_rating_by_role,CreativeProfessional,AESTHETIC,mean,3.201439
+posttraining_rating_by_role,CreativeProfessional,AESTHETIC,median,3
+posttraining_rating_by_role,CreativeProfessional,AESTHETIC,sd,1.575077
+posttraining_rating_by_role,CreativeProfessional,AESTHETIC,ci95_low,2.937278
+posttraining_rating_by_role,CreativeProfessional,AESTHETIC,ci95_high,3.465599
+posttraining_rating_by_role,CreativeProfessional,BASE,n,137
+posttraining_rating_by_role,CreativeProfessional,BASE,mean,3.562044
+posttraining_rating_by_role,CreativeProfessional,BASE,median,3
+posttraining_rating_by_role,CreativeProfessional,BASE,sd,1.538053
+posttraining_rating_by_role,CreativeProfessional,BASE,ci95_low,3.302183
+posttraining_rating_by_role,CreativeProfessional,BASE,ci95_high,3.821905
+posttraining_rating_by_role,CreativeProfessional,CONTROL,n,143
+posttraining_rating_by_role,CreativeProfessional,CONTROL,mean,3.125874
+posttraining_rating_by_role,CreativeProfessional,CONTROL,median,3
+posttraining_rating_by_role,CreativeProfessional,CONTROL,sd,1.495849
+posttraining_rating_by_role,CreativeProfessional,CONTROL,ci95_low,2.878596
+posttraining_rating_by_role,CreativeProfessional,CONTROL,ci95_high,3.373152
+posttraining_rating_by_role,Designer,AESTHETIC,n,19
+posttraining_rating_by_role,Designer,AESTHETIC,mean,5.473684
+posttraining_rating_by_role,Designer,AESTHETIC,median,6
+posttraining_rating_by_role,Designer,AESTHETIC,sd,1.172292
+posttraining_rating_by_role,Designer,AESTHETIC,ci95_low,4.908657
+posttraining_rating_by_role,Designer,AESTHETIC,ci95_high,6.038711
+posttraining_rating_by_role,Designer,BASE,n,19
+posttraining_rating_by_role,Designer,BASE,mean,5.842105
+posttraining_rating_by_role,Designer,BASE,median,6
+posttraining_rating_by_role,Designer,BASE,sd,1.014515
+posttraining_rating_by_role,Designer,BASE,ci95_low,5.353125
+posttraining_rating_by_role,Designer,BASE,ci95_high,6.331086
+posttraining_rating_by_role,Designer,CONTROL,n,22
+posttraining_rating_by_role,Designer,CONTROL,mean,5.454545
+posttraining_rating_by_role,Designer,CONTROL,median,5.5
+posttraining_rating_by_role,Designer,CONTROL,sd,1.29935
+posttraining_rating_by_role,Designer,CONTROL,ci95_low,4.878446
+posttraining_rating_by_role,Designer,CONTROL,ci95_high,6.030645
+posttraining_rating_by_role,Engineer,AESTHETIC,n,123
+posttraining_rating_by_role,Engineer,AESTHETIC,mean,4.138211
+posttraining_rating_by_role,Engineer,AESTHETIC,median,4
+posttraining_rating_by_role,Engineer,AESTHETIC,sd,1.878808
+posttraining_rating_by_role,Engineer,AESTHETIC,ci95_low,3.802854
+posttraining_rating_by_role,Engineer,AESTHETIC,ci95_high,4.473568
+posttraining_rating_by_role,Engineer,BASE,n,116
+posttraining_rating_by_role,Engineer,BASE,mean,4.025862
+posttraining_rating_by_role,Engineer,BASE,median,4
+posttraining_rating_by_role,Engineer,BASE,sd,1.731856
+posttraining_rating_by_role,Engineer,BASE,ci95_low,3.707351
+posttraining_rating_by_role,Engineer,BASE,ci95_high,4.344374
+posttraining_rating_by_role,Engineer,CONTROL,n,121
+posttraining_rating_by_role,Engineer,CONTROL,mean,4.024793
+posttraining_rating_by_role,Engineer,CONTROL,median,4
+posttraining_rating_by_role,Engineer,CONTROL,sd,1.710082
+posttraining_rating_by_role,Engineer,CONTROL,ci95_low,3.716989
+posttraining_rating_by_role,Engineer,CONTROL,ci95_high,4.332597
+posttraining_rating_by_role,NonExpert,AESTHETIC,n,1046
+posttraining_rating_by_role,NonExpert,AESTHETIC,mean,3.818356
+posttraining_rating_by_role,NonExpert,AESTHETIC,median,4
+posttraining_rating_by_role,NonExpert,AESTHETIC,sd,1.781212
+posttraining_rating_by_role,NonExpert,AESTHETIC,ci95_low,3.710287
+posttraining_rating_by_role,NonExpert,AESTHETIC,ci95_high,3.926425
+posttraining_rating_by_role,NonExpert,BASE,n,1068
+posttraining_rating_by_role,NonExpert,BASE,mean,3.860487
+posttraining_rating_by_role,NonExpert,BASE,median,4
+posttraining_rating_by_role,NonExpert,BASE,sd,1.831775
+posttraining_rating_by_role,NonExpert,BASE,ci95_low,3.750503
+posttraining_rating_by_role,NonExpert,BASE,ci95_high,3.97047
+posttraining_rating_by_role,NonExpert,CONTROL,n,1057
+posttraining_rating_by_role,NonExpert,CONTROL,mean,3.785241
+posttraining_rating_by_role,NonExpert,CONTROL,median,4
+posttraining_rating_by_role,NonExpert,CONTROL,sd,1.800739
+posttraining_rating_by_role,NonExpert,CONTROL,ci95_low,3.676559
+posttraining_rating_by_role,NonExpert,CONTROL,ci95_high,3.893924
+posttraining_rating_by_role,Other,AESTHETIC,n,366
+posttraining_rating_by_role,Other,AESTHETIC,mean,4.336066
+posttraining_rating_by_role,Other,AESTHETIC,median,4
+posttraining_rating_by_role,Other,AESTHETIC,sd,1.724651
+posttraining_rating_by_role,Other,AESTHETIC,ci95_low,4.158789
+posttraining_rating_by_role,Other,AESTHETIC,ci95_high,4.513342
+posttraining_rating_by_role,Other,BASE,n,386
+posttraining_rating_by_role,Other,BASE,mean,4.11658
+posttraining_rating_by_role,Other,BASE,median,4
+posttraining_rating_by_role,Other,BASE,sd,1.777021
+posttraining_rating_by_role,Other,BASE,ci95_low,3.938747
+posttraining_rating_by_role,Other,BASE,ci95_high,4.294414
+posttraining_rating_by_role,Other,CONTROL,n,383
+posttraining_rating_by_role,Other,CONTROL,mean,4.255875
+posttraining_rating_by_role,Other,CONTROL,median,4
+posttraining_rating_by_role,Other,CONTROL,sd,1.800905
+posttraining_rating_by_role,Other,CONTROL,ci95_low,4.074942
+posttraining_rating_by_role,Other,CONTROL,ci95_high,4.436808
+pairwise_by_condition,all,AESTHETIC,comparisons,3147
+pairwise_by_condition,all,AESTHETIC,wins,1346
+pairwise_by_condition,all,AESTHETIC,losses,1315
+pairwise_by_condition,all,AESTHETIC,ties,486
+pairwise_by_condition,all,AESTHETIC,win_rate_excl_ties,0.505825
+pairwise_by_condition,all,BASE,comparisons,3157
+pairwise_by_condition,all,BASE,wins,1400
+pairwise_by_condition,all,BASE,losses,1290
+pairwise_by_condition,all,BASE,ties,467
+pairwise_by_condition,all,BASE,win_rate_excl_ties,0.520446
+pairwise_by_condition,all,CONTROL,comparisons,3168
+pairwise_by_condition,all,CONTROL,wins,1264
+pairwise_by_condition,all,CONTROL,losses,1405
+pairwise_by_condition,all,CONTROL,ties,499
+pairwise_by_condition,all,CONTROL,win_rate_excl_ties,0.473586
+pairwise_by_pair_overall,all,AESTHETIC vs BASE,comparisons,1568
+pairwise_by_pair_overall,all,AESTHETIC vs BASE,wins_AESTHETIC,669
+pairwise_by_pair_overall,all,AESTHETIC vs BASE,wins_BASE,672
+pairwise_by_pair_overall,all,AESTHETIC vs BASE,ties,227
+pairwise_by_pair_overall,all,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.498881
+pairwise_by_pair_overall,all,AESTHETIC vs CONTROL,comparisons,1579
+pairwise_by_pair_overall,all,AESTHETIC vs CONTROL,wins_AESTHETIC,677
+pairwise_by_pair_overall,all,AESTHETIC vs CONTROL,wins_CONTROL,643
+pairwise_by_pair_overall,all,AESTHETIC vs CONTROL,ties,259
+pairwise_by_pair_overall,all,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.512879
+pairwise_by_pair_overall,all,BASE vs CONTROL,comparisons,1589
+pairwise_by_pair_overall,all,BASE vs CONTROL,wins_BASE,728
+pairwise_by_pair_overall,all,BASE vs CONTROL,wins_CONTROL,621
+pairwise_by_pair_overall,all,BASE vs CONTROL,ties,240
+pairwise_by_pair_overall,all,BASE vs CONTROL,win_rate_BASE_excl_ties,0.539659
+pairwise_by_pair_prompt,A01,AESTHETIC vs BASE,comparisons,20
+pairwise_by_pair_prompt,A01,AESTHETIC vs BASE,wins_AESTHETIC,6
+pairwise_by_pair_prompt,A01,AESTHETIC vs BASE,wins_BASE,13
+pairwise_by_pair_prompt,A01,AESTHETIC vs BASE,ties,1
+pairwise_by_pair_prompt,A01,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.315789
+pairwise_by_pair_prompt,A01,AESTHETIC vs CONTROL,comparisons,21
+pairwise_by_pair_prompt,A01,AESTHETIC vs CONTROL,wins_AESTHETIC,6
+pairwise_by_pair_prompt,A01,AESTHETIC vs CONTROL,wins_CONTROL,12
+pairwise_by_pair_prompt,A01,AESTHETIC vs CONTROL,ties,3
+pairwise_by_pair_prompt,A01,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.333333
+pairwise_by_pair_prompt,A01,BASE vs CONTROL,comparisons,20
+pairwise_by_pair_prompt,A01,BASE vs CONTROL,wins_BASE,12
+pairwise_by_pair_prompt,A01,BASE vs CONTROL,wins_CONTROL,6
+pairwise_by_pair_prompt,A01,BASE vs CONTROL,ties,2
+pairwise_by_pair_prompt,A01,BASE vs CONTROL,win_rate_BASE_excl_ties,0.666667
+pairwise_by_pair_prompt,A02,AESTHETIC vs BASE,comparisons,31
+pairwise_by_pair_prompt,A02,AESTHETIC vs BASE,wins_AESTHETIC,16
+pairwise_by_pair_prompt,A02,AESTHETIC vs BASE,wins_BASE,10
+pairwise_by_pair_prompt,A02,AESTHETIC vs BASE,ties,5
+pairwise_by_pair_prompt,A02,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.615385
+pairwise_by_pair_prompt,A02,AESTHETIC vs CONTROL,comparisons,30
+pairwise_by_pair_prompt,A02,AESTHETIC vs CONTROL,wins_AESTHETIC,18
+pairwise_by_pair_prompt,A02,AESTHETIC vs CONTROL,wins_CONTROL,8
+pairwise_by_pair_prompt,A02,AESTHETIC vs CONTROL,ties,4
+pairwise_by_pair_prompt,A02,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.692308
+pairwise_by_pair_prompt,A02,BASE vs CONTROL,comparisons,29
+pairwise_by_pair_prompt,A02,BASE vs CONTROL,wins_BASE,6
+pairwise_by_pair_prompt,A02,BASE vs CONTROL,wins_CONTROL,17
+pairwise_by_pair_prompt,A02,BASE vs CONTROL,ties,6
+pairwise_by_pair_prompt,A02,BASE vs CONTROL,win_rate_BASE_excl_ties,0.26087
+pairwise_by_pair_prompt,A04,AESTHETIC vs BASE,comparisons,37
+pairwise_by_pair_prompt,A04,AESTHETIC vs BASE,wins_AESTHETIC,15
+pairwise_by_pair_prompt,A04,AESTHETIC vs BASE,wins_BASE,15
+pairwise_by_pair_prompt,A04,AESTHETIC vs BASE,ties,7
+pairwise_by_pair_prompt,A04,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.5
+pairwise_by_pair_prompt,A04,AESTHETIC vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,A04,AESTHETIC vs CONTROL,wins_AESTHETIC,12
+pairwise_by_pair_prompt,A04,AESTHETIC vs CONTROL,wins_CONTROL,15
+pairwise_by_pair_prompt,A04,AESTHETIC vs CONTROL,ties,12
+pairwise_by_pair_prompt,A04,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.444444
+pairwise_by_pair_prompt,A04,BASE vs CONTROL,comparisons,43
+pairwise_by_pair_prompt,A04,BASE vs CONTROL,wins_BASE,26
+pairwise_by_pair_prompt,A04,BASE vs CONTROL,wins_CONTROL,7
+pairwise_by_pair_prompt,A04,BASE vs CONTROL,ties,10
+pairwise_by_pair_prompt,A04,BASE vs CONTROL,win_rate_BASE_excl_ties,0.787879
+pairwise_by_pair_prompt,A07,AESTHETIC vs BASE,comparisons,30
+pairwise_by_pair_prompt,A07,AESTHETIC vs BASE,wins_AESTHETIC,11
+pairwise_by_pair_prompt,A07,AESTHETIC vs BASE,wins_BASE,14
+pairwise_by_pair_prompt,A07,AESTHETIC vs BASE,ties,5
+pairwise_by_pair_prompt,A07,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.44
+pairwise_by_pair_prompt,A07,AESTHETIC vs CONTROL,comparisons,29
+pairwise_by_pair_prompt,A07,AESTHETIC vs CONTROL,wins_AESTHETIC,13
+pairwise_by_pair_prompt,A07,AESTHETIC vs CONTROL,wins_CONTROL,13
+pairwise_by_pair_prompt,A07,AESTHETIC vs CONTROL,ties,3
+pairwise_by_pair_prompt,A07,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.5
+pairwise_by_pair_prompt,A07,BASE vs CONTROL,comparisons,30
+pairwise_by_pair_prompt,A07,BASE vs CONTROL,wins_BASE,10
+pairwise_by_pair_prompt,A07,BASE vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,A07,BASE vs CONTROL,ties,6
+pairwise_by_pair_prompt,A07,BASE vs CONTROL,win_rate_BASE_excl_ties,0.416667
+pairwise_by_pair_prompt,A08,AESTHETIC vs BASE,comparisons,39
+pairwise_by_pair_prompt,A08,AESTHETIC vs BASE,wins_AESTHETIC,14
+pairwise_by_pair_prompt,A08,AESTHETIC vs BASE,wins_BASE,23
+pairwise_by_pair_prompt,A08,AESTHETIC vs BASE,ties,2
+pairwise_by_pair_prompt,A08,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.378378
+pairwise_by_pair_prompt,A08,AESTHETIC vs CONTROL,comparisons,43
+pairwise_by_pair_prompt,A08,AESTHETIC vs CONTROL,wins_AESTHETIC,22
+pairwise_by_pair_prompt,A08,AESTHETIC vs CONTROL,wins_CONTROL,19
+pairwise_by_pair_prompt,A08,AESTHETIC vs CONTROL,ties,2
+pairwise_by_pair_prompt,A08,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.536585
+pairwise_by_pair_prompt,A08,BASE vs CONTROL,comparisons,43
+pairwise_by_pair_prompt,A08,BASE vs CONTROL,wins_BASE,27
+pairwise_by_pair_prompt,A08,BASE vs CONTROL,wins_CONTROL,16
+pairwise_by_pair_prompt,A08,BASE vs CONTROL,ties,0
+pairwise_by_pair_prompt,A08,BASE vs CONTROL,win_rate_BASE_excl_ties,0.627907
+pairwise_by_pair_prompt,A09,AESTHETIC vs BASE,comparisons,27
+pairwise_by_pair_prompt,A09,AESTHETIC vs BASE,wins_AESTHETIC,11
+pairwise_by_pair_prompt,A09,AESTHETIC vs BASE,wins_BASE,12
+pairwise_by_pair_prompt,A09,AESTHETIC vs BASE,ties,4
+pairwise_by_pair_prompt,A09,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.478261
+pairwise_by_pair_prompt,A09,AESTHETIC vs CONTROL,comparisons,28
+pairwise_by_pair_prompt,A09,AESTHETIC vs CONTROL,wins_AESTHETIC,13
+pairwise_by_pair_prompt,A09,AESTHETIC vs CONTROL,wins_CONTROL,11
+pairwise_by_pair_prompt,A09,AESTHETIC vs CONTROL,ties,4
+pairwise_by_pair_prompt,A09,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.541667
+pairwise_by_pair_prompt,A09,BASE vs CONTROL,comparisons,31
+pairwise_by_pair_prompt,A09,BASE vs CONTROL,wins_BASE,9
+pairwise_by_pair_prompt,A09,BASE vs CONTROL,wins_CONTROL,17
+pairwise_by_pair_prompt,A09,BASE vs CONTROL,ties,5
+pairwise_by_pair_prompt,A09,BASE vs CONTROL,win_rate_BASE_excl_ties,0.346154
+pairwise_by_pair_prompt,A11,AESTHETIC vs BASE,comparisons,42
+pairwise_by_pair_prompt,A11,AESTHETIC vs BASE,wins_AESTHETIC,12
+pairwise_by_pair_prompt,A11,AESTHETIC vs BASE,wins_BASE,28
+pairwise_by_pair_prompt,A11,AESTHETIC vs BASE,ties,2
+pairwise_by_pair_prompt,A11,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.3
+pairwise_by_pair_prompt,A11,AESTHETIC vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,A11,AESTHETIC vs CONTROL,wins_AESTHETIC,12
+pairwise_by_pair_prompt,A11,AESTHETIC vs CONTROL,wins_CONTROL,24
+pairwise_by_pair_prompt,A11,AESTHETIC vs CONTROL,ties,4
+pairwise_by_pair_prompt,A11,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.333333
+pairwise_by_pair_prompt,A11,BASE vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,A11,BASE vs CONTROL,wins_BASE,18
+pairwise_by_pair_prompt,A11,BASE vs CONTROL,wins_CONTROL,22
+pairwise_by_pair_prompt,A11,BASE vs CONTROL,ties,0
+pairwise_by_pair_prompt,A11,BASE vs CONTROL,win_rate_BASE_excl_ties,0.45
+pairwise_by_pair_prompt,A13,AESTHETIC vs BASE,comparisons,28
+pairwise_by_pair_prompt,A13,AESTHETIC vs BASE,wins_AESTHETIC,15
+pairwise_by_pair_prompt,A13,AESTHETIC vs BASE,wins_BASE,11
+pairwise_by_pair_prompt,A13,AESTHETIC vs BASE,ties,2
+pairwise_by_pair_prompt,A13,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.576923
+pairwise_by_pair_prompt,A13,AESTHETIC vs CONTROL,comparisons,28
+pairwise_by_pair_prompt,A13,AESTHETIC vs CONTROL,wins_AESTHETIC,11
+pairwise_by_pair_prompt,A13,AESTHETIC vs CONTROL,wins_CONTROL,13
+pairwise_by_pair_prompt,A13,AESTHETIC vs CONTROL,ties,4
+pairwise_by_pair_prompt,A13,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.458333
+pairwise_by_pair_prompt,A13,BASE vs CONTROL,comparisons,30
+pairwise_by_pair_prompt,A13,BASE vs CONTROL,wins_BASE,13
+pairwise_by_pair_prompt,A13,BASE vs CONTROL,wins_CONTROL,9
+pairwise_by_pair_prompt,A13,BASE vs CONTROL,ties,8
+pairwise_by_pair_prompt,A13,BASE vs CONTROL,win_rate_BASE_excl_ties,0.590909
+pairwise_by_pair_prompt,A15,AESTHETIC vs BASE,comparisons,9
+pairwise_by_pair_prompt,A15,AESTHETIC vs BASE,wins_AESTHETIC,3
+pairwise_by_pair_prompt,A15,AESTHETIC vs BASE,wins_BASE,4
+pairwise_by_pair_prompt,A15,AESTHETIC vs BASE,ties,2
+pairwise_by_pair_prompt,A15,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.428571
+pairwise_by_pair_prompt,A15,AESTHETIC vs CONTROL,comparisons,10
+pairwise_by_pair_prompt,A15,AESTHETIC vs CONTROL,wins_AESTHETIC,4
+pairwise_by_pair_prompt,A15,AESTHETIC vs CONTROL,wins_CONTROL,6
+pairwise_by_pair_prompt,A15,AESTHETIC vs CONTROL,ties,0
+pairwise_by_pair_prompt,A15,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.4
+pairwise_by_pair_prompt,A15,BASE vs CONTROL,comparisons,11
+pairwise_by_pair_prompt,A15,BASE vs CONTROL,wins_BASE,1
+pairwise_by_pair_prompt,A15,BASE vs CONTROL,wins_CONTROL,9
+pairwise_by_pair_prompt,A15,BASE vs CONTROL,ties,1
+pairwise_by_pair_prompt,A15,BASE vs CONTROL,win_rate_BASE_excl_ties,0.1
+pairwise_by_pair_prompt,A22,AESTHETIC vs BASE,comparisons,40
+pairwise_by_pair_prompt,A22,AESTHETIC vs BASE,wins_AESTHETIC,18
+pairwise_by_pair_prompt,A22,AESTHETIC vs BASE,wins_BASE,15
+pairwise_by_pair_prompt,A22,AESTHETIC vs BASE,ties,7
+pairwise_by_pair_prompt,A22,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.545455
+pairwise_by_pair_prompt,A22,AESTHETIC vs CONTROL,comparisons,42
+pairwise_by_pair_prompt,A22,AESTHETIC vs CONTROL,wins_AESTHETIC,24
+pairwise_by_pair_prompt,A22,AESTHETIC vs CONTROL,wins_CONTROL,13
+pairwise_by_pair_prompt,A22,AESTHETIC vs CONTROL,ties,5
+pairwise_by_pair_prompt,A22,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.648649
+pairwise_by_pair_prompt,A22,BASE vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,A22,BASE vs CONTROL,wins_BASE,15
+pairwise_by_pair_prompt,A22,BASE vs CONTROL,wins_CONTROL,15
+pairwise_by_pair_prompt,A22,BASE vs CONTROL,ties,9
+pairwise_by_pair_prompt,A22,BASE vs CONTROL,win_rate_BASE_excl_ties,0.5
+pairwise_by_pair_prompt,A25,AESTHETIC vs BASE,comparisons,41
+pairwise_by_pair_prompt,A25,AESTHETIC vs BASE,wins_AESTHETIC,22
+pairwise_by_pair_prompt,A25,AESTHETIC vs BASE,wins_BASE,18
+pairwise_by_pair_prompt,A25,AESTHETIC vs BASE,ties,1
+pairwise_by_pair_prompt,A25,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.55
+pairwise_by_pair_prompt,A25,AESTHETIC vs CONTROL,comparisons,42
+pairwise_by_pair_prompt,A25,AESTHETIC vs CONTROL,wins_AESTHETIC,25
+pairwise_by_pair_prompt,A25,AESTHETIC vs CONTROL,wins_CONTROL,16
+pairwise_by_pair_prompt,A25,AESTHETIC vs CONTROL,ties,1
+pairwise_by_pair_prompt,A25,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.609756
+pairwise_by_pair_prompt,A25,BASE vs CONTROL,comparisons,42
+pairwise_by_pair_prompt,A25,BASE vs CONTROL,wins_BASE,26
+pairwise_by_pair_prompt,A25,BASE vs CONTROL,wins_CONTROL,16
+pairwise_by_pair_prompt,A25,BASE vs CONTROL,ties,0
+pairwise_by_pair_prompt,A25,BASE vs CONTROL,win_rate_BASE_excl_ties,0.619048
+pairwise_by_pair_prompt,A26,AESTHETIC vs BASE,comparisons,31
+pairwise_by_pair_prompt,A26,AESTHETIC vs BASE,wins_AESTHETIC,22
+pairwise_by_pair_prompt,A26,AESTHETIC vs BASE,wins_BASE,3
+pairwise_by_pair_prompt,A26,AESTHETIC vs BASE,ties,6
+pairwise_by_pair_prompt,A26,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.88
+pairwise_by_pair_prompt,A26,AESTHETIC vs CONTROL,comparisons,32
+pairwise_by_pair_prompt,A26,AESTHETIC vs CONTROL,wins_AESTHETIC,13
+pairwise_by_pair_prompt,A26,AESTHETIC vs CONTROL,wins_CONTROL,11
+pairwise_by_pair_prompt,A26,AESTHETIC vs CONTROL,ties,8
+pairwise_by_pair_prompt,A26,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.541667
+pairwise_by_pair_prompt,A26,BASE vs CONTROL,comparisons,31
+pairwise_by_pair_prompt,A26,BASE vs CONTROL,wins_BASE,9
+pairwise_by_pair_prompt,A26,BASE vs CONTROL,wins_CONTROL,18
+pairwise_by_pair_prompt,A26,BASE vs CONTROL,ties,4
+pairwise_by_pair_prompt,A26,BASE vs CONTROL,win_rate_BASE_excl_ties,0.333333
+pairwise_by_pair_prompt,A27,AESTHETIC vs BASE,comparisons,37
+pairwise_by_pair_prompt,A27,AESTHETIC vs BASE,wins_AESTHETIC,22
+pairwise_by_pair_prompt,A27,AESTHETIC vs BASE,wins_BASE,8
+pairwise_by_pair_prompt,A27,AESTHETIC vs BASE,ties,7
+pairwise_by_pair_prompt,A27,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.733333
+pairwise_by_pair_prompt,A27,AESTHETIC vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,A27,AESTHETIC vs CONTROL,wins_AESTHETIC,16
+pairwise_by_pair_prompt,A27,AESTHETIC vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,A27,AESTHETIC vs CONTROL,ties,10
+pairwise_by_pair_prompt,A27,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.533333
+pairwise_by_pair_prompt,A27,BASE vs CONTROL,comparisons,41
+pairwise_by_pair_prompt,A27,BASE vs CONTROL,wins_BASE,11
+pairwise_by_pair_prompt,A27,BASE vs CONTROL,wins_CONTROL,22
+pairwise_by_pair_prompt,A27,BASE vs CONTROL,ties,8
+pairwise_by_pair_prompt,A27,BASE vs CONTROL,win_rate_BASE_excl_ties,0.333333
+pairwise_by_pair_prompt,B01,AESTHETIC vs BASE,comparisons,40
+pairwise_by_pair_prompt,B01,AESTHETIC vs BASE,wins_AESTHETIC,19
+pairwise_by_pair_prompt,B01,AESTHETIC vs BASE,wins_BASE,18
+pairwise_by_pair_prompt,B01,AESTHETIC vs BASE,ties,3
+pairwise_by_pair_prompt,B01,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.513514
+pairwise_by_pair_prompt,B01,AESTHETIC vs CONTROL,comparisons,37
+pairwise_by_pair_prompt,B01,AESTHETIC vs CONTROL,wins_AESTHETIC,15
+pairwise_by_pair_prompt,B01,AESTHETIC vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,B01,AESTHETIC vs CONTROL,ties,8
+pairwise_by_pair_prompt,B01,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.517241
+pairwise_by_pair_prompt,B01,BASE vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,B01,BASE vs CONTROL,wins_BASE,20
+pairwise_by_pair_prompt,B01,BASE vs CONTROL,wins_CONTROL,9
+pairwise_by_pair_prompt,B01,BASE vs CONTROL,ties,11
+pairwise_by_pair_prompt,B01,BASE vs CONTROL,win_rate_BASE_excl_ties,0.689655
+pairwise_by_pair_prompt,B02,AESTHETIC vs BASE,comparisons,31
+pairwise_by_pair_prompt,B02,AESTHETIC vs BASE,wins_AESTHETIC,9
+pairwise_by_pair_prompt,B02,AESTHETIC vs BASE,wins_BASE,16
+pairwise_by_pair_prompt,B02,AESTHETIC vs BASE,ties,6
+pairwise_by_pair_prompt,B02,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.36
+pairwise_by_pair_prompt,B02,AESTHETIC vs CONTROL,comparisons,31
+pairwise_by_pair_prompt,B02,AESTHETIC vs CONTROL,wins_AESTHETIC,17
+pairwise_by_pair_prompt,B02,AESTHETIC vs CONTROL,wins_CONTROL,9
+pairwise_by_pair_prompt,B02,AESTHETIC vs CONTROL,ties,5
+pairwise_by_pair_prompt,B02,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.653846
+pairwise_by_pair_prompt,B02,BASE vs CONTROL,comparisons,30
+pairwise_by_pair_prompt,B02,BASE vs CONTROL,wins_BASE,19
+pairwise_by_pair_prompt,B02,BASE vs CONTROL,wins_CONTROL,6
+pairwise_by_pair_prompt,B02,BASE vs CONTROL,ties,5
+pairwise_by_pair_prompt,B02,BASE vs CONTROL,win_rate_BASE_excl_ties,0.76
+pairwise_by_pair_prompt,B04,AESTHETIC vs BASE,comparisons,30
+pairwise_by_pair_prompt,B04,AESTHETIC vs BASE,wins_AESTHETIC,20
+pairwise_by_pair_prompt,B04,AESTHETIC vs BASE,wins_BASE,9
+pairwise_by_pair_prompt,B04,AESTHETIC vs BASE,ties,1
+pairwise_by_pair_prompt,B04,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.689655
+pairwise_by_pair_prompt,B04,AESTHETIC vs CONTROL,comparisons,30
+pairwise_by_pair_prompt,B04,AESTHETIC vs CONTROL,wins_AESTHETIC,10
+pairwise_by_pair_prompt,B04,AESTHETIC vs CONTROL,wins_CONTROL,15
+pairwise_by_pair_prompt,B04,AESTHETIC vs CONTROL,ties,5
+pairwise_by_pair_prompt,B04,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.4
+pairwise_by_pair_prompt,B04,BASE vs CONTROL,comparisons,28
+pairwise_by_pair_prompt,B04,BASE vs CONTROL,wins_BASE,10
+pairwise_by_pair_prompt,B04,BASE vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,B04,BASE vs CONTROL,ties,4
+pairwise_by_pair_prompt,B04,BASE vs CONTROL,win_rate_BASE_excl_ties,0.416667
+pairwise_by_pair_prompt,B06,AESTHETIC vs BASE,comparisons,30
+pairwise_by_pair_prompt,B06,AESTHETIC vs BASE,wins_AESTHETIC,9
+pairwise_by_pair_prompt,B06,AESTHETIC vs BASE,wins_BASE,17
+pairwise_by_pair_prompt,B06,AESTHETIC vs BASE,ties,4
+pairwise_by_pair_prompt,B06,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.346154
+pairwise_by_pair_prompt,B06,AESTHETIC vs CONTROL,comparisons,30
+pairwise_by_pair_prompt,B06,AESTHETIC vs CONTROL,wins_AESTHETIC,16
+pairwise_by_pair_prompt,B06,AESTHETIC vs CONTROL,wins_CONTROL,6
+pairwise_by_pair_prompt,B06,AESTHETIC vs CONTROL,ties,8
+pairwise_by_pair_prompt,B06,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.727273
+pairwise_by_pair_prompt,B06,BASE vs CONTROL,comparisons,32
+pairwise_by_pair_prompt,B06,BASE vs CONTROL,wins_BASE,19
+pairwise_by_pair_prompt,B06,BASE vs CONTROL,wins_CONTROL,11
+pairwise_by_pair_prompt,B06,BASE vs CONTROL,ties,2
+pairwise_by_pair_prompt,B06,BASE vs CONTROL,win_rate_BASE_excl_ties,0.633333
+pairwise_by_pair_prompt,B08,AESTHETIC vs BASE,comparisons,10
+pairwise_by_pair_prompt,B08,AESTHETIC vs BASE,wins_AESTHETIC,2
+pairwise_by_pair_prompt,B08,AESTHETIC vs BASE,wins_BASE,7
+pairwise_by_pair_prompt,B08,AESTHETIC vs BASE,ties,1
+pairwise_by_pair_prompt,B08,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.222222
+pairwise_by_pair_prompt,B08,AESTHETIC vs CONTROL,comparisons,11
+pairwise_by_pair_prompt,B08,AESTHETIC vs CONTROL,wins_AESTHETIC,7
+pairwise_by_pair_prompt,B08,AESTHETIC vs CONTROL,wins_CONTROL,2
+pairwise_by_pair_prompt,B08,AESTHETIC vs CONTROL,ties,2
+pairwise_by_pair_prompt,B08,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.777778
+pairwise_by_pair_prompt,B08,BASE vs CONTROL,comparisons,10
+pairwise_by_pair_prompt,B08,BASE vs CONTROL,wins_BASE,7
+pairwise_by_pair_prompt,B08,BASE vs CONTROL,wins_CONTROL,1
+pairwise_by_pair_prompt,B08,BASE vs CONTROL,ties,2
+pairwise_by_pair_prompt,B08,BASE vs CONTROL,win_rate_BASE_excl_ties,0.875
+pairwise_by_pair_prompt,B09,AESTHETIC vs BASE,comparisons,17
+pairwise_by_pair_prompt,B09,AESTHETIC vs BASE,wins_AESTHETIC,6
+pairwise_by_pair_prompt,B09,AESTHETIC vs BASE,wins_BASE,6
+pairwise_by_pair_prompt,B09,AESTHETIC vs BASE,ties,5
+pairwise_by_pair_prompt,B09,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.5
+pairwise_by_pair_prompt,B09,AESTHETIC vs CONTROL,comparisons,19
+pairwise_by_pair_prompt,B09,AESTHETIC vs CONTROL,wins_AESTHETIC,4
+pairwise_by_pair_prompt,B09,AESTHETIC vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,B09,AESTHETIC vs CONTROL,ties,1
+pairwise_by_pair_prompt,B09,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.222222
+pairwise_by_pair_prompt,B09,BASE vs CONTROL,comparisons,21
+pairwise_by_pair_prompt,B09,BASE vs CONTROL,wins_BASE,8
+pairwise_by_pair_prompt,B09,BASE vs CONTROL,wins_CONTROL,8
+pairwise_by_pair_prompt,B09,BASE vs CONTROL,ties,5
+pairwise_by_pair_prompt,B09,BASE vs CONTROL,win_rate_BASE_excl_ties,0.5
+pairwise_by_pair_prompt,B12,AESTHETIC vs BASE,comparisons,30
+pairwise_by_pair_prompt,B12,AESTHETIC vs BASE,wins_AESTHETIC,9
+pairwise_by_pair_prompt,B12,AESTHETIC vs BASE,wins_BASE,17
+pairwise_by_pair_prompt,B12,AESTHETIC vs BASE,ties,4
+pairwise_by_pair_prompt,B12,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.346154
+pairwise_by_pair_prompt,B12,AESTHETIC vs CONTROL,comparisons,27
+pairwise_by_pair_prompt,B12,AESTHETIC vs CONTROL,wins_AESTHETIC,13
+pairwise_by_pair_prompt,B12,AESTHETIC vs CONTROL,wins_CONTROL,12
+pairwise_by_pair_prompt,B12,AESTHETIC vs CONTROL,ties,2
+pairwise_by_pair_prompt,B12,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.52
+pairwise_by_pair_prompt,B12,BASE vs CONTROL,comparisons,29
+pairwise_by_pair_prompt,B12,BASE vs CONTROL,wins_BASE,11
+pairwise_by_pair_prompt,B12,BASE vs CONTROL,wins_CONTROL,11
+pairwise_by_pair_prompt,B12,BASE vs CONTROL,ties,7
+pairwise_by_pair_prompt,B12,BASE vs CONTROL,win_rate_BASE_excl_ties,0.5
+pairwise_by_pair_prompt,B14,AESTHETIC vs BASE,comparisons,38
+pairwise_by_pair_prompt,B14,AESTHETIC vs BASE,wins_AESTHETIC,17
+pairwise_by_pair_prompt,B14,AESTHETIC vs BASE,wins_BASE,12
+pairwise_by_pair_prompt,B14,AESTHETIC vs BASE,ties,9
+pairwise_by_pair_prompt,B14,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.586207
+pairwise_by_pair_prompt,B14,AESTHETIC vs CONTROL,comparisons,38
+pairwise_by_pair_prompt,B14,AESTHETIC vs CONTROL,wins_AESTHETIC,17
+pairwise_by_pair_prompt,B14,AESTHETIC vs CONTROL,wins_CONTROL,10
+pairwise_by_pair_prompt,B14,AESTHETIC vs CONTROL,ties,11
+pairwise_by_pair_prompt,B14,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.62963
+pairwise_by_pair_prompt,B14,BASE vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,B14,BASE vs CONTROL,wins_BASE,16
+pairwise_by_pair_prompt,B14,BASE vs CONTROL,wins_CONTROL,11
+pairwise_by_pair_prompt,B14,BASE vs CONTROL,ties,13
+pairwise_by_pair_prompt,B14,BASE vs CONTROL,win_rate_BASE_excl_ties,0.592593
+pairwise_by_pair_prompt,B15,AESTHETIC vs BASE,comparisons,40
+pairwise_by_pair_prompt,B15,AESTHETIC vs BASE,wins_AESTHETIC,16
+pairwise_by_pair_prompt,B15,AESTHETIC vs BASE,wins_BASE,21
+pairwise_by_pair_prompt,B15,AESTHETIC vs BASE,ties,3
+pairwise_by_pair_prompt,B15,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.432432
+pairwise_by_pair_prompt,B15,AESTHETIC vs CONTROL,comparisons,42
+pairwise_by_pair_prompt,B15,AESTHETIC vs CONTROL,wins_AESTHETIC,11
+pairwise_by_pair_prompt,B15,AESTHETIC vs CONTROL,wins_CONTROL,24
+pairwise_by_pair_prompt,B15,AESTHETIC vs CONTROL,ties,7
+pairwise_by_pair_prompt,B15,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.314286
+pairwise_by_pair_prompt,B15,BASE vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,B15,BASE vs CONTROL,wins_BASE,13
+pairwise_by_pair_prompt,B15,BASE vs CONTROL,wins_CONTROL,21
+pairwise_by_pair_prompt,B15,BASE vs CONTROL,ties,5
+pairwise_by_pair_prompt,B15,BASE vs CONTROL,win_rate_BASE_excl_ties,0.382353
+pairwise_by_pair_prompt,B19,AESTHETIC vs BASE,comparisons,37
+pairwise_by_pair_prompt,B19,AESTHETIC vs BASE,wins_AESTHETIC,17
+pairwise_by_pair_prompt,B19,AESTHETIC vs BASE,wins_BASE,15
+pairwise_by_pair_prompt,B19,AESTHETIC vs BASE,ties,5
+pairwise_by_pair_prompt,B19,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.53125
+pairwise_by_pair_prompt,B19,AESTHETIC vs CONTROL,comparisons,41
+pairwise_by_pair_prompt,B19,AESTHETIC vs CONTROL,wins_AESTHETIC,17
+pairwise_by_pair_prompt,B19,AESTHETIC vs CONTROL,wins_CONTROL,13
+pairwise_by_pair_prompt,B19,AESTHETIC vs CONTROL,ties,11
+pairwise_by_pair_prompt,B19,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.566667
+pairwise_by_pair_prompt,B19,BASE vs CONTROL,comparisons,41
+pairwise_by_pair_prompt,B19,BASE vs CONTROL,wins_BASE,22
+pairwise_by_pair_prompt,B19,BASE vs CONTROL,wins_CONTROL,16
+pairwise_by_pair_prompt,B19,BASE vs CONTROL,ties,3
+pairwise_by_pair_prompt,B19,BASE vs CONTROL,win_rate_BASE_excl_ties,0.578947
+pairwise_by_pair_prompt,B20,AESTHETIC vs BASE,comparisons,38
+pairwise_by_pair_prompt,B20,AESTHETIC vs BASE,wins_AESTHETIC,13
+pairwise_by_pair_prompt,B20,AESTHETIC vs BASE,wins_BASE,19
+pairwise_by_pair_prompt,B20,AESTHETIC vs BASE,ties,6
+pairwise_by_pair_prompt,B20,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.40625
+pairwise_by_pair_prompt,B20,AESTHETIC vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,B20,AESTHETIC vs CONTROL,wins_AESTHETIC,23
+pairwise_by_pair_prompt,B20,AESTHETIC vs CONTROL,wins_CONTROL,13
+pairwise_by_pair_prompt,B20,AESTHETIC vs CONTROL,ties,4
+pairwise_by_pair_prompt,B20,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.638889
+pairwise_by_pair_prompt,B20,BASE vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,B20,BASE vs CONTROL,wins_BASE,20
+pairwise_by_pair_prompt,B20,BASE vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,B20,BASE vs CONTROL,ties,6
+pairwise_by_pair_prompt,B20,BASE vs CONTROL,win_rate_BASE_excl_ties,0.588235
+pairwise_by_pair_prompt,B23,AESTHETIC vs BASE,comparisons,38
+pairwise_by_pair_prompt,B23,AESTHETIC vs BASE,wins_AESTHETIC,16
+pairwise_by_pair_prompt,B23,AESTHETIC vs BASE,wins_BASE,10
+pairwise_by_pair_prompt,B23,AESTHETIC vs BASE,ties,12
+pairwise_by_pair_prompt,B23,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.615385
+pairwise_by_pair_prompt,B23,AESTHETIC vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,B23,AESTHETIC vs CONTROL,wins_AESTHETIC,23
+pairwise_by_pair_prompt,B23,AESTHETIC vs CONTROL,wins_CONTROL,9
+pairwise_by_pair_prompt,B23,AESTHETIC vs CONTROL,ties,7
+pairwise_by_pair_prompt,B23,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.71875
+pairwise_by_pair_prompt,B23,BASE vs CONTROL,comparisons,37
+pairwise_by_pair_prompt,B23,BASE vs CONTROL,wins_BASE,13
+pairwise_by_pair_prompt,B23,BASE vs CONTROL,wins_CONTROL,20
+pairwise_by_pair_prompt,B23,BASE vs CONTROL,ties,4
+pairwise_by_pair_prompt,B23,BASE vs CONTROL,win_rate_BASE_excl_ties,0.393939
+pairwise_by_pair_prompt,B25,AESTHETIC vs BASE,comparisons,20
+pairwise_by_pair_prompt,B25,AESTHETIC vs BASE,wins_AESTHETIC,12
+pairwise_by_pair_prompt,B25,AESTHETIC vs BASE,wins_BASE,5
+pairwise_by_pair_prompt,B25,AESTHETIC vs BASE,ties,3
+pairwise_by_pair_prompt,B25,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.705882
+pairwise_by_pair_prompt,B25,AESTHETIC vs CONTROL,comparisons,18
+pairwise_by_pair_prompt,B25,AESTHETIC vs CONTROL,wins_AESTHETIC,5
+pairwise_by_pair_prompt,B25,AESTHETIC vs CONTROL,wins_CONTROL,11
+pairwise_by_pair_prompt,B25,AESTHETIC vs CONTROL,ties,2
+pairwise_by_pair_prompt,B25,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.3125
+pairwise_by_pair_prompt,B25,BASE vs CONTROL,comparisons,18
+pairwise_by_pair_prompt,B25,BASE vs CONTROL,wins_BASE,7
+pairwise_by_pair_prompt,B25,BASE vs CONTROL,wins_CONTROL,8
+pairwise_by_pair_prompt,B25,BASE vs CONTROL,ties,3
+pairwise_by_pair_prompt,B25,BASE vs CONTROL,win_rate_BASE_excl_ties,0.466667
+pairwise_by_pair_prompt,B26,AESTHETIC vs BASE,comparisons,42
+pairwise_by_pair_prompt,B26,AESTHETIC vs BASE,wins_AESTHETIC,17
+pairwise_by_pair_prompt,B26,AESTHETIC vs BASE,wins_BASE,19
+pairwise_by_pair_prompt,B26,AESTHETIC vs BASE,ties,6
+pairwise_by_pair_prompt,B26,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.472222
+pairwise_by_pair_prompt,B26,AESTHETIC vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,B26,AESTHETIC vs CONTROL,wins_AESTHETIC,15
+pairwise_by_pair_prompt,B26,AESTHETIC vs CONTROL,wins_CONTROL,15
+pairwise_by_pair_prompt,B26,AESTHETIC vs CONTROL,ties,9
+pairwise_by_pair_prompt,B26,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.5
+pairwise_by_pair_prompt,B26,BASE vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,B26,BASE vs CONTROL,wins_BASE,14
+pairwise_by_pair_prompt,B26,BASE vs CONTROL,wins_CONTROL,17
+pairwise_by_pair_prompt,B26,BASE vs CONTROL,ties,8
+pairwise_by_pair_prompt,B26,BASE vs CONTROL,win_rate_BASE_excl_ties,0.451613
+pairwise_by_pair_prompt,B27,AESTHETIC vs BASE,comparisons,40
+pairwise_by_pair_prompt,B27,AESTHETIC vs BASE,wins_AESTHETIC,25
+pairwise_by_pair_prompt,B27,AESTHETIC vs BASE,wins_BASE,14
+pairwise_by_pair_prompt,B27,AESTHETIC vs BASE,ties,1
+pairwise_by_pair_prompt,B27,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.641026
+pairwise_by_pair_prompt,B27,AESTHETIC vs CONTROL,comparisons,35
+pairwise_by_pair_prompt,B27,AESTHETIC vs CONTROL,wins_AESTHETIC,19
+pairwise_by_pair_prompt,B27,AESTHETIC vs CONTROL,wins_CONTROL,16
+pairwise_by_pair_prompt,B27,AESTHETIC vs CONTROL,ties,0
+pairwise_by_pair_prompt,B27,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.542857
+pairwise_by_pair_prompt,B27,BASE vs CONTROL,comparisons,38
+pairwise_by_pair_prompt,B27,BASE vs CONTROL,wins_BASE,20
+pairwise_by_pair_prompt,B27,BASE vs CONTROL,wins_CONTROL,16
+pairwise_by_pair_prompt,B27,BASE vs CONTROL,ties,2
+pairwise_by_pair_prompt,B27,BASE vs CONTROL,win_rate_BASE_excl_ties,0.555556
+pairwise_by_pair_prompt,B29,AESTHETIC vs BASE,comparisons,18
+pairwise_by_pair_prompt,B29,AESTHETIC vs BASE,wins_AESTHETIC,10
+pairwise_by_pair_prompt,B29,AESTHETIC vs BASE,wins_BASE,5
+pairwise_by_pair_prompt,B29,AESTHETIC vs BASE,ties,3
+pairwise_by_pair_prompt,B29,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.666667
+pairwise_by_pair_prompt,B29,AESTHETIC vs CONTROL,comparisons,21
+pairwise_by_pair_prompt,B29,AESTHETIC vs CONTROL,wins_AESTHETIC,6
+pairwise_by_pair_prompt,B29,AESTHETIC vs CONTROL,wins_CONTROL,11
+pairwise_by_pair_prompt,B29,AESTHETIC vs CONTROL,ties,4
+pairwise_by_pair_prompt,B29,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.352941
+pairwise_by_pair_prompt,B29,BASE vs CONTROL,comparisons,21
+pairwise_by_pair_prompt,B29,BASE vs CONTROL,wins_BASE,7
+pairwise_by_pair_prompt,B29,BASE vs CONTROL,wins_CONTROL,11
+pairwise_by_pair_prompt,B29,BASE vs CONTROL,ties,3
+pairwise_by_pair_prompt,B29,BASE vs CONTROL,win_rate_BASE_excl_ties,0.388889
+pairwise_by_pair_prompt,C01,AESTHETIC vs BASE,comparisons,29
+pairwise_by_pair_prompt,C01,AESTHETIC vs BASE,wins_AESTHETIC,17
+pairwise_by_pair_prompt,C01,AESTHETIC vs BASE,wins_BASE,7
+pairwise_by_pair_prompt,C01,AESTHETIC vs BASE,ties,5
+pairwise_by_pair_prompt,C01,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.708333
+pairwise_by_pair_prompt,C01,AESTHETIC vs CONTROL,comparisons,29
+pairwise_by_pair_prompt,C01,AESTHETIC vs CONTROL,wins_AESTHETIC,11
+pairwise_by_pair_prompt,C01,AESTHETIC vs CONTROL,wins_CONTROL,9
+pairwise_by_pair_prompt,C01,AESTHETIC vs CONTROL,ties,9
+pairwise_by_pair_prompt,C01,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.55
+pairwise_by_pair_prompt,C01,BASE vs CONTROL,comparisons,27
+pairwise_by_pair_prompt,C01,BASE vs CONTROL,wins_BASE,17
+pairwise_by_pair_prompt,C01,BASE vs CONTROL,wins_CONTROL,6
+pairwise_by_pair_prompt,C01,BASE vs CONTROL,ties,4
+pairwise_by_pair_prompt,C01,BASE vs CONTROL,win_rate_BASE_excl_ties,0.73913
+pairwise_by_pair_prompt,C02,AESTHETIC vs BASE,comparisons,29
+pairwise_by_pair_prompt,C02,AESTHETIC vs BASE,wins_AESTHETIC,14
+pairwise_by_pair_prompt,C02,AESTHETIC vs BASE,wins_BASE,13
+pairwise_by_pair_prompt,C02,AESTHETIC vs BASE,ties,2
+pairwise_by_pair_prompt,C02,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.518519
+pairwise_by_pair_prompt,C02,AESTHETIC vs CONTROL,comparisons,28
+pairwise_by_pair_prompt,C02,AESTHETIC vs CONTROL,wins_AESTHETIC,11
+pairwise_by_pair_prompt,C02,AESTHETIC vs CONTROL,wins_CONTROL,9
+pairwise_by_pair_prompt,C02,AESTHETIC vs CONTROL,ties,8
+pairwise_by_pair_prompt,C02,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.55
+pairwise_by_pair_prompt,C02,BASE vs CONTROL,comparisons,30
+pairwise_by_pair_prompt,C02,BASE vs CONTROL,wins_BASE,12
+pairwise_by_pair_prompt,C02,BASE vs CONTROL,wins_CONTROL,10
+pairwise_by_pair_prompt,C02,BASE vs CONTROL,ties,8
+pairwise_by_pair_prompt,C02,BASE vs CONTROL,win_rate_BASE_excl_ties,0.545455
+pairwise_by_pair_prompt,C04,AESTHETIC vs BASE,comparisons,40
+pairwise_by_pair_prompt,C04,AESTHETIC vs BASE,wins_AESTHETIC,19
+pairwise_by_pair_prompt,C04,AESTHETIC vs BASE,wins_BASE,20
+pairwise_by_pair_prompt,C04,AESTHETIC vs BASE,ties,1
+pairwise_by_pair_prompt,C04,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.487179
+pairwise_by_pair_prompt,C04,AESTHETIC vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,C04,AESTHETIC vs CONTROL,wins_AESTHETIC,15
+pairwise_by_pair_prompt,C04,AESTHETIC vs CONTROL,wins_CONTROL,18
+pairwise_by_pair_prompt,C04,AESTHETIC vs CONTROL,ties,6
+pairwise_by_pair_prompt,C04,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.454545
+pairwise_by_pair_prompt,C04,BASE vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,C04,BASE vs CONTROL,wins_BASE,23
+pairwise_by_pair_prompt,C04,BASE vs CONTROL,wins_CONTROL,12
+pairwise_by_pair_prompt,C04,BASE vs CONTROL,ties,4
+pairwise_by_pair_prompt,C04,BASE vs CONTROL,win_rate_BASE_excl_ties,0.657143
+pairwise_by_pair_prompt,C05,AESTHETIC vs BASE,comparisons,38
+pairwise_by_pair_prompt,C05,AESTHETIC vs BASE,wins_AESTHETIC,15
+pairwise_by_pair_prompt,C05,AESTHETIC vs BASE,wins_BASE,19
+pairwise_by_pair_prompt,C05,AESTHETIC vs BASE,ties,4
+pairwise_by_pair_prompt,C05,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.441176
+pairwise_by_pair_prompt,C05,AESTHETIC vs CONTROL,comparisons,41
+pairwise_by_pair_prompt,C05,AESTHETIC vs CONTROL,wins_AESTHETIC,10
+pairwise_by_pair_prompt,C05,AESTHETIC vs CONTROL,wins_CONTROL,26
+pairwise_by_pair_prompt,C05,AESTHETIC vs CONTROL,ties,5
+pairwise_by_pair_prompt,C05,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.277778
+pairwise_by_pair_prompt,C05,BASE vs CONTROL,comparisons,41
+pairwise_by_pair_prompt,C05,BASE vs CONTROL,wins_BASE,17
+pairwise_by_pair_prompt,C05,BASE vs CONTROL,wins_CONTROL,15
+pairwise_by_pair_prompt,C05,BASE vs CONTROL,ties,9
+pairwise_by_pair_prompt,C05,BASE vs CONTROL,win_rate_BASE_excl_ties,0.53125
+pairwise_by_pair_prompt,C06,AESTHETIC vs BASE,comparisons,19
+pairwise_by_pair_prompt,C06,AESTHETIC vs BASE,wins_AESTHETIC,10
+pairwise_by_pair_prompt,C06,AESTHETIC vs BASE,wins_BASE,2
+pairwise_by_pair_prompt,C06,AESTHETIC vs BASE,ties,7
+pairwise_by_pair_prompt,C06,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.833333
+pairwise_by_pair_prompt,C06,AESTHETIC vs CONTROL,comparisons,21
+pairwise_by_pair_prompt,C06,AESTHETIC vs CONTROL,wins_AESTHETIC,5
+pairwise_by_pair_prompt,C06,AESTHETIC vs CONTROL,wins_CONTROL,5
+pairwise_by_pair_prompt,C06,AESTHETIC vs CONTROL,ties,11
+pairwise_by_pair_prompt,C06,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.5
+pairwise_by_pair_prompt,C06,BASE vs CONTROL,comparisons,20
+pairwise_by_pair_prompt,C06,BASE vs CONTROL,wins_BASE,4
+pairwise_by_pair_prompt,C06,BASE vs CONTROL,wins_CONTROL,12
+pairwise_by_pair_prompt,C06,BASE vs CONTROL,ties,4
+pairwise_by_pair_prompt,C06,BASE vs CONTROL,win_rate_BASE_excl_ties,0.25
+pairwise_by_pair_prompt,C07,AESTHETIC vs BASE,comparisons,31
+pairwise_by_pair_prompt,C07,AESTHETIC vs BASE,wins_AESTHETIC,11
+pairwise_by_pair_prompt,C07,AESTHETIC vs BASE,wins_BASE,10
+pairwise_by_pair_prompt,C07,AESTHETIC vs BASE,ties,10
+pairwise_by_pair_prompt,C07,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.52381
+pairwise_by_pair_prompt,C07,AESTHETIC vs CONTROL,comparisons,30
+pairwise_by_pair_prompt,C07,AESTHETIC vs CONTROL,wins_AESTHETIC,20
+pairwise_by_pair_prompt,C07,AESTHETIC vs CONTROL,wins_CONTROL,5
+pairwise_by_pair_prompt,C07,AESTHETIC vs CONTROL,ties,5
+pairwise_by_pair_prompt,C07,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.8
+pairwise_by_pair_prompt,C07,BASE vs CONTROL,comparisons,31
+pairwise_by_pair_prompt,C07,BASE vs CONTROL,wins_BASE,14
+pairwise_by_pair_prompt,C07,BASE vs CONTROL,wins_CONTROL,10
+pairwise_by_pair_prompt,C07,BASE vs CONTROL,ties,7
+pairwise_by_pair_prompt,C07,BASE vs CONTROL,win_rate_BASE_excl_ties,0.583333
+pairwise_by_pair_prompt,C08,AESTHETIC vs BASE,comparisons,40
+pairwise_by_pair_prompt,C08,AESTHETIC vs BASE,wins_AESTHETIC,12
+pairwise_by_pair_prompt,C08,AESTHETIC vs BASE,wins_BASE,18
+pairwise_by_pair_prompt,C08,AESTHETIC vs BASE,ties,10
+pairwise_by_pair_prompt,C08,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.4
+pairwise_by_pair_prompt,C08,AESTHETIC vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,C08,AESTHETIC vs CONTROL,wins_AESTHETIC,20
+pairwise_by_pair_prompt,C08,AESTHETIC vs CONTROL,wins_CONTROL,11
+pairwise_by_pair_prompt,C08,AESTHETIC vs CONTROL,ties,8
+pairwise_by_pair_prompt,C08,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.645161
+pairwise_by_pair_prompt,C08,BASE vs CONTROL,comparisons,41
+pairwise_by_pair_prompt,C08,BASE vs CONTROL,wins_BASE,18
+pairwise_by_pair_prompt,C08,BASE vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,C08,BASE vs CONTROL,ties,9
+pairwise_by_pair_prompt,C08,BASE vs CONTROL,win_rate_BASE_excl_ties,0.5625
+pairwise_by_pair_prompt,C09,AESTHETIC vs BASE,comparisons,32
+pairwise_by_pair_prompt,C09,AESTHETIC vs BASE,wins_AESTHETIC,14
+pairwise_by_pair_prompt,C09,AESTHETIC vs BASE,wins_BASE,12
+pairwise_by_pair_prompt,C09,AESTHETIC vs BASE,ties,6
+pairwise_by_pair_prompt,C09,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.538462
+pairwise_by_pair_prompt,C09,AESTHETIC vs CONTROL,comparisons,32
+pairwise_by_pair_prompt,C09,AESTHETIC vs CONTROL,wins_AESTHETIC,23
+pairwise_by_pair_prompt,C09,AESTHETIC vs CONTROL,wins_CONTROL,5
+pairwise_by_pair_prompt,C09,AESTHETIC vs CONTROL,ties,4
+pairwise_by_pair_prompt,C09,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.821429
+pairwise_by_pair_prompt,C09,BASE vs CONTROL,comparisons,29
+pairwise_by_pair_prompt,C09,BASE vs CONTROL,wins_BASE,16
+pairwise_by_pair_prompt,C09,BASE vs CONTROL,wins_CONTROL,10
+pairwise_by_pair_prompt,C09,BASE vs CONTROL,ties,3
+pairwise_by_pair_prompt,C09,BASE vs CONTROL,win_rate_BASE_excl_ties,0.615385
+pairwise_by_pair_prompt,C10,AESTHETIC vs BASE,comparisons,20
+pairwise_by_pair_prompt,C10,AESTHETIC vs BASE,wins_AESTHETIC,12
+pairwise_by_pair_prompt,C10,AESTHETIC vs BASE,wins_BASE,6
+pairwise_by_pair_prompt,C10,AESTHETIC vs BASE,ties,2
+pairwise_by_pair_prompt,C10,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.666667
+pairwise_by_pair_prompt,C10,AESTHETIC vs CONTROL,comparisons,20
+pairwise_by_pair_prompt,C10,AESTHETIC vs CONTROL,wins_AESTHETIC,7
+pairwise_by_pair_prompt,C10,AESTHETIC vs CONTROL,wins_CONTROL,9
+pairwise_by_pair_prompt,C10,AESTHETIC vs CONTROL,ties,4
+pairwise_by_pair_prompt,C10,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.4375
+pairwise_by_pair_prompt,C10,BASE vs CONTROL,comparisons,20
+pairwise_by_pair_prompt,C10,BASE vs CONTROL,wins_BASE,14
+pairwise_by_pair_prompt,C10,BASE vs CONTROL,wins_CONTROL,5
+pairwise_by_pair_prompt,C10,BASE vs CONTROL,ties,1
+pairwise_by_pair_prompt,C10,BASE vs CONTROL,win_rate_BASE_excl_ties,0.736842
+pairwise_by_pair_prompt,C11,AESTHETIC vs BASE,comparisons,38
+pairwise_by_pair_prompt,C11,AESTHETIC vs BASE,wins_AESTHETIC,15
+pairwise_by_pair_prompt,C11,AESTHETIC vs BASE,wins_BASE,19
+pairwise_by_pair_prompt,C11,AESTHETIC vs BASE,ties,4
+pairwise_by_pair_prompt,C11,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.441176
+pairwise_by_pair_prompt,C11,AESTHETIC vs CONTROL,comparisons,38
+pairwise_by_pair_prompt,C11,AESTHETIC vs CONTROL,wins_AESTHETIC,16
+pairwise_by_pair_prompt,C11,AESTHETIC vs CONTROL,wins_CONTROL,16
+pairwise_by_pair_prompt,C11,AESTHETIC vs CONTROL,ties,6
+pairwise_by_pair_prompt,C11,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.5
+pairwise_by_pair_prompt,C11,BASE vs CONTROL,comparisons,43
+pairwise_by_pair_prompt,C11,BASE vs CONTROL,wins_BASE,23
+pairwise_by_pair_prompt,C11,BASE vs CONTROL,wins_CONTROL,11
+pairwise_by_pair_prompt,C11,BASE vs CONTROL,ties,9
+pairwise_by_pair_prompt,C11,BASE vs CONTROL,win_rate_BASE_excl_ties,0.676471
+pairwise_by_pair_prompt,C12,AESTHETIC vs BASE,comparisons,41
+pairwise_by_pair_prompt,C12,AESTHETIC vs BASE,wins_AESTHETIC,14
+pairwise_by_pair_prompt,C12,AESTHETIC vs BASE,wins_BASE,24
+pairwise_by_pair_prompt,C12,AESTHETIC vs BASE,ties,3
+pairwise_by_pair_prompt,C12,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.368421
+pairwise_by_pair_prompt,C12,AESTHETIC vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,C12,AESTHETIC vs CONTROL,wins_AESTHETIC,16
+pairwise_by_pair_prompt,C12,AESTHETIC vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,C12,AESTHETIC vs CONTROL,ties,10
+pairwise_by_pair_prompt,C12,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.533333
+pairwise_by_pair_prompt,C12,BASE vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,C12,BASE vs CONTROL,wins_BASE,21
+pairwise_by_pair_prompt,C12,BASE vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,C12,BASE vs CONTROL,ties,4
+pairwise_by_pair_prompt,C12,BASE vs CONTROL,win_rate_BASE_excl_ties,0.6
+pairwise_by_pair_prompt,C13,AESTHETIC vs BASE,comparisons,18
+pairwise_by_pair_prompt,C13,AESTHETIC vs BASE,wins_AESTHETIC,6
+pairwise_by_pair_prompt,C13,AESTHETIC vs BASE,wins_BASE,7
+pairwise_by_pair_prompt,C13,AESTHETIC vs BASE,ties,5
+pairwise_by_pair_prompt,C13,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.461538
+pairwise_by_pair_prompt,C13,AESTHETIC vs CONTROL,comparisons,20
+pairwise_by_pair_prompt,C13,AESTHETIC vs CONTROL,wins_AESTHETIC,9
+pairwise_by_pair_prompt,C13,AESTHETIC vs CONTROL,wins_CONTROL,8
+pairwise_by_pair_prompt,C13,AESTHETIC vs CONTROL,ties,3
+pairwise_by_pair_prompt,C13,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.529412
+pairwise_by_pair_prompt,C13,BASE vs CONTROL,comparisons,19
+pairwise_by_pair_prompt,C13,BASE vs CONTROL,wins_BASE,13
+pairwise_by_pair_prompt,C13,BASE vs CONTROL,wins_CONTROL,6
+pairwise_by_pair_prompt,C13,BASE vs CONTROL,ties,0
+pairwise_by_pair_prompt,C13,BASE vs CONTROL,win_rate_BASE_excl_ties,0.684211
+pairwise_by_pair_prompt,C14,AESTHETIC vs BASE,comparisons,41
+pairwise_by_pair_prompt,C14,AESTHETIC vs BASE,wins_AESTHETIC,14
+pairwise_by_pair_prompt,C14,AESTHETIC vs BASE,wins_BASE,15
+pairwise_by_pair_prompt,C14,AESTHETIC vs BASE,ties,12
+pairwise_by_pair_prompt,C14,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.482759
+pairwise_by_pair_prompt,C14,AESTHETIC vs CONTROL,comparisons,43
+pairwise_by_pair_prompt,C14,AESTHETIC vs CONTROL,wins_AESTHETIC,9
+pairwise_by_pair_prompt,C14,AESTHETIC vs CONTROL,wins_CONTROL,22
+pairwise_by_pair_prompt,C14,AESTHETIC vs CONTROL,ties,12
+pairwise_by_pair_prompt,C14,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.290323
+pairwise_by_pair_prompt,C14,BASE vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,C14,BASE vs CONTROL,wins_BASE,17
+pairwise_by_pair_prompt,C14,BASE vs CONTROL,wins_CONTROL,13
+pairwise_by_pair_prompt,C14,BASE vs CONTROL,ties,10
+pairwise_by_pair_prompt,C14,BASE vs CONTROL,win_rate_BASE_excl_ties,0.566667
+pairwise_by_pair_prompt,C15,AESTHETIC vs BASE,comparisons,38
+pairwise_by_pair_prompt,C15,AESTHETIC vs BASE,wins_AESTHETIC,9
+pairwise_by_pair_prompt,C15,AESTHETIC vs BASE,wins_BASE,26
+pairwise_by_pair_prompt,C15,AESTHETIC vs BASE,ties,3
+pairwise_by_pair_prompt,C15,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.257143
+pairwise_by_pair_prompt,C15,AESTHETIC vs CONTROL,comparisons,41
+pairwise_by_pair_prompt,C15,AESTHETIC vs CONTROL,wins_AESTHETIC,18
+pairwise_by_pair_prompt,C15,AESTHETIC vs CONTROL,wins_CONTROL,19
+pairwise_by_pair_prompt,C15,AESTHETIC vs CONTROL,ties,4
+pairwise_by_pair_prompt,C15,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.486486
+pairwise_by_pair_prompt,C15,BASE vs CONTROL,comparisons,36
+pairwise_by_pair_prompt,C15,BASE vs CONTROL,wins_BASE,19
+pairwise_by_pair_prompt,C15,BASE vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,C15,BASE vs CONTROL,ties,3
+pairwise_by_pair_prompt,C15,BASE vs CONTROL,win_rate_BASE_excl_ties,0.575758
+pairwise_by_pair_prompt,C16,AESTHETIC vs BASE,comparisons,40
+pairwise_by_pair_prompt,C16,AESTHETIC vs BASE,wins_AESTHETIC,10
+pairwise_by_pair_prompt,C16,AESTHETIC vs BASE,wins_BASE,21
+pairwise_by_pair_prompt,C16,AESTHETIC vs BASE,ties,9
+pairwise_by_pair_prompt,C16,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.322581
+pairwise_by_pair_prompt,C16,AESTHETIC vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,C16,AESTHETIC vs CONTROL,wins_AESTHETIC,19
+pairwise_by_pair_prompt,C16,AESTHETIC vs CONTROL,wins_CONTROL,15
+pairwise_by_pair_prompt,C16,AESTHETIC vs CONTROL,ties,5
+pairwise_by_pair_prompt,C16,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.558824
+pairwise_by_pair_prompt,C16,BASE vs CONTROL,comparisons,42
+pairwise_by_pair_prompt,C16,BASE vs CONTROL,wins_BASE,23
+pairwise_by_pair_prompt,C16,BASE vs CONTROL,wins_CONTROL,16
+pairwise_by_pair_prompt,C16,BASE vs CONTROL,ties,3
+pairwise_by_pair_prompt,C16,BASE vs CONTROL,win_rate_BASE_excl_ties,0.589744
+pairwise_by_pair_prompt,C17,AESTHETIC vs BASE,comparisons,39
+pairwise_by_pair_prompt,C17,AESTHETIC vs BASE,wins_AESTHETIC,22
+pairwise_by_pair_prompt,C17,AESTHETIC vs BASE,wins_BASE,14
+pairwise_by_pair_prompt,C17,AESTHETIC vs BASE,ties,3
+pairwise_by_pair_prompt,C17,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.611111
+pairwise_by_pair_prompt,C17,AESTHETIC vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,C17,AESTHETIC vs CONTROL,wins_AESTHETIC,16
+pairwise_by_pair_prompt,C17,AESTHETIC vs CONTROL,wins_CONTROL,21
+pairwise_by_pair_prompt,C17,AESTHETIC vs CONTROL,ties,2
+pairwise_by_pair_prompt,C17,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.432432
+pairwise_by_pair_prompt,C17,BASE vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,C17,BASE vs CONTROL,wins_BASE,15
+pairwise_by_pair_prompt,C17,BASE vs CONTROL,wins_CONTROL,22
+pairwise_by_pair_prompt,C17,BASE vs CONTROL,ties,3
+pairwise_by_pair_prompt,C17,BASE vs CONTROL,win_rate_BASE_excl_ties,0.405405
+pairwise_by_pair_prompt,C18,AESTHETIC vs BASE,comparisons,41
+pairwise_by_pair_prompt,C18,AESTHETIC vs BASE,wins_AESTHETIC,13
+pairwise_by_pair_prompt,C18,AESTHETIC vs BASE,wins_BASE,25
+pairwise_by_pair_prompt,C18,AESTHETIC vs BASE,ties,3
+pairwise_by_pair_prompt,C18,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.342105
+pairwise_by_pair_prompt,C18,AESTHETIC vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,C18,AESTHETIC vs CONTROL,wins_AESTHETIC,10
+pairwise_by_pair_prompt,C18,AESTHETIC vs CONTROL,wins_CONTROL,26
+pairwise_by_pair_prompt,C18,AESTHETIC vs CONTROL,ties,3
+pairwise_by_pair_prompt,C18,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.277778
+pairwise_by_pair_prompt,C18,BASE vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,C18,BASE vs CONTROL,wins_BASE,20
+pairwise_by_pair_prompt,C18,BASE vs CONTROL,wins_CONTROL,16
+pairwise_by_pair_prompt,C18,BASE vs CONTROL,ties,4
+pairwise_by_pair_prompt,C18,BASE vs CONTROL,win_rate_BASE_excl_ties,0.555556
+pairwise_by_pair_prompt,C19,AESTHETIC vs BASE,comparisons,41
+pairwise_by_pair_prompt,C19,AESTHETIC vs BASE,wins_AESTHETIC,21
+pairwise_by_pair_prompt,C19,AESTHETIC vs BASE,wins_BASE,14
+pairwise_by_pair_prompt,C19,AESTHETIC vs BASE,ties,6
+pairwise_by_pair_prompt,C19,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.6
+pairwise_by_pair_prompt,C19,AESTHETIC vs CONTROL,comparisons,40
+pairwise_by_pair_prompt,C19,AESTHETIC vs CONTROL,wins_AESTHETIC,17
+pairwise_by_pair_prompt,C19,AESTHETIC vs CONTROL,wins_CONTROL,22
+pairwise_by_pair_prompt,C19,AESTHETIC vs CONTROL,ties,1
+pairwise_by_pair_prompt,C19,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.435897
+pairwise_by_pair_prompt,C19,BASE vs CONTROL,comparisons,41
+pairwise_by_pair_prompt,C19,BASE vs CONTROL,wins_BASE,18
+pairwise_by_pair_prompt,C19,BASE vs CONTROL,wins_CONTROL,19
+pairwise_by_pair_prompt,C19,BASE vs CONTROL,ties,4
+pairwise_by_pair_prompt,C19,BASE vs CONTROL,win_rate_BASE_excl_ties,0.486486
+pairwise_by_pair_prompt,C20,AESTHETIC vs BASE,comparisons,42
+pairwise_by_pair_prompt,C20,AESTHETIC vs BASE,wins_AESTHETIC,17
+pairwise_by_pair_prompt,C20,AESTHETIC vs BASE,wins_BASE,16
+pairwise_by_pair_prompt,C20,AESTHETIC vs BASE,ties,9
+pairwise_by_pair_prompt,C20,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.515152
+pairwise_by_pair_prompt,C20,AESTHETIC vs CONTROL,comparisons,39
+pairwise_by_pair_prompt,C20,AESTHETIC vs CONTROL,wins_AESTHETIC,18
+pairwise_by_pair_prompt,C20,AESTHETIC vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,C20,AESTHETIC vs CONTROL,ties,7
+pairwise_by_pair_prompt,C20,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.5625
+pairwise_by_pair_prompt,C20,BASE vs CONTROL,comparisons,38
+pairwise_by_pair_prompt,C20,BASE vs CONTROL,wins_BASE,15
+pairwise_by_pair_prompt,C20,BASE vs CONTROL,wins_CONTROL,14
+pairwise_by_pair_prompt,C20,BASE vs CONTROL,ties,9
+pairwise_by_pair_prompt,C20,BASE vs CONTROL,win_rate_BASE_excl_ties,0.517241
+pairwise_by_pair_expertise,1,AESTHETIC vs BASE,comparisons,425
+pairwise_by_pair_expertise,1,AESTHETIC vs BASE,wins_AESTHETIC,166
+pairwise_by_pair_expertise,1,AESTHETIC vs BASE,wins_BASE,172
+pairwise_by_pair_expertise,1,AESTHETIC vs BASE,ties,87
+pairwise_by_pair_expertise,1,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.491124
+pairwise_by_pair_expertise,1,AESTHETIC vs CONTROL,comparisons,433
+pairwise_by_pair_expertise,1,AESTHETIC vs CONTROL,wins_AESTHETIC,158
+pairwise_by_pair_expertise,1,AESTHETIC vs CONTROL,wins_CONTROL,175
+pairwise_by_pair_expertise,1,AESTHETIC vs CONTROL,ties,100
+pairwise_by_pair_expertise,1,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.474474
+pairwise_by_pair_expertise,1,BASE vs CONTROL,comparisons,401
+pairwise_by_pair_expertise,1,BASE vs CONTROL,wins_BASE,151
+pairwise_by_pair_expertise,1,BASE vs CONTROL,wins_CONTROL,164
+pairwise_by_pair_expertise,1,BASE vs CONTROL,ties,86
+pairwise_by_pair_expertise,1,BASE vs CONTROL,win_rate_BASE_excl_ties,0.479365
+pairwise_by_pair_expertise,2,AESTHETIC vs BASE,comparisons,345
+pairwise_by_pair_expertise,2,AESTHETIC vs BASE,wins_AESTHETIC,169
+pairwise_by_pair_expertise,2,AESTHETIC vs BASE,wins_BASE,145
+pairwise_by_pair_expertise,2,AESTHETIC vs BASE,ties,31
+pairwise_by_pair_expertise,2,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.538217
+pairwise_by_pair_expertise,2,AESTHETIC vs CONTROL,comparisons,368
+pairwise_by_pair_expertise,2,AESTHETIC vs CONTROL,wins_AESTHETIC,185
+pairwise_by_pair_expertise,2,AESTHETIC vs CONTROL,wins_CONTROL,149
+pairwise_by_pair_expertise,2,AESTHETIC vs CONTROL,ties,34
+pairwise_by_pair_expertise,2,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.553892
+pairwise_by_pair_expertise,2,BASE vs CONTROL,comparisons,367
+pairwise_by_pair_expertise,2,BASE vs CONTROL,wins_BASE,190
+pairwise_by_pair_expertise,2,BASE vs CONTROL,wins_CONTROL,146
+pairwise_by_pair_expertise,2,BASE vs CONTROL,ties,31
+pairwise_by_pair_expertise,2,BASE vs CONTROL,win_rate_BASE_excl_ties,0.565476
+pairwise_by_pair_expertise,3,AESTHETIC vs BASE,comparisons,254
+pairwise_by_pair_expertise,3,AESTHETIC vs BASE,wins_AESTHETIC,103
+pairwise_by_pair_expertise,3,AESTHETIC vs BASE,wins_BASE,118
+pairwise_by_pair_expertise,3,AESTHETIC vs BASE,ties,33
+pairwise_by_pair_expertise,3,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.466063
+pairwise_by_pair_expertise,3,AESTHETIC vs CONTROL,comparisons,260
+pairwise_by_pair_expertise,3,AESTHETIC vs CONTROL,wins_AESTHETIC,124
+pairwise_by_pair_expertise,3,AESTHETIC vs CONTROL,wins_CONTROL,112
+pairwise_by_pair_expertise,3,AESTHETIC vs CONTROL,ties,24
+pairwise_by_pair_expertise,3,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.525424
+pairwise_by_pair_expertise,3,BASE vs CONTROL,comparisons,264
+pairwise_by_pair_expertise,3,BASE vs CONTROL,wins_BASE,131
+pairwise_by_pair_expertise,3,BASE vs CONTROL,wins_CONTROL,103
+pairwise_by_pair_expertise,3,BASE vs CONTROL,ties,30
+pairwise_by_pair_expertise,3,BASE vs CONTROL,win_rate_BASE_excl_ties,0.559829
+pairwise_by_pair_expertise,4,AESTHETIC vs BASE,comparisons,252
+pairwise_by_pair_expertise,4,AESTHETIC vs BASE,wins_AESTHETIC,112
+pairwise_by_pair_expertise,4,AESTHETIC vs BASE,wins_BASE,104
+pairwise_by_pair_expertise,4,AESTHETIC vs BASE,ties,36
+pairwise_by_pair_expertise,4,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.518519
+pairwise_by_pair_expertise,4,AESTHETIC vs CONTROL,comparisons,243
+pairwise_by_pair_expertise,4,AESTHETIC vs CONTROL,wins_AESTHETIC,93
+pairwise_by_pair_expertise,4,AESTHETIC vs CONTROL,wins_CONTROL,114
+pairwise_by_pair_expertise,4,AESTHETIC vs CONTROL,ties,36
+pairwise_by_pair_expertise,4,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.449275
+pairwise_by_pair_expertise,4,BASE vs CONTROL,comparisons,284
+pairwise_by_pair_expertise,4,BASE vs CONTROL,wins_BASE,138
+pairwise_by_pair_expertise,4,BASE vs CONTROL,wins_CONTROL,102
+pairwise_by_pair_expertise,4,BASE vs CONTROL,ties,44
+pairwise_by_pair_expertise,4,BASE vs CONTROL,win_rate_BASE_excl_ties,0.575
+pairwise_by_pair_expertise,5,AESTHETIC vs BASE,comparisons,292
+pairwise_by_pair_expertise,5,AESTHETIC vs BASE,wins_AESTHETIC,119
+pairwise_by_pair_expertise,5,AESTHETIC vs BASE,wins_BASE,133
+pairwise_by_pair_expertise,5,AESTHETIC vs BASE,ties,40
+pairwise_by_pair_expertise,5,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.472222
+pairwise_by_pair_expertise,5,AESTHETIC vs CONTROL,comparisons,275
+pairwise_by_pair_expertise,5,AESTHETIC vs CONTROL,wins_AESTHETIC,117
+pairwise_by_pair_expertise,5,AESTHETIC vs CONTROL,wins_CONTROL,93
+pairwise_by_pair_expertise,5,AESTHETIC vs CONTROL,ties,65
+pairwise_by_pair_expertise,5,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.557143
+pairwise_by_pair_expertise,5,BASE vs CONTROL,comparisons,273
+pairwise_by_pair_expertise,5,BASE vs CONTROL,wins_BASE,118
+pairwise_by_pair_expertise,5,BASE vs CONTROL,wins_CONTROL,106
+pairwise_by_pair_expertise,5,BASE vs CONTROL,ties,49
+pairwise_by_pair_expertise,5,BASE vs CONTROL,win_rate_BASE_excl_ties,0.526786
+pairwise_by_pair_role,Architect,AESTHETIC vs BASE,comparisons,533
+pairwise_by_pair_role,Architect,AESTHETIC vs BASE,wins_AESTHETIC,219
+pairwise_by_pair_role,Architect,AESTHETIC vs BASE,wins_BASE,249
+pairwise_by_pair_role,Architect,AESTHETIC vs BASE,ties,65
+pairwise_by_pair_role,Architect,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.467949
+pairwise_by_pair_role,Architect,AESTHETIC vs CONTROL,comparisons,529
+pairwise_by_pair_role,Architect,AESTHETIC vs CONTROL,wins_AESTHETIC,233
+pairwise_by_pair_role,Architect,AESTHETIC vs CONTROL,wins_CONTROL,223
+pairwise_by_pair_role,Architect,AESTHETIC vs CONTROL,ties,73
+pairwise_by_pair_role,Architect,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.510965
+pairwise_by_pair_role,Architect,BASE vs CONTROL,comparisons,557
+pairwise_by_pair_role,Architect,BASE vs CONTROL,wins_BASE,262
+pairwise_by_pair_role,Architect,BASE vs CONTROL,wins_CONTROL,213
+pairwise_by_pair_role,Architect,BASE vs CONTROL,ties,82
+pairwise_by_pair_role,Architect,BASE vs CONTROL,win_rate_BASE_excl_ties,0.551579
+pairwise_by_pair_role,ArchitectureStudent,AESTHETIC vs BASE,comparisons,151
+pairwise_by_pair_role,ArchitectureStudent,AESTHETIC vs BASE,wins_AESTHETIC,82
+pairwise_by_pair_role,ArchitectureStudent,AESTHETIC vs BASE,wins_BASE,54
+pairwise_by_pair_role,ArchitectureStudent,AESTHETIC vs BASE,ties,15
+pairwise_by_pair_role,ArchitectureStudent,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.602941
+pairwise_by_pair_role,ArchitectureStudent,AESTHETIC vs CONTROL,comparisons,157
+pairwise_by_pair_role,ArchitectureStudent,AESTHETIC vs CONTROL,wins_AESTHETIC,88
+pairwise_by_pair_role,ArchitectureStudent,AESTHETIC vs CONTROL,wins_CONTROL,62
+pairwise_by_pair_role,ArchitectureStudent,AESTHETIC vs CONTROL,ties,7
+pairwise_by_pair_role,ArchitectureStudent,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.586667
+pairwise_by_pair_role,ArchitectureStudent,BASE vs CONTROL,comparisons,142
+pairwise_by_pair_role,ArchitectureStudent,BASE vs CONTROL,wins_BASE,78
+pairwise_by_pair_role,ArchitectureStudent,BASE vs CONTROL,wins_CONTROL,55
+pairwise_by_pair_role,ArchitectureStudent,BASE vs CONTROL,ties,9
+pairwise_by_pair_role,ArchitectureStudent,BASE vs CONTROL,win_rate_BASE_excl_ties,0.586466
+pairwise_by_pair_role,ConstructionProfessional,AESTHETIC vs BASE,comparisons,23
+pairwise_by_pair_role,ConstructionProfessional,AESTHETIC vs BASE,wins_AESTHETIC,8
+pairwise_by_pair_role,ConstructionProfessional,AESTHETIC vs BASE,wins_BASE,15
+pairwise_by_pair_role,ConstructionProfessional,AESTHETIC vs BASE,ties,0
+pairwise_by_pair_role,ConstructionProfessional,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.347826
+pairwise_by_pair_role,ConstructionProfessional,AESTHETIC vs CONTROL,comparisons,37
+pairwise_by_pair_role,ConstructionProfessional,AESTHETIC vs CONTROL,wins_AESTHETIC,20
+pairwise_by_pair_role,ConstructionProfessional,AESTHETIC vs CONTROL,wins_CONTROL,16
+pairwise_by_pair_role,ConstructionProfessional,AESTHETIC vs CONTROL,ties,1
+pairwise_by_pair_role,ConstructionProfessional,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.555556
+pairwise_by_pair_role,ConstructionProfessional,BASE vs CONTROL,comparisons,29
+pairwise_by_pair_role,ConstructionProfessional,BASE vs CONTROL,wins_BASE,15
+pairwise_by_pair_role,ConstructionProfessional,BASE vs CONTROL,wins_CONTROL,12
+pairwise_by_pair_role,ConstructionProfessional,BASE vs CONTROL,ties,2
+pairwise_by_pair_role,ConstructionProfessional,BASE vs CONTROL,win_rate_BASE_excl_ties,0.555556
+pairwise_by_pair_role,CreativeProfessional,AESTHETIC vs BASE,comparisons,73
+pairwise_by_pair_role,CreativeProfessional,AESTHETIC vs BASE,wins_AESTHETIC,23
+pairwise_by_pair_role,CreativeProfessional,AESTHETIC vs BASE,wins_BASE,31
+pairwise_by_pair_role,CreativeProfessional,AESTHETIC vs BASE,ties,19
+pairwise_by_pair_role,CreativeProfessional,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.425926
+pairwise_by_pair_role,CreativeProfessional,AESTHETIC vs CONTROL,comparisons,70
+pairwise_by_pair_role,CreativeProfessional,AESTHETIC vs CONTROL,wins_AESTHETIC,28
+pairwise_by_pair_role,CreativeProfessional,AESTHETIC vs CONTROL,wins_CONTROL,22
+pairwise_by_pair_role,CreativeProfessional,AESTHETIC vs CONTROL,ties,20
+pairwise_by_pair_role,CreativeProfessional,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.56
+pairwise_by_pair_role,CreativeProfessional,BASE vs CONTROL,comparisons,67
+pairwise_by_pair_role,CreativeProfessional,BASE vs CONTROL,wins_BASE,38
+pairwise_by_pair_role,CreativeProfessional,BASE vs CONTROL,wins_CONTROL,17
+pairwise_by_pair_role,CreativeProfessional,BASE vs CONTROL,ties,12
+pairwise_by_pair_role,CreativeProfessional,BASE vs CONTROL,win_rate_BASE_excl_ties,0.690909
+pairwise_by_pair_role,Designer,AESTHETIC vs BASE,comparisons,6
+pairwise_by_pair_role,Designer,AESTHETIC vs BASE,wins_AESTHETIC,1
+pairwise_by_pair_role,Designer,AESTHETIC vs BASE,wins_BASE,5
+pairwise_by_pair_role,Designer,AESTHETIC vs BASE,ties,0
+pairwise_by_pair_role,Designer,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.166667
+pairwise_by_pair_role,Designer,AESTHETIC vs CONTROL,comparisons,13
+pairwise_by_pair_role,Designer,AESTHETIC vs CONTROL,wins_AESTHETIC,6
+pairwise_by_pair_role,Designer,AESTHETIC vs CONTROL,wins_CONTROL,6
+pairwise_by_pair_role,Designer,AESTHETIC vs CONTROL,ties,1
+pairwise_by_pair_role,Designer,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.5
+pairwise_by_pair_role,Designer,BASE vs CONTROL,comparisons,11
+pairwise_by_pair_role,Designer,BASE vs CONTROL,wins_BASE,6
+pairwise_by_pair_role,Designer,BASE vs CONTROL,wins_CONTROL,3
+pairwise_by_pair_role,Designer,BASE vs CONTROL,ties,2
+pairwise_by_pair_role,Designer,BASE vs CONTROL,win_rate_BASE_excl_ties,0.666667
+pairwise_by_pair_role,Engineer,AESTHETIC vs BASE,comparisons,70
+pairwise_by_pair_role,Engineer,AESTHETIC vs BASE,wins_AESTHETIC,42
+pairwise_by_pair_role,Engineer,AESTHETIC vs BASE,wins_BASE,18
+pairwise_by_pair_role,Engineer,AESTHETIC vs BASE,ties,10
+pairwise_by_pair_role,Engineer,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.7
+pairwise_by_pair_role,Engineer,AESTHETIC vs CONTROL,comparisons,56
+pairwise_by_pair_role,Engineer,AESTHETIC vs CONTROL,wins_AESTHETIC,15
+pairwise_by_pair_role,Engineer,AESTHETIC vs CONTROL,wins_CONTROL,33
+pairwise_by_pair_role,Engineer,AESTHETIC vs CONTROL,ties,8
+pairwise_by_pair_role,Engineer,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.3125
+pairwise_by_pair_role,Engineer,BASE vs CONTROL,comparisons,54
+pairwise_by_pair_role,Engineer,BASE vs CONTROL,wins_BASE,23
+pairwise_by_pair_role,Engineer,BASE vs CONTROL,wins_CONTROL,25
+pairwise_by_pair_role,Engineer,BASE vs CONTROL,ties,6
+pairwise_by_pair_role,Engineer,BASE vs CONTROL,win_rate_BASE_excl_ties,0.479167
+pairwise_by_pair_role,NonExpert,AESTHETIC vs BASE,comparisons,521
+pairwise_by_pair_role,NonExpert,AESTHETIC vs BASE,wins_AESTHETIC,206
+pairwise_by_pair_role,NonExpert,AESTHETIC vs BASE,wins_BASE,215
+pairwise_by_pair_role,NonExpert,AESTHETIC vs BASE,ties,100
+pairwise_by_pair_role,NonExpert,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.489311
+pairwise_by_pair_role,NonExpert,AESTHETIC vs CONTROL,comparisons,543
+pairwise_by_pair_role,NonExpert,AESTHETIC vs CONTROL,wins_AESTHETIC,214
+pairwise_by_pair_role,NonExpert,AESTHETIC vs CONTROL,wins_CONTROL,210
+pairwise_by_pair_role,NonExpert,AESTHETIC vs CONTROL,ties,119
+pairwise_by_pair_role,NonExpert,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.504717
+pairwise_by_pair_role,NonExpert,BASE vs CONTROL,comparisons,525
+pairwise_by_pair_role,NonExpert,BASE vs CONTROL,wins_BASE,220
+pairwise_by_pair_role,NonExpert,BASE vs CONTROL,wins_CONTROL,205
+pairwise_by_pair_role,NonExpert,BASE vs CONTROL,ties,100
+pairwise_by_pair_role,NonExpert,BASE vs CONTROL,win_rate_BASE_excl_ties,0.517647
+pairwise_by_pair_role,Other,AESTHETIC vs BASE,comparisons,191
+pairwise_by_pair_role,Other,AESTHETIC vs BASE,wins_AESTHETIC,88
+pairwise_by_pair_role,Other,AESTHETIC vs BASE,wins_BASE,85
+pairwise_by_pair_role,Other,AESTHETIC vs BASE,ties,18
+pairwise_by_pair_role,Other,AESTHETIC vs BASE,win_rate_AESTHETIC_excl_ties,0.508671
+pairwise_by_pair_role,Other,AESTHETIC vs CONTROL,comparisons,174
+pairwise_by_pair_role,Other,AESTHETIC vs CONTROL,wins_AESTHETIC,73
+pairwise_by_pair_role,Other,AESTHETIC vs CONTROL,wins_CONTROL,71
+pairwise_by_pair_role,Other,AESTHETIC vs CONTROL,ties,30
+pairwise_by_pair_role,Other,AESTHETIC vs CONTROL,win_rate_AESTHETIC_excl_ties,0.506944
+pairwise_by_pair_role,Other,BASE vs CONTROL,comparisons,204
+pairwise_by_pair_role,Other,BASE vs CONTROL,wins_BASE,86
+pairwise_by_pair_role,Other,BASE vs CONTROL,wins_CONTROL,91
+pairwise_by_pair_role,Other,BASE vs CONTROL,ties,27
+pairwise_by_pair_role,Other,BASE vs CONTROL,win_rate_BASE_excl_ties,0.485876
+pairwise_position,all,,left_chosen,1979
+pairwise_position,all,,right_chosen,2031
+pairwise_position,all,,ties,726

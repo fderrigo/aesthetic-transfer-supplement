@@ -1,0 +1,52 @@
+# Information and consent shown to participants (version 1.0)
+
+## English
+
+Purpose of the research
+This study investigates how people judge the aesthetic quality of architecture. Your judgements will help select images used to adapt an image-generation model, and later to evaluate its results.
+
+Anonymous participation
+We do not ask for your name, e-mail, telephone or address, and we do not store your IP address. You will receive an anonymous code that allows you to resume the evaluation.
+
+Freedom to stop
+Participation is voluntary. You may stop at any moment without giving any reason.
+
+No right or wrong answers
+There are no right or wrong answers: we are interested in your personal judgement.
+
+Data processing
+We record only your answers, their timing, and the minimal profile you choose to provide (age range, professional role, self-assessed expertise). Data are used exclusively for scientific research and may be published in aggregated or anonymous form.
+
+## Italiano
+
+Finalità della ricerca
+Lo studio indaga come le persone giudicano la qualità estetica dell'architettura. I tuoi giudizi aiuteranno a selezionare le immagini usate per adattare un modello di generazione di immagini e, successivamente, a valutarne i risultati.
+
+Partecipazione anonima
+Non chiediamo nome, e-mail, telefono o indirizzo e non registriamo il tuo indirizzo IP. Riceverai un codice anonimo che ti permette di riprendere la valutazione.
+
+Libertà di interrompere
+La partecipazione è volontaria. Puoi interrompere in qualsiasi momento senza fornire motivazioni.
+
+Nessuna risposta giusta o sbagliata
+Non esistono risposte giuste o sbagliate: ci interessa il tuo giudizio personale.
+
+Trattamento dei dati
+Registriamo soltanto le tue risposte, i tempi di risposta e il profilo minimo che scegli di indicare (fascia d'età, ruolo professionale, competenza autovalutata). I dati sono utilizzati esclusivamente per la ricerca scientifica e potranno essere pubblicati in forma aggregata o anonima.
+
+## Español
+
+Finalidad de la investigación
+Este estudio analiza cómo las personas juzgan la calidad estética de la arquitectura. Tus valoraciones ayudarán a seleccionar las imágenes utilizadas para adaptar un modelo de generación de imágenes y, posteriormente, a evaluar sus resultados.
+
+Participación anónima
+No pedimos tu nombre, correo electrónico, teléfono ni dirección, y no guardamos tu dirección IP. Recibirás un código anónimo que te permitirá retomar la evaluación.
+
+Libertad para interrumpir
+La participación es voluntaria. Puedes interrumpirla en cualquier momento sin dar explicaciones.
+
+No hay respuestas correctas o incorrectas
+No existen respuestas correctas ni incorrectas: nos interesa tu juicio personal.
+
+Tratamiento de los datos
+Registramos únicamente tus respuestas, sus tiempos y el perfil mínimo que decidas indicar (franja de edad, rol profesional, experiencia autoevaluada). Los datos se utilizan exclusivamente para la investigación científica y podrán publicarse de forma agregada o anónima.

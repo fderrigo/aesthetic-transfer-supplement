@@ -1,0 +1,141 @@
+{
+ "protocolVersion": 4,
+ "protocolFrozenAt": "2026-09-25T14:20:57.9436513",
+ "configuration": {
+  "evaluationMode": "BalancedIncompleteEvaluation",
+  "itemsPerSession": 150,
+  "targetRatingsPerImage": 15,
+  "postTrainingTargetParticipants": 100,
+  "postTrainingItemsPerSession": 60,
+  "pairwiseTrialsPerSession": 30,
+  "postTrainingTaskOrder": "Counterbalanced",
+  "allowPreTrainingParticipantsInPostTraining": true,
+  "pairwiseSameSeedOnly": true,
+  "extensionAnchorShare": 0.34,
+  "fastResponseThresholdMs": 800,
+  "scaleMin": 1,
+  "scaleMax": 7,
+  "preTrainingQuestion": {
+   "en": "How aesthetically successful do you consider this architecture?",
+   "it": "Quanto giudichi esteticamente riuscita questa architettura?",
+   "es": "¿En qué medida consideras estéticamente lograda esta arquitectura?"
+  },
+  "postTrainingQuestion": {
+   "en": "How aesthetically successful do you consider this architectural proposal?",
+   "it": "Quanto giudichi esteticamente riuscita questa proposta architettonica?",
+   "es": "¿En qué medida consideras estéticamente lograda esta propuesta arquitectónica?"
+  },
+  "pairwiseQuestion": {
+   "en": "Which of the two proposals do you consider aesthetically better?",
+   "it": "Quale delle due proposte consideri esteticamente migliore?",
+   "es": "¿Cuál de las dos propuestas consideras estéticamente mejor?"
+  },
+  "scaleMinLabel": {
+   "en": "Not at all",
+   "it": "Per nulla",
+   "es": "En absoluto"
+  },
+  "scaleMaxLabel": {
+   "en": "Extremely",
+   "it": "Estremamente",
+   "es": "Extremadamente"
+  },
+  "forbiddenCaptionTerms": [
+   "beautiful",
+   "masterpiece",
+   "stunning",
+   "aesthetic",
+   "award-winning"
+  ]
+ },
+ "statusHistory": [
+  {
+   "createdAt": "2026-09-25T14:20:58.0155069",
+   "beforeJson": "{\"status\":\"Draft\"}",
+   "afterJson": "{\"status\":\"PreTrainingCollection\"}",
+   "reason": "Avviamo Raccolata",
+   "userName": "staff"
+  },
+  {
+   "createdAt": "2026-09-27T13:35:34.7759567",
+   "beforeJson": "{\"status\":\"PreTrainingCollection\"}",
+   "afterJson": "{\"status\":\"PreTrainingClosed\"}",
+   "reason": "pretraining chiuso",
+   "userName": "staff"
+  },
+  {
+   "createdAt": "2026-09-27T20:45:27.388909",
+   "beforeJson": "{\"status\":\"PreTrainingClosed\"}",
+   "afterJson": "{\"status\":\"PreTrainingCollection\"}",
+   "reason": "finito",
+   "userName": "staff"
+  },
+  {
+   "createdAt": "2026-09-27T20:46:45.3868775",
+   "beforeJson": "{\"status\":\"PreTrainingCollection\"}",
+   "afterJson": "{\"status\":\"PreTrainingClosed\"}",
+   "reason": "finito",
+   "userName": "staff"
+  },
+  {
+   "createdAt": "2026-09-27T21:30:08.7181892",
+   "beforeJson": "{\"status\":\"PreTrainingClosed\"}",
+   "afterJson": "{\"status\":\"DatasetSelection\"}",
+   "reason": "finito",
+   "userName": "staff"
+  },
+  {
+   "createdAt": "2026-09-27T21:55:48.9332604",
+   "beforeJson": "{\"status\":\"DatasetSelection\"}",
+   "afterJson": "{\"status\":\"Training\"}",
+   "reason": "VADO",
+   "userName": "staff"
+  },
+  {
+   "createdAt": "2026-09-28T15:31:59.7546375",
+   "beforeJson": "{\"status\":\"Training\"}",
+   "afterJson": "{\"status\":\"PostTrainingCollection\"}",
+   "reason": null,
+   "userName": "staff"
+  },
+  {
+   "createdAt": "2026-10-01T12:52:27.5110673",
+   "beforeJson": "{\"status\":\"PostTrainingCollection\"}",
+   "afterJson": "{\"status\":\"Analysis\"}",
+   "reason": null,
+   "userName": "staff"
+  }
+ ],
+ "protocolChanges": [
+  {
+   "createdAt": "2026-09-25T14:17:36.255334",
+   "action": "experiment.protocol_changed",
+   "reason": "Calibrated for a pool of 30-50 participants",
+   "userName": "staff"
+  },
+  {
+   "createdAt": "2026-09-25T14:20:57.9555401",
+   "action": "experiment.protocol_frozen",
+   "reason": null,
+   "userName": "staff"
+  },
+  {
+   "createdAt": "2026-09-26T13:50:07.7770686",
+   "action": "experiment.protocol_changed",
+   "reason": "penso sia sensato aggiungere",
+   "userName": "staff"
+  },
+  {
+   "createdAt": "2026-09-28T17:30:35.7776628",
+   "action": "experiment.protocol_changed",
+   "reason": "l",
+   "userName": "staff"
+  },
+  {
+   "createdAt": "2026-09-30T18:19:36.3502562",
+   "action": "experiment.protocol_changed",
+   "reason": "Reframed as a pilot study: Investigating Aesthetic Transfer in Generative Models for Architectural Design.",
+   "userName": "staff"
+  }
+ ]
+}

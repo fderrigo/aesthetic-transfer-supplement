@@ -1,0 +1,58 @@
+{
+ "draw_seed": 20261004,
+ "training_seeds": {
+  "A": 1254,
+  "B": 9865,
+  "C": 42160
+ },
+ "original_runs": [
+  {
+   "code": "RUN-AESTHETIC-4",
+   "dataset": "AESTHETIC-v2",
+   "seed": 1254
+  },
+  {
+   "code": "RUN-CONTROL-4",
+   "dataset": "CONTROL-v2",
+   "seed": 9865
+  }
+ ],
+ "training_order": [
+  {
+   "position": 1,
+   "code": "REP-CTL-S42160",
+   "dataset": "CONTROL-v2",
+   "seed": 42160
+  },
+  {
+   "position": 2,
+   "code": "REP-AES-S9865",
+   "dataset": "AESTHETIC-v2",
+   "seed": 9865
+  },
+  {
+   "position": 3,
+   "code": "REP-AES-S42160",
+   "dataset": "AESTHETIC-v2",
+   "seed": 42160
+  },
+  {
+   "position": 4,
+   "code": "REP-CTL-S1254",
+   "dataset": "CONTROL-v2",
+   "seed": 1254
+  }
+ ],
+ "optional_determinism_run": {
+  "code": "REP-AES-S1254-R",
+  "dataset": "AESTHETIC-v2",
+  "seed": 1254,
+  "after_position": 4
+ },
+ "generation_seeds": [
+  7,
+  85,
+  6127,
+  25478
+ ]
+}

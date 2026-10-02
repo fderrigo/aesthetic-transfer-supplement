@@ -1,0 +1,102 @@
+analysis,quantity,estimate,ci_low,ci_high,n
+1. cross-validated R² of the affinity,photography,0.10376642165246464,0.0484549036193585,0.1542124801145629,600.0
+1. unique part (all four blocks minus the three others),photography,0.006547294139558901,,,600.0
+1. cross-validated R² of the affinity,framing and scene,0.2082437683370898,0.14442056066647452,0.2655207479405203,600.0
+1. unique part (all four blocks minus the three others),framing and scene,0.02445342984069121,,,600.0
+1. cross-validated R² of the affinity,architectural content,0.49579840831089583,0.4369909737920217,0.5457252692358552,600.0
+1. unique part (all four blocks minus the three others),architectural content,0.1861097342784549,,,600.0
+1. cross-validated R² of the affinity,catalogue metadata,0.25273056357505397,0.1887207934397008,0.30679635606792216,600.0
+1. unique part (all four blocks minus the three others),catalogue metadata,0.037259545747883815,,,600.0
+1. cross-validated R² of the affinity,photography + framing and scene,0.2732662331858956,0.20803314565949865,0.3336972537500627,600.0
+1. cross-validated R² of the affinity,image-derived (three blocks),0.5458980862310698,0.49208345244898394,0.5938918377921416,600.0
+1. cross-validated R² of the affinity,all four blocks,0.5831576319789536,0.5306264494102856,0.6304608673425895,600.0
+1. cross-validated R² of the affinity,"CLIP 'elegant vs ugly' alone (a judgement, not in the blocks)",-0.004757880526790492,-0.0184606132593614,0.00462739876098791,600.0
+2. share of the AESTHETIC − CONTROL gap accounted for (model fitted on the other photographs),photography,0.07810069219026268,-0.03782927689575074,0.18708965973049863,178.0
+2. share of the AESTHETIC − CONTROL gap accounted for (model fitted on the other photographs),framing and scene,0.3298139964921541,0.19329688283741564,0.5037244255949451,178.0
+2. share of the AESTHETIC − CONTROL gap accounted for (model fitted on the other photographs),architectural content,0.5738478244149972,0.43322370977398517,0.7595216579386239,178.0
+2. share of the AESTHETIC − CONTROL gap accounted for (model fitted on the other photographs),catalogue metadata,0.2110947218262714,0.051984045971258545,0.35688455866989627,178.0
+2. share of the AESTHETIC − CONTROL gap accounted for (model fitted on the other photographs),photography + framing and scene,0.3465851440966267,0.21183478486372703,0.5142182784874824,178.0
+2. share of the AESTHETIC − CONTROL gap accounted for (model fitted on the other photographs),image-derived (three blocks),0.6239551816198976,0.4749081082078671,0.8163174883036329,178.0
+2. share of the AESTHETIC − CONTROL gap accounted for (model fitted on the other photographs),all four blocks,0.648048133196521,0.49582065564946814,0.8462142919868649,178.0
+2. share of the AESTHETIC − CONTROL gap accounted for (model fitted on the other photographs),CLIP 'elegant vs ugly' alone (not in the blocks),0.0219562212290862,0.007546140356614869,0.042700691153793054,178.0
+3. residual direction,"share of the variance of the embeddings predictable from the image-derived covariates (cross-validated, photographs of neither set)",0.09019549702147112,,,422.0
+3. residual direction,length of the direction: original,0.2352287934639978,,,
+3. residual direction,length of the direction: after removing the predictable part,0.16648554917603667,,,
+3. residual direction,cosine between original and residual direction,0.8460777575918884,,,
+3. residual direction,"direction vs mean rating, photographs of neither set (Spearman): original",0.39312089535713246,,,422.0
+3. residual direction,"direction vs mean rating, photographs of neither set (Spearman): residual",0.2426488695014369,,,422.0
+"3. generated images, AESTHETIC − CONTROL along the original direction",training seed A,0.04350469479490654,0.027830128734709265,0.06093252275320684,192.0
+"3. generated images, AESTHETIC − CONTROL along the residual direction",training seed A,0.018623374549104846,0.00607403419648328,0.032513922185747536,192.0
+"3. generated images, part of the contrast along the original direction carried by the covariate-predictable part",training seed A,0.0166124509007505,0.0042960820578540355,0.029888640622191393,192.0
+"3. generated images, AESTHETIC − CONTROL along the original direction",training seed B,0.04124967010370402,0.02543840114214079,0.05836740631272132,192.0
+"3. generated images, AESTHETIC − CONTROL along the residual direction",training seed B,0.007990468776240841,-0.0036853943575605283,0.019443410005574334,192.0
+"3. generated images, part of the contrast along the original direction carried by the covariate-predictable part",training seed B,0.03865526486954807,0.026190812098860473,0.051681076754922076,192.0
+"3. generated images, AESTHETIC − CONTROL along the original direction",training seed C,0.05044890041669466,0.035326348930219756,0.06742289323887135,192.0
+"3. generated images, AESTHETIC − CONTROL along the residual direction",training seed C,0.02687329901867901,0.016143392373244914,0.03819135358558883,192.0
+"3. generated images, part of the contrast along the original direction carried by the covariate-predictable part",training seed C,0.026403373322430434,0.012348780183399865,0.040358291372778146,192.0
+4. profile of the covariates: photographs vs generated images (Pearson r across covariates),31 image-derived covariates,0.7065928651547291,0.5599977597398383,0.8229253673939271,31.0
+4. profile of the covariates: photographs vs generated images (Spearman ρ across covariates),31 image-derived covariates,0.7129032258064517,,,31.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",brightness,0.030879597275584394,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",brightness,-0.2257043086521621,-0.3490215857918947,-0.10843132960306445,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",contrast,-0.3677193735016369,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",contrast,-0.14750150732645753,-0.21043781844343093,-0.08707276267160684,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",saturation,0.22147066752925354,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",saturation,0.2816658025183226,0.1768136967227765,0.38968916471366327,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",colorfulness,0.10979278064937528,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",colorfulness,0.12363286177724882,0.08237156667302971,0.16618071888138997,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",warmth,0.05171413881606087,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",warmth,-0.1862656862433076,-0.277143080402592,-0.08765487280559507,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",sharpness,0.08036435356929642,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",sharpness,0.11250366973170023,-0.04057580139082439,0.2842315018701292,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",detail,0.026139211728726925,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",detail,0.12793315693642968,0.006718845640748776,0.25316521917350904,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",sky_brightness,-0.18850517483366575,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",sky_brightness,-0.20546915690231068,-0.27442278714299845,-0.13909278321794447,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",dark_share,-0.1309875905862796,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",dark_share,0.10127399421191946,-0.007788811828128322,0.22273280692634742,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",bright_share,-0.026445885504631658,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",bright_share,-0.06299863092439666,-0.09567336977941553,-0.03232077648422139,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",whole_building,-0.020320683558244946,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",whole_building,-0.14421083423597947,-0.2302263560601555,-0.0642806387262413,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",low_angle,0.40859202302540576,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",low_angle,0.19883333034556808,0.09814890969614405,0.30160377460091764,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",sunny,0.003609755786313243,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",sunny,0.10471867060335656,0.04610284086250482,0.1628101914829428,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",vintage_photo,-0.25748844708311985,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",vintage_photo,-0.20028621367041088,-0.3147896473045016,-0.09614932156878502,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",real_photo,0.0735312488656788,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",real_photo,0.17643508981061493,0.09015672317680919,0.26211516275111546,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",people,-0.12857126582981507,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",people,-0.16494896922416283,-0.2660680808868728,-0.06575071253473454,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",cars,-0.4116021150543639,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",cars,-0.22479896573525024,-0.3200441830596831,-0.13056311095454592,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",greenery,0.10448300376049056,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",greenery,-0.02248008629707528,-0.10096508044541287,0.054887058904618743,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",water,0.05995546736858393,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",water,0.011009264202662114,-0.06532720342338244,0.0890911026172019,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",urban,-0.25905201338263906,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",urban,-0.08672163102860993,-0.17272262932771837,-0.003130401234043924,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",interior,0.44671666038609215,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",interior,0.09085860044112086,0.008005391659807709,0.1749073838787722,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",iconic_design,0.5796568213785559,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",iconic_design,0.19079372366891503,0.10208466193668526,0.2861298448866048,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",complex_form,0.3489408109292491,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",complex_form,0.16703062168371918,0.06737819227496393,0.26914024219784494,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",curved_organic,0.6140657096226674,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",curved_organic,0.10387727387773389,0.004479008094530336,0.20990925411895772,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",monumental,0.4193442912915595,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",monumental,0.11268003457976976,0.045072280955587976,0.18210019696050914,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",contemporary,0.4303941457105465,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",contemporary,0.29007493982880445,0.2099399222320479,0.373407397830551,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",glass,0.3675324462298173,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",glass,0.09055005867077469,0.006171505688542233,0.17200304778990883,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",concrete,-0.5800146882560797,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",concrete,-0.10158427686837669,-0.16691080241505427,-0.03872350073753976,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",wood,-0.008032876883877493,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",wood,-0.1254315741631938,-0.1938974951879641,-0.054151646803649936,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",white,-0.049199955795066024,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",white,-0.08048878747455965,-0.15648599808975514,-0.0035447885985955604,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",colourful,0.11197327712496527,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",colourful,0.007581949130234041,-0.060553336290682,0.07433245391096846,192.0
+"4. covariate difference AESTHETIC − CONTROL, photographs (SD of the corpus)",elegant,0.44540093870261765,,,178.0
+"4. covariate difference AESTHETIC − CONTROL, generated images, mean of the three seeds (SD of the corpus)",elegant,0.17289744784806796,0.09157774729127605,0.2564325780109439,192.0

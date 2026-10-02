@@ -1,0 +1,97 @@
+part,analysis,embedding,estimate,ci_low,ci_high,p,n
+A,"relative source-set affinity (leave-one-out), mean AESTHETIC − mean CONTROL",cls,0.03626085749463161,0.02454694360330354,0.04751264479611804,9.999000099990002e-05,178
+A,relative source-set affinity (leave-one-out): AUC AESTHETIC vs CONTROL,cls,0.7410680469637672,,,,178
+A,"relative source-set affinity vs mean rating, all photographs (Spearman)",cls,0.4674121483582818,,,6.779887327027488e-34,600
+A,"relative source-set affinity, mean of the photographs: AESTHETIC",cls,0.030141378734417967,,,,89
+A,"relative source-set affinity, mean of the photographs: CONTROL",cls,-0.006119478760213638,,,,89
+A,"relative source-set affinity, mean of the photographs: neither set",cls,-0.01272688285234159,,,,422
+A,centroid distance AESTHETIC–CONTROL,cls,0.2352287934639978,0.2294139499036619,0.3163793343596689,9.999000099990002e-05,178
+A,"centroid distance AESTHETIC–CONTROL, permutation within building type",cls,0.2352287934639978,,,9.999000099990002e-05,178
+A,centroid distance AESTHETIC–rest of corpus (vs random subsets),cls,0.2402075932478308,,,9.999000099990002e-05,600
+A,standardised distance AESTHETIC–CONTROL (distance / pooled dispersion),cls,0.2576074535177482,,,,178
+A,dispersion AESTHETIC − CONTROL,cls,-0.015113952072216552,-0.03795820970380587,0.007369987320230572,0.1518848115188481,178
+A,"ratings predicted from embeddings, cross-validated r",cls,0.6419248199566774,,,0.004975124378109453,600
+A,"AESTHETIC vs CONTROL separable from embeddings, cross-validated AUC",cls,0.7785633127130412,,,0.004975124378109453,178
+A,"direction CONTROL→AESTHETIC vs rating, photos in neither set (Spearman)",cls,0.39312089535713246,,,4.777269270235928e-17,422
+B,shift BASE→AESTHETIC along the aesthetic direction,cls,0.044250654715614034,0.026952003558352602,0.0635209752792646,9.999000099990002e-05,159
+B,shift BASE→CONTROL along the aesthetic direction,cls,0.0013572472074793677,-0.012010847373377886,0.015512860992346564,0.5372462753724627,159
+B,AESTHETIC − CONTROL shift along the aesthetic direction,cls,0.04289340750813466,0.02746713767735251,0.05992790554065101,9.999000099990002e-05,159
+B,embedding transfer ratio (AESTHETIC − CONTROL shift / gap between the training sets),cls,0.18234760667043753,0.11676775310058463,0.2547643282021216,,159
+B,specificity: each model moves towards its own training set more than towards the other,cls,0.0591860566282521,0.03654585943798117,0.0816435504339542,9.999000099990002e-05,159
+B,"alignment difference vs rating difference AESTHETIC − CONTROL, per triplet (Spearman)",cls,0.23264568903749702,0.08878939156295762,0.3780301754478416,0.003167418111041929,159
+B,"alignment difference vs share of AESTHETIC choices, per triplet (Spearman)",cls,0.03650742816540272,-0.14522625160081273,0.2005026691522468,0.6477707336270195,159
+B,"position along the aesthetic direction vs rating, within triplet (Pearson)",cls,0.130360236795112,0.04907468334714724,0.20988747399258317,,477
+B,rating predicted by the photo-trained model vs human rating of the generated images (Spearman),cls,0.6177467908296972,,,1.5694293036355597e-51,477
+B,"same, within triplet (Pearson)",cls,0.31282111678080515,,,,477
+B,predicted rating AESTHETIC − CONTROL (photo-trained model),cls,0.10466533037788094,0.06573791127134195,0.1453122815650773,9.999000099990002e-05,159
+B,"representation transfer score per triplet (affinity AESTHETIC image − affinity CONTROL image), mean",cls,0.010089764495698103,0.006357829750831276,0.014329296260183425,9.999000099990002e-05,159
+B,"amount of shift ‖Δ‖, AESTHETIC − CONTROL",cls,-0.021061599830709956,-0.052332100007538296,0.008339297830543055,0.12908709129087093,159
+B,"direction of shift (cosine with the aesthetic direction), AESTHETIC − CONTROL",cls,0.055451854299881705,0.03530784101195599,0.07607443578861339,0.00019998000199980003,159
+B,AESTHETIC − CONTROL shift: part due to direction (equal amount),cls,0.040965367910477786,0.026746486572011174,0.05682932043712035,9.999000099990002e-05,159
+B,AESTHETIC − CONTROL shift: part due to amount (equal direction),cls,0.0019280395976568937,-0.0012570278007292296,0.005278237791626901,0.46395360463953605,159
+B,"amount difference vs rating difference AESTHETIC − CONTROL, per triplet (Spearman)",cls,0.06653331741103416,-0.06716509222663455,0.18978014889516917,0.40469952818414273,159
+B,"direction difference vs rating difference AESTHETIC − CONTROL, per triplet (Spearman)",cls,0.2362102937664199,0.08360975668241247,0.388826417926336,0.002721738757190879,159
+B,"amount difference vs share of AESTHETIC choices, per triplet (Spearman)",cls,-0.14761855180756064,-0.2885469842067318,0.007715692502153973,0.06332556641414583,159
+B,"direction difference vs share of AESTHETIC choices, per triplet (Spearman)",cls,0.03947136798329396,-0.13356203285502774,0.21887411209662463,0.6213199442055186,159
+B-sens,all generated images: shift BASE→AESTHETIC along the aesthetic direction,cls,0.04159868184911628,0.02753118354220807,0.05919085574640974,9.999000099990002e-05,192
+B-sens,all generated images: shift BASE→CONTROL along the aesthetic direction,cls,7.881407975791437e-05,-0.012282473492268428,0.012242270361500131,0.9893010698930107,192
+B-sens,all generated images: AESTHETIC − CONTROL shift along the aesthetic direction,cls,0.041519867769358364,0.027601040585968347,0.05700424101948983,9.999000099990002e-05,192
+B-sens,all generated images: embedding transfer ratio,cls,0.17650844166623272,0.11733699850053747,0.24233530334463257,,192
+B-sens,all generated images: specificity,cls,0.05740332524433637,0.03789630089653648,0.07864750331749984,9.999000099990002e-05,192
+B-sens,all generated images: amount of shift ‖Δ_A‖,cls,0.7012490996443344,,,,192
+B-sens,all generated images: amount of shift ‖Δ_C‖,cls,0.7186533706836027,,,,192
+B-sens,triplets with an image not shown to the participants: shift BASE→AESTHETIC along the aesthetic direction,cls,0.02882099440144525,0.008163196876463892,0.049608596566201486,0.0453954604539546,33
+B-sens,triplets with an image not shown to the participants: shift BASE→CONTROL along the aesthetic direction,cls,-0.006080909171990907,-0.027431229092940823,0.017036565370671924,0.6193380661933806,33
+B-sens,triplets with an image not shown to the participants: AESTHETIC − CONTROL shift along the aesthetic direction,cls,0.03490190357343616,0.015467537671952445,0.05526773497359395,0.0093990600939906,33
+B-sens,triplets with an image not shown to the participants: embedding transfer ratio,cls,0.14837428300960936,0.06575529060101981,0.23495310314573703,,33
+B-sens,triplets with an image not shown to the participants: specificity,cls,0.0488138013036515,0.022576243313382576,0.0771311624452418,0.010798920107989201,33
+B-sens,triplets with an image not shown to the participants: amount of shift ‖Δ_A‖,cls,0.8147072796373823,,,,33
+B-sens,triplets with an image not shown to the participants: amount of shift ‖Δ_C‖,cls,0.8144898755906138,,,,33
+A,"relative source-set affinity (leave-one-out), mean AESTHETIC − mean CONTROL",patch_mean,0.017457275766366794,0.010563862074776484,0.024266335408158604,9.999000099990002e-05,178
+A,relative source-set affinity (leave-one-out): AUC AESTHETIC vs CONTROL,patch_mean,0.7044565080166646,,,,178
+A,"relative source-set affinity vs mean rating, all photographs (Spearman)",patch_mean,0.4236092529711593,,,1.59010617752938e-27,600
+A,"relative source-set affinity, mean of the photographs: AESTHETIC",patch_mean,-0.005664247266577534,,,,89
+A,"relative source-set affinity, mean of the photographs: CONTROL",patch_mean,-0.02312152303294433,,,,89
+A,"relative source-set affinity, mean of the photographs: neither set",patch_mean,-0.028831386051616528,,,,422
+A,centroid distance AESTHETIC–CONTROL,patch_mean,0.1737089356781533,0.17333222607774962,0.24306066240386984,0.00029997000299970003,178
+A,"centroid distance AESTHETIC–CONTROL, permutation within building type",patch_mean,0.1737089356781533,,,9.999000099990002e-05,178
+A,centroid distance AESTHETIC–rest of corpus (vs random subsets),patch_mean,0.18294664199741187,,,9.999000099990002e-05,600
+A,standardised distance AESTHETIC–CONTROL (distance / pooled dispersion),patch_mean,0.23351128219967573,,,,178
+A,dispersion AESTHETIC − CONTROL,patch_mean,0.019316714276552682,-0.005519145578438322,0.04414451032460086,0.11338866113388661,178
+A,"ratings predicted from embeddings, cross-validated r",patch_mean,0.6091923410617343,,,,600
+A,"AESTHETIC vs CONTROL separable from embeddings, cross-validated AUC",patch_mean,0.6602701679080925,,,,178
+A,"direction CONTROL→AESTHETIC vs rating, photos in neither set (Spearman)",patch_mean,0.3371248427113088,,,1.1255287694264236e-12,422
+B,shift BASE→AESTHETIC along the aesthetic direction,patch_mean,0.04133412467310976,0.027023286396934156,0.05585635267574467,9.999000099990002e-05,159
+B,shift BASE→CONTROL along the aesthetic direction,patch_mean,-0.008828112722278708,-0.019221974267484915,0.0022626555958583216,0.32756724327567244,159
+B,AESTHETIC − CONTROL shift along the aesthetic direction,patch_mean,0.05016223739538847,0.03529449062893296,0.06477473727076234,9.999000099990002e-05,159
+B,embedding transfer ratio (AESTHETIC − CONTROL shift / gap between the training sets),patch_mean,0.2887717733089374,0.20318177928581835,0.37289237319821317,,159
+B,specificity: each model moves towards its own training set more than towards the other,patch_mean,0.06494993959208271,0.04655836934105428,0.08378031472287252,9.999000099990002e-05,159
+B,"alignment difference vs rating difference AESTHETIC − CONTROL, per triplet (Spearman)",patch_mean,0.21885299737282066,0.0754356793702423,0.36100368643904124,0.005579220666625669,159
+B,"alignment difference vs share of AESTHETIC choices, per triplet (Spearman)",patch_mean,-0.07131541126124298,-0.26360702577625117,0.12241978464429988,0.3716987426431062,159
+B,"position along the aesthetic direction vs rating, within triplet (Pearson)",patch_mean,0.1675787396173533,0.07431231700421362,0.25789744052369085,,477
+B,rating predicted by the photo-trained model vs human rating of the generated images (Spearman),patch_mean,0.5729234458447466,,,5.842339716383384e-43,477
+B,"same, within triplet (Pearson)",patch_mean,0.2938679709249208,,,,477
+B,predicted rating AESTHETIC − CONTROL (photo-trained model),patch_mean,0.11722660654736293,0.07652494575696502,0.15755529457783068,9.999000099990002e-05,159
+B,"representation transfer score per triplet (affinity AESTHETIC image − affinity CONTROL image), mean",patch_mean,0.00871362886918779,0.006188608276320123,0.011427851804521261,9.999000099990002e-05,159
+B,"amount of shift ‖Δ‖, AESTHETIC − CONTROL",patch_mean,-0.014132128936423537,-0.03565987709709883,0.006944510738563342,0.1556844315568443,159
+B,"direction of shift (cosine with the aesthetic direction), AESTHETIC − CONTROL",patch_mean,0.08690030992719791,0.06451526715171764,0.10910611698485224,9.999000099990002e-05,159
+B,AESTHETIC − CONTROL shift: part due to direction (equal amount),patch_mean,0.0493248513779806,0.0352037702385192,0.0637785715072759,9.999000099990002e-05,159
+B,AESTHETIC − CONTROL shift: part due to amount (equal direction),patch_mean,0.0008373860174078825,-0.0016134938940350803,0.003262003949397676,0.8717128287171283,159
+B,"amount difference vs rating difference AESTHETIC − CONTROL, per triplet (Spearman)",patch_mean,0.03665512299976117,-0.11308056275872284,0.1850934037929788,0.646441831848256,159
+B,"direction difference vs rating difference AESTHETIC − CONTROL, per triplet (Spearman)",patch_mean,0.21079531884404107,0.07226090978918077,0.3466880272027551,0.007651060663018559,159
+B,"amount difference vs share of AESTHETIC choices, per triplet (Spearman)",patch_mean,-0.21454709299038163,-0.3463297324402781,-0.06714968958522204,0.0066138156863014795,159
+B,"direction difference vs share of AESTHETIC choices, per triplet (Spearman)",patch_mean,-0.07820885071667132,-0.27341527594013804,0.11656792042639105,0.3271370613595568,159
+B-sens,all generated images: shift BASE→AESTHETIC along the aesthetic direction,patch_mean,0.034717789425395586,0.021581646722009164,0.050311698058036224,9.999000099990002e-05,192
+B-sens,all generated images: shift BASE→CONTROL along the aesthetic direction,patch_mean,-0.015213449714057045,-0.025221955301654563,-0.0049892419057329775,0.005599440055994401,192
+B-sens,all generated images: AESTHETIC − CONTROL shift along the aesthetic direction,patch_mean,0.04993123913945263,0.03669632093857873,0.06392786396948699,9.999000099990002e-05,192
+B-sens,all generated images: embedding transfer ratio,patch_mean,0.28744197265686366,0.21125177467306241,0.36801713003372544,,192
+B-sens,all generated images: specificity,patch_mean,0.06535756990181758,0.04894271871707315,0.08294252492642741,9.999000099990002e-05,192
+B-sens,all generated images: amount of shift ‖Δ_A‖,patch_mean,0.5783893923990094,,,,192
+B-sens,all generated images: amount of shift ‖Δ_C‖,patch_mean,0.5805459372262558,,,,192
+B-sens,triplets with an image not shown to the participants: shift BASE→AESTHETIC along the aesthetic direction,patch_mean,0.0028390832318636434,-0.022830046753712092,0.033132015187954555,0.46265373462653736,33
+B-sens,triplets with an image not shown to the participants: shift BASE→CONTROL along the aesthetic direction,patch_mean,-0.04597916431080722,-0.0655272613974308,-0.023657283482777392,0.007499250074992501,33
+B-sens,triplets with an image not shown to the participants: AESTHETIC − CONTROL shift along the aesthetic direction,patch_mean,0.04881824754267087,0.026760817510312992,0.07265595305962778,0.0010998900109989002,33
+B-sens,triplets with an image not shown to the participants: embedding transfer ratio,patch_mean,0.28103475133323585,0.1540555032810474,0.4182626113963661,,33
+B-sens,triplets with an image not shown to the participants: specificity,patch_mean,0.06732160684872197,0.04151757895239331,0.09628860691814409,0.0004999500049995,33
+B-sens,triplets with an image not shown to the participants: amount of shift ‖Δ_A‖,patch_mean,0.7256307157955166,,,,33
+B-sens,triplets with an image not shown to the participants: amount of shift ‖Δ_C‖,patch_mean,0.670086719005819,,,,33
